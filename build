@@ -1,4 +1,4 @@
 for file in *.md; do
 	FILE=$(basename "$file")
-	echo "!($FILE)[$file]"
+	echo "($FILE)[$file]"
 done

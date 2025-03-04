@@ -1,6 +1,6 @@
 # Feathering the Bass Drum | Drum Lesson with John Riley
 
-![https://youtu.be/paldJR6FlK4?si=PXwdgeBEl9tZw2vO](Original Link)
+[https://youtu.be/paldJR6FlK4?si=PXwdgeBEl9tZw2vO](Original Link)
 
 Feathering the bass drum is a concept created in the early ages of Jazz.
 
