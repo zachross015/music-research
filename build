@@ -1,4 +1,0 @@
-for file in *.md; do
-	FIL=$(basename "$file")
-	echo "[$FIL]($file)"
-done
