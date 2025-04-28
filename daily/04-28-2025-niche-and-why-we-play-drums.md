@@ -29,6 +29,7 @@ So the intention for this week: Write about a solid business plan for the
 - I learned drums because guitar wasn't an option. Why do other people pick up drums in the first place? Does anyone actually aspire to be a drummer?
 - Drummers and bassists are the most valuable instrument due to scarcity. How can this be leveraged?
 - The problems I notice with drums are my own insecurities with playing them. How can I internally resolve these things?
+- What successful musicians started playing later in life?
 
 ## Important quote 
 
@@ -41,3 +42,14 @@ So the intention for this week: Write about a solid business plan for the
 > instrument that holds down the fort its the instrument that is the most
 > important yet no one pays attention to *how can i cater this to people when
 > i hardly view it highly and see it as being so critical*
+
+---
+
+The more I hone in on the ideas here, the more I question why people pick up an
+instrument. I think it would be good to find a list of successful people who
+started playing music in their 20's. But more importantly, I think a big part
+of this is learning to understand why anyone decides to make a change in their
+later development. Why would someone all the sudden decide to pick up drums?
+Like I think there's a layer of curiosity, trying new things and seeing how it
+impacts your mind. Maybe that's all it has to be. But why else would they start
+playing? I honestly have no idea.
