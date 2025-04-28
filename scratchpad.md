@@ -104,3 +104,75 @@ I feel like I was sent on this like recovery mission by God today. Like side que
 # 04/28/2025
 
 Need to start trying to understand the difference between stable dullness and other dullnesses. I think I can recognize dullness when it starts to appear now, but am having a hard time fighting it (maybe from fatigue) and definitely don't know how to stabilize it. I think another good thing would plan out what I want everyday to look like going forward. 
+
+So the intention for this week: Write about a solid business plan for the 12-week bootcamp, and everything I know about drums/how to teach it.
+
+The plan so far is really to target people around my age. 20-30 I feel like i
+should really be writing about stuff that is like idk somewhat innovative I
+already know the niche yeah but what else do i know about the nice who is
+he/she what do they do for a living idk myabe tech jobs i feel like the job
+itself is failry arbitrary they probably listen to rock music or punk maybe
+even rnb like I'm thinking josh he's a fitness addict I like growth oriented
+people so they probably meditate too okay that's something maybe they're
+obsessed with growth and do they think they'll be a rockstar one day maybe not
+I 'm not sure they're looking to reinvent themselves so much as they just want
+to be able to play with friends they see alot of videos online from really good
+drummers like ringo starr or travis barker and they're obsessed with their
+capabiliities seeing them play so fast i feel like they have a bit of
+experience in music but their parents thought it was a waste of time they may
+not have a great relationship with their parents but if they do they have a
+hidden resentment for not giving them a chance at this so they want to make up
+for it now as an adult who has a single/dual income household where they can
+reliably pay it forwad pay tribute tot he music community i think theyre fairly
+mindful and adaptive they see this as an investment in themselves theyre not
+aggressive but they see this as a valuable commodity that theyre finally in a
+situation where they can learn to play music which has up until this point been
+somewhat of a fantasy they want to learn how to play but have no idea where to
+start there's so much ambiguity in youtube videos and they need the structure
+of someone who has been on this journey before theyre the type that when they
+run a marathon they get a coach to show them the way or if theyre going to hike
+up a mountain they take the dangerous trail with someone who has done it before
+they find beauty in the journey over the destination and want to explore drums
+and music more as a curiosity they drema of getting to play and jam with other
+musicians and they want to learn how to continue learning they see this more as
+an investment that has a fixed ending and fixed outcome much like any form of
+coaching yet they are willing to continue on indefinitely they likee the idea
+of a fixed timeline the idea that they are going to reach a goal and the when
+they read a flyer saying that by the end of this they will be able to read
+music they will be able to pracctice with a meteronome they will be able to
+play the boots and cats beats they get excited they feel excited thinking that
+they might be able to learn any song that they listen to and play along with it
+they get proud showing this to their significant other as something they picked
+up its not the same as someone who takes lessons so that they can swoon their
+significant other they want to make them dance they want to make them proud 
+
+what is it they expect to learn and what problems do they have my current offer
+is that i will teach them how to read music i will teach how to use a
+meteronome how to hold the sticks how to carry your weight ergonomically I will
+have cheatsheets for all of these things that will assist them as they continue
+forward these cheat sheets will use the ergonomics discovered from eyears of
+drumming it will guide both traditional and match grips should they be sheets
+or videos or both could they be both would that be beneficial idk what problems
+do they face drums are too loud theyre not ergonomic they take up too much room
+whats the point of learning drums anyway when I could learn guitar why did i
+even learn drums in the first place thats actually a really good question i
+have no idea the more i think about it the more i think that i learned drums
+because guitar wasnt an option why does anyone willingly decide to pick up
+drums i was inspired to play drums later on but why would someone actively
+choose to pick up drums as a primary instrument theyre loud and obnocious your
+neighbors hate you for having them when you're bad people complain about it
+yeah but they do that with any instrument you're not special for that i think
+something about drums is more of a dance its a full body movement and a workout
+its an instrument that connects to the body its a religion yeah but why do
+people start playing it who puts the stick in their hands wow this is actually
+a really deep insecurity in my mind i can see why teaching has never worked out
+before how the hell am i supposed to understand why anyone else would want to
+play drums when i didnt even want to play them when i was just kinda coerced
+into it thats a crazy realization like there's pop culture drummers now like
+questlove and ringo starr and whats his name the ohh chad smith but like why
+would anyone venture out on their own to learn drums its not necessarily a
+virtuostic instrument its not even really glamorous its the behind the scenes
+instrument that holds down the fort its the instrument that is the most
+important yet no one paays attention to how can i cater this to people when i
+hardly view it highly and see it as being so critical this seems like a very
+important distinction
