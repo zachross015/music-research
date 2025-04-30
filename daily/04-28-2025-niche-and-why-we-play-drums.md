@@ -53,3 +53,12 @@ later development. Why would someone all the sudden decide to pick up drums?
 Like I think there's a layer of curiosity, trying new things and seeing how it
 impacts your mind. Maybe that's all it has to be. But why else would they start
 playing? I honestly have no idea.
+
+---
+
+## Musicians who started later
+
+- Bill withers didn't start his recording career until 32. (Need to watch Still Bill). He actually kept working in the factory after the hit release of "Aint No Sunshine" since he considered music a fickle industry. Because he didn't leave the factory, the record company eventually presented him with a gold toilet seat. [Source](https://www.reddit.com/r/Guitar/comments/1ektxsw/are_there_any_successful_musicians_that_started/)
+- Leonard Cohen was in the Canadian Music Hall of Fame, Canadian Songwriters Hall of Fame, and Rock and Roll Hall of Fame and started when he was 32.
+- Butch Vig produced Nirvana's album "Nevermind" at 36 and didn't start his own band until 40 [Source](https://aristake.com/older-musicians/)
+- Dan Wilson wrote "Closing Time" at 37
