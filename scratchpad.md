@@ -300,3 +300,81 @@ I guess my insecurities with drumming is that ts loud the neighbors get fucking 
 # 05/05/2025
 
 The trick to holding to sticks is just to make a fist with the stick in it, then move the thumb up and loosen the fingers.
+
+Okay so I didn't scome up with much of a promt to day but I still need to
+continue this one thing i know i need to work on is mainly just answering all
+the questions and the problems that others could have so what are more problems
+that i may have not thought about before what were my problems is ego drumming
+a main problem i think people see speed and want to play fst what bout getting
+gigs are they really intent on having a gig right off the bat or maybe no even
+that maybe just people to jam with like do they already have alot of friends
+that play and feel self concious about ont being able to play how do they go
+about finindg new musicians if they aren't already involved in a group do other
+people tend to go out of their way to find new communities or are they home
+bodies are they dopamine slaves i feel like anyone trying to play and
+instruemtn isnt a dopamine slave like amanda wants to learn to plapy to express
+herself more creatively are there alot of people like that like some people
+decorate houses some people do gardens some people just love art like brandi
+likes painting and stuff like that like i feel like more holistic pelle want to
+learn instruments especially onse they have played before but why drums
+speicifically like what problems do they have i feel like i really dont know
+how to get the answer to this question maybe the problem isnt coming up with
+the solution on my own so much as actually asking people learning drums whats
+stopping them like is there a way i can get a focus group together or some kind
+of study where i go out and learn whats preventing people from actually picking
+up drums like what are the biggest factors i feel like for most people its
+sound like having a place to actually go and play i dont think most people
+carea bout mastery so much as getting their heart out so like maybe i also need
+to find a study talking about the health benefits of drumming or even use my
+own recordings or something because there are alot of calories burned in
+drumming like an hour show is at least 300 calories which is alot more than any
+other dinstrument but yea like i feel like i understand my issues with drumming
+mainly the too loud the space the ergonomics but beyond that what are all the
+other resistances like when i first got my kit why did it take 6 months for me
+to play it i think because personally i felt like i needed permission to play
+it like i had the kit and i was drawn to it but i didn't even know how to set
+it up but i remember after that first lesson danny taught me how to set up the
+set completely and it was like having someone with knowledge tell me how to sit
+at a kit was all i needed to actually sit and play and i remember after that i
+went home and practiced playing for like a week straight and its like he also
+taught me alot about just listening to music to hear and pick out the notes
+understand whats being played but most of what drove me forward was my own
+drive and curioiusty something thats been there since the beginning and i feel
+like with amanda something thats really going to help is having a song to
+demonstrate all this wiwth like having something to work towards understanding
+her music a little better especially but yeah idk what other problems do
+beginners face what are their resistances to practice maybe time constraints
+but 2 minutes is all it takes max 20 minutes a day to begin with its just about
+playing and getting better later be more dilligent later maybe all they need is
+permission to start to be told that congradulations now youre officially a
+drummer youre allowed to do whatever the fuck you want now and no one can say
+otherwise maybe theyre afraid because their parents discouraged art as
+meaningless when its so full of meaning its so fully beauty and spirituality
+like being told that drums is a way of communicating with the Gods has really
+been one of the most impactful things ive heard in a long tim from Jojo and the
+Rumero its fascinating hearing about this whole other life style this religiion
+of drumming how do i continue to spread the love when i cant even understand
+the problem how can li create something valueable that they feel dumb rejecting
+it thats the question im trying to answer and truthfully i have no idea because
+its been so long since ive touched and instrument so like how do you even get
+answers to ghis question how do you find the case study who do you ask when you
+don't have a following how do you get an answer to this like i have 300
+followers on instagram but none of them can answer this question because all of
+them already play instruments this is directed to an entirely different
+audience of people who have never touched a drum set or who are just starting
+it maybe they have a kit maybe they dont its possible they played uitar before
+its possible they havent who even wants drum lessons like i love the groove and
+the rhythm the feeling of making someone dance the power of commanding a room
+the power to control the band i no longer fear the power i once felt victim to
+i feel like im gaining a much broader control over it in an influential way not
+to be confused with domineering or manipulation or abuse of authority i just
+feel like i understand the instrument i posess and the respect for what i do
+but what do they want they want a glimpse of that power they live in a world
+where that power was taken away from them where their voice was silenced they
+lived in a world where they had to ask permission all their life to be
+themselves and they finally want an outlit where they can be whoever they want
+to be and be heard doing so they want to feel themselves and they want everyone
+in the room to feel the groove that they eminate the rhythm they walk to they
+want to inspire they want to connect and live hramoniously they want to be a
+trusted backbone a supportive cahrracter a generous mind for the world of
+musicians and the life they live. #soc
