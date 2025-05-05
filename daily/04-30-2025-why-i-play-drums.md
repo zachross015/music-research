@@ -199,3 +199,6 @@ how the song feels the tempo of it the way that each instrument is hit
 
 I think as a result of all this, I truly believe that learning art is about channeling energy. It's about training our body to connect to a spiritual being and channeling that being. We all have this innate sense of rhythm. The purpose of practice is to refine our bodies to carry that energy as transparently as possible, and do so regardless of the tools.
 
+Forgot to mention, learned that Duke Ellington drummers were Sonny Greer and Sam Woodyard.
+
+But going through all this stuff, I'm realizing how little I've connected myself to the groove of drumming, the underlying feeling, and I think that has been to my detriment. It's kept me playing for pride rather than love. And its kept me from understanding the prose and incredible qualities of other drummers.
