@@ -1,6 +1,9 @@
 # 04-30-2025
 
-I think in the explorations I've done today, I've realized that this bootcamp shouldn't just be a run-of-the-mill learn the technical side of music. It needs to be a much more emotional experience, with connection to something higher than ourselves. It should lead people to a place of community and belonging.
+I think in the explorations I've done today, I've realized that this bootcamp
+shouldn't just be a run-of-the-mill learn the technical side of music. It needs
+to be a much more emotional experience, with connection to something higher
+than ourselves. It should lead people to a place of community and belonging.
 
 Like here is what ChatGPT came up with.
 
@@ -197,5 +200,9 @@ how the song feels the tempo of it the way that each instrument is hit
 
 ---
 
-I think as a result of all this, I truly believe that learning art is about channeling energy. It's about training our body to connect to a spiritual being and channeling that being. We all have this innate sense of rhythm. The purpose of practice is to refine our bodies to carry that energy as transparently as possible, and do so regardless of the tools.
+I think as a result of all this, I truly believe that learning art is about
+channeling energy. It's about training our body to connect to a spiritual being
+and channeling that being. We all have this innate sense of rhythm. The purpose
+of practice is to refine our bodies to carry that energy as transparently as
+possible, and do so regardless of the tools.
 
