@@ -378,3 +378,7 @@ in the room to feel the groove that they eminate the rhythm they walk to they
 want to inspire they want to connect and live hramoniously they want to be a
 trusted backbone a supportive cahrracter a generous mind for the world of
 musicians and the life they live. #soc
+
+# 05/06/2025
+
+Just now realizing that the shuffle rhythm in Talk Down by Dijon is a variation of the Bembe rhythm. That's awesome! Starting to see the synoptic connections. #drums
