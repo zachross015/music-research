@@ -87,25 +87,42 @@ I think the system I want to start off by trying is:
 - Summarize at end of day
 - Move to topics end of week
 
-Additioanlly, would be really good if I could just take a day to explore qhatever I want to explore.
+Additioanlly, would be really good if I could just take a day to explore
+qhatever I want to explore.
 
-Really want to get a vintage gramophone and old jazz records to get the real experience 
+Really want to get a vintage gramophone and old jazz records to get the real
+experience 
 
-The solution to finding a recording location where I won't disturb anyone is to just to it at an axclusive all trails location
+The solution to finding a recording location where I won't disturb anyone is to
+just to it at an axclusive all trails location
 
-Saying someone's name creates this immediately noticeable impression on them, but it also creates this genuine feeling of connection within. I've noticed this a lot at Starbucks where customers that I learned the name of would immediately start opening up to me--within the first couple of visits--about their life outside. It also created this much easier way of opening up to them in return. #insight
+Saying someone's name creates this immediately noticeable impression on them,
+but it also creates this genuine feeling of connection within. I've noticed
+this a lot at Starbucks where customers that I learned the name of would
+immediately start opening up to me--within the first couple of visits--about
+their life outside. It also created this much easier way of opening up to them
+in return. #insight
 
 Still really neeed a water filter and trekking poles
 
-I think my main difficulty in creating a new system is like segmentation. Trying to differentiate the daily discussions from the more SOC influx. 
+I think my main difficulty in creating a new system is like segmentation.
+Trying to differentiate the daily discussions from the more SOC influx. 
 
-I feel like I was sent on this like recovery mission by God today. Like side quests keep popping up that I want to do, but I have no willpower to deny what this body wants to do. There's a lot of emotions present and I don't know what any of them mean. But I'm also so hungry
+I feel like I was sent on this like recovery mission by God today. Like side
+quests keep popping up that I want to do, but I have no willpower to deny what
+this body wants to do. There's a lot of emotions present and I don't know what
+any of them mean. But I'm also so hungry
 
 # 04/28/2025
 
-Need to start trying to understand the difference between stable dullness and other dullnesses. I think I can recognize dullness when it starts to appear now, but am having a hard time fighting it (maybe from fatigue) and definitely don't know how to stabilize it. I think another good thing would plan out what I want everyday to look like going forward. 
+Need to start trying to understand the difference between stable dullness and
+other dullnesses. I think I can recognize dullness when it starts to appear
+now, but am having a hard time fighting it (maybe from fatigue) and definitely
+don't know how to stabilize it. I think another good thing would plan out what
+I want everyday to look like going forward. 
 
-So the intention for this week: Write about a solid business plan for the 12-week bootcamp, and everything I know about drums/how to teach it.
+So the intention for this week: Write about a solid business plan for the
+12-week bootcamp, and everything I know about drums/how to teach it.
 
 The plan so far is really to target people around my age. 20-30 I feel like i
 should really be writing about stuff that is like idk somewhat innovative I
@@ -185,9 +202,9 @@ I want to expand on this:
 
 > Like why would anyone venture out on their own to learn drums? Its not
 > necessarily a virtuostic instrument. Its not even really glamorous. Its the
-> behind the scenes instrument that holds down the fort. Its the instrument that
-> is the most important yet no one paays attention. To how can i cater this to
-> people when i hardly view it highly and see it as being so critical. 
+> behind the scenes instrument that holds down the fort. Its the instrument
+> that is the most important yet no one paays attention. To how can i cater
+> this to people when i hardly view it highly and see it as being so critical. 
 
 In that vein, why do *I* love playing drums?
 
@@ -289,17 +306,116 @@ resonates
 
 # 05/01/2025
 
-Starting out with analysis on this teaching session with Amanda. What is everything that went wrong?
+Starting out with analysis on this teaching session with Amanda. What is
+everything that went wrong?
 
-I dont think really much went wrong but mainly because it lacked direction. I think alot of wha tI was trying to do was understand where she was in her career with music. Learning how to teach someone else seems like it's actually going to be a lot of fun, like I can begin to see where the joy of teaching comes form. Like seeing where she is and where she can progress is amazing. But I think it's doing it with intention that I'm confusing myself about. Its making me realize that i definitely will not be able to take every student that comes my way mainly because i want to be sure to give her and whoever else im woring with the premium attention they deserve to succed, the kind of growth and attention i give to myself is what i want to give to others i guess where i feel like i went wrong is introductin music theory way too early i didn't have exercises planned i had a general idea of what i wanted to talk about and what to go over today but thats about it and i think moving forward its best if i create some kind of dedicated plan like if i looked at her skills and said what is the most major eweakness in regards to her goals what would it be honestly no clue so her goal is just to use the guitar as a form of creation to convy thoughts in her head through the medium of guitar what are all the skills shes missing i guess first a basic knowledge of music theory also how to move around the fretboard and what different chords mean and what different symbols mean and how to read sheet music and also how to write music but to be fair its not so much about being able to read and write as it is just being able to understand what a chord is even without necessarily knowing what each thing does and playing around with it seeing how they go into each other and stuff like that idk its really hard to figure out where to go from here so we can commit to several paths but what is the best one like as a year long plan and 3 month plan and month plan and weekly plan where should we go and howdo we adjust i think thats the first thing say where should she be a year from now what is like typical or expected like i dont think we have to get her all the way to doing stuff like what is too easy what is too hard how do we build more of repetoire especially with how skilled i am to begin with like i know quite a bit but mst of what i know is from fucking around on the guitar and finding out i guess creating a roadmap and a consistent practice schedule should be the first thing i feel like doing it like my therapis would have done it seems like the right approach have the settle in a nd warmup period andlet that kind of guide the discussion I also dont feel like I conveyed everything the way I wished I had like I wanted to say things so much more like artfully or poetically maybe I just hadnt thought them through but she understood and lke it doesnt seem like she had complaints i guess we'll find out as time goes on what the verdict is but I feel like my rough edges are in the terminology alot of the time and getting that part clear being able to communicate that sort of thing well and also some more complicated topics idk im confused i dont really know how to grow from here like i feel like i look on that lesson thinking yeah that went pretty well but i think i wished it was more structured in a way not freeballed it just felt a little frustrating i guess like idk it wasnt really frustrating like i really eenjoyed almost all of it and i feel like this is an area where i can really excel but im beginning to see where my faults are and i want to practice this the same way id practice music  like there were so many points where I could tell i wasn't able to communicate clearly and effectively and i feel like that was a failure on my part as a teacher
+I dont think really much went wrong but mainly because it lacked direction. I
+think alot of wha tI was trying to do was understand where she was in her
+career with music. Learning how to teach someone else seems like it's actually
+going to be a lot of fun, like I can begin to see where the joy of teaching
+comes form. Like seeing where she is and where she can progress is amazing. But
+I think it's doing it with intention that I'm confusing myself about. Its
+making me realize that i definitely will not be able to take every student that
+comes my way mainly because i want to be sure to give her and whoever else im
+woring with the premium attention they deserve to succed, the kind of growth
+and attention i give to myself is what i want to give to others i guess where i
+feel like i went wrong is introductin music theory way too early i didn't have
+exercises planned i had a general idea of what i wanted to talk about and what
+to go over today but thats about it and i think moving forward its best if i
+create some kind of dedicated plan like if i looked at her skills and said what
+is the most major eweakness in regards to her goals what would it be honestly
+no clue so her goal is just to use the guitar as a form of creation to convy
+thoughts in her head through the medium of guitar what are all the skills shes
+missing i guess first a basic knowledge of music theory also how to move around
+the fretboard and what different chords mean and what different symbols mean
+and how to read sheet music and also how to write music but to be fair its not
+so much about being able to read and write as it is just being able to
+understand what a chord is even without necessarily knowing what each thing
+does and playing around with it seeing how they go into each other and stuff
+like that idk its really hard to figure out where to go from here so we can
+commit to several paths but what is the best one like as a year long plan and 3
+month plan and month plan and weekly plan where should we go and howdo we
+adjust i think thats the first thing say where should she be a year from now
+what is like typical or expected like i dont think we have to get her all the
+way to doing stuff like what is too easy what is too hard how do we build more
+of repetoire especially with how skilled i am to begin with like i know quite a
+bit but mst of what i know is from fucking around on the guitar and finding out
+i guess creating a roadmap and a consistent practice schedule should be the
+first thing i feel like doing it like my therapis would have done it seems like
+the right approach have the settle in a nd warmup period andlet that kind of
+guide the discussion I also dont feel like I conveyed everything the way I
+wished I had like I wanted to say things so much more like artfully or
+poetically maybe I just hadnt thought them through but she understood and lke
+it doesnt seem like she had complaints i guess we'll find out as time goes on
+what the verdict is but I feel like my rough edges are in the terminology alot
+of the time and getting that part clear being able to communicate that sort of
+thing well and also some more complicated topics idk im confused i dont really
+know how to grow from here like i feel like i look on that lesson thinking yeah
+that went pretty well but i think i wished it was more structured in a way not
+freeballed it just felt a little frustrating i guess like idk it wasnt really
+frustrating like i really eenjoyed almost all of it and i feel like this is an
+area where i can really excel but im beginning to see where my faults are and i
+want to practice this the same way id practice music  like there were so many
+points where I could tell i wasn't able to communicate clearly and effectively
+and i feel like that was a failure on my part as a teacher
 
-Okay now for business stuff. I don't really have a question I want to ask today. What are my insecurities with drumming?
+Okay now for business stuff. I don't really have a question I want to ask
+today. What are my insecurities with drumming?
 
-I guess my insecurities with drumming is that ts loud the neighbors get fucking annoyed and Griffin was such a piece of shit and terrible player that every time i heard him play i wanted to fuckingkill him he really fucked up drumming for me because before it was really like play as loud and inconsideratly as you can but now its like dont break the peace dont do anything to make him start a conversation with you i feel like im getting away fro the point its not so much about my insecurities as it is like why do i have a hard time being so excitted about drums why do i have a hard time sticking up for myself i feel like the different action i need to take in this scenario is to actually talk to Brandi like instead of hiding the fact that im distancing myself from her actually own up to tht efact that i lead her on and now i feel guilty about having done so and its like now i feel my attnetion beginning to shift because ive realized that her and i genuinely have nothing to talk about like with Russ it feels like i have a vested interest in his life outside of work like with everything else happening and its lie i can just go hike with kevin why is it i have hiked so many times with Brandi but noever with Andy why is it that ive devoted so much of my time andenergy to her instead of giving it to the people that i actually enjoy being around like amanda and david and andy and jaida and momo and kevin like i fell like im waking up after having been blinded for years now having stared right at the sun having confronted someone who has no conversational dynamic with me outside of just complaining about all the guys shes with its like the glamour has suddenly faeed and i realize the reason im always so anxious around her is because i feel this constant judgement i feel just fucking bored like i have absolutely nothing to say when im not bullying her i have nothing to talk bout nothing at all and ive escaped my intentions unfortunatly but ive been meaning to talk about this like what else am i insecure about with drumming or with anything i think its a confidence issue its weird i enjoy teaching now that im getting more used to it i need a better rasp on it still but its nice having students who are such good listeners anyways idk idk idk whatother insecurities i have while drumming like i definitely have a lot which it hin makes it even harder to start something i also just cant tell what is wrong like i need ot proress here and i thnk im looking for more part of the problem is i didnt review this yesterday and im definitely not going to be able to today so its like all the questions and curiosities are evading me idk i feel like there are much deeper insecurities tied to self esteem and confidence and i feel like with the people ive been surrounded with before it makes sense idk what it is theres still alot of pride there maybe its shit that just needs to be let go of im unceratin i dont know what to write about right now i dont even really unerstand what the point of it all is God please help me i need help understanding and pushing through all this getting this business up and running i feel like I'm so fucking close but I still don't completely understand what the core package is and how to advertise it like i thnk through Amanda I realize that I dont have to solve every problem right away but I still can't really imagine why someone would pick up the drums in the first place i still dont even really understand groove oriented genres which to me is the main reason to pick it up i feel like I'm somewhere in between trying to learn why other people start playingdrums and learning why I  play in the first place and its really a perplexing puzzle to me
+I guess my insecurities with drumming is that ts loud the neighbors get fucking
+annoyed and Griffin was such a piece of shit and terrible player that every
+time i heard him play i wanted to fuckingkill him he really fucked up drumming
+for me because before it was really like play as loud and inconsideratly as you
+can but now its like dont break the peace dont do anything to make him start a
+conversation with you i feel like im getting away fro the point its not so much
+about my insecurities as it is like why do i have a hard time being so excitted
+about drums why do i have a hard time sticking up for myself i feel like the
+different action i need to take in this scenario is to actually talk to Brandi
+like instead of hiding the fact that im distancing myself from her actually own
+up to tht efact that i lead her on and now i feel guilty about having done so
+and its like now i feel my attnetion beginning to shift because ive realized
+that her and i genuinely have nothing to talk about like with Russ it feels
+like i have a vested interest in his life outside of work like with everything
+else happening and its lie i can just go hike with kevin why is it i have hiked
+so many times with Brandi but noever with Andy why is it that ive devoted so
+much of my time andenergy to her instead of giving it to the people that i
+actually enjoy being around like amanda and david and andy and jaida and momo
+and kevin like i fell like im waking up after having been blinded for years now
+having stared right at the sun having confronted someone who has no
+conversational dynamic with me outside of just complaining about all the guys
+shes with its like the glamour has suddenly faeed and i realize the reason im
+always so anxious around her is because i feel this constant judgement i feel
+just fucking bored like i have absolutely nothing to say when im not bullying
+her i have nothing to talk bout nothing at all and ive escaped my intentions
+unfortunatly but ive been meaning to talk about this like what else am i
+insecure about with drumming or with anything i think its a confidence issue
+its weird i enjoy teaching now that im getting more used to it i need a better
+rasp on it still but its nice having students who are such good listeners
+anyways idk idk idk whatother insecurities i have while drumming like i
+definitely have a lot which it hin makes it even harder to start something i
+also just cant tell what is wrong like i need ot proress here and i thnk im
+looking for more part of the problem is i didnt review this yesterday and im
+definitely not going to be able to today so its like all the questions and
+curiosities are evading me idk i feel like there are much deeper insecurities
+tied to self esteem and confidence and i feel like with the people ive been
+surrounded with before it makes sense idk what it is theres still alot of pride
+there maybe its shit that just needs to be let go of im unceratin i dont know
+what to write about right now i dont even really unerstand what the point of it
+all is God please help me i need help understanding and pushing through all
+this getting this business up and running i feel like I'm so fucking close but
+I still don't completely understand what the core package is and how to
+advertise it like i thnk through Amanda I realize that I dont have to solve
+every problem right away but I still can't really imagine why someone would
+pick up the drums in the first place i still dont even really understand groove
+oriented genres which to me is the main reason to pick it up i feel like I'm
+somewhere in between trying to learn why other people start playingdrums and
+learning why I  play in the first place and its really a perplexing puzzle to
+me
 
 # 05/05/2025
 
-The trick to holding to sticks is just to make a fist with the stick in it, then move the thumb up and loosen the fingers.
+The trick to holding to sticks is just to make a fist with the stick in it,
+then move the thumb up and loosen the fingers.
 
 Okay so I didn't scome up with much of a promt to day but I still need to
 continue this one thing i know i need to work on is mainly just answering all
@@ -379,6 +495,43 @@ want to inspire they want to connect and live hramoniously they want to be a
 trusted backbone a supportive cahrracter a generous mind for the world of
 musicians and the life they live. #soc
 
+The trick to holding to sticks is just to make a fist with the stick in it,
+then move the thumb up and loosen the fingers. #technique #drums Jojo Mayer in
+his TedX talk about 0 to 1 discusses how drums were one of the two primary
+forms of communication, the other being the voice. The advent of the drum set,
+industrial machinery, and recording equipment brought rhythm to the forefront
+of communication. The invention of drum machines further synthesized what a
+drummer was capable of and try to simulate what a real drummer would play. That
+was until Jungle and DnB music which sought to invent a whole new genre that
+surpassed the previous limitations of drummers. Jojo Mayer's big goal was to go
+beyond the human limitations and imitate what the machiens were playing, in the
+same way that early drummers would imitate machinery, yet add a human component
+to them, something more emotional and which would allow for simple
+improviation. #drums #drumhistory #innovations
+
+A big part of #investigativejournalism is to actually just explore with
+curiosity constantly, allowing each source to paint part of a bigger picture.
+
+[The origins of Cuban Salsa, Rumba and Bembe - A story told by a rumbero - Dr
+Yabu Kenke](https://www.youtube.com/watch?v=du15n1kO4i8) Most of the details of
+the story talk about how drumming is a way of communicating with the Gods.
+Similar to what Jojo Mayer was saying, drums are used to communicate over
+longer distances. They are loud so the Gods can hear us, and is a form of
+communion with them. Its a connection to the spirituatl realm  #bembe
+
+What about a book that unconciously reinforces good practice habits? Like the
+15 min per day guitar book, but for drums? Or even, what about building a
+lessons plan which helps to build general skills everyday? Like one day for
+dynamics, one for grid, etc. #ideas #drums #books
+
+Starting to get alot more wrist movement in left hand, which is making me aware
+of the fact that alot of my problems have stemmed from how little wrist
+movement i had before. Still need to work on more fluidity with it though,
+letting it flow a bit more instead of exclusively moving with the wrist
+(relying on pivot more) #drums #progress
+
 # 05/06/2025
 
-Just now realizing that the shuffle rhythm in Talk Down by Dijon is a variation of the Bembe rhythm. That's awesome! Starting to see the synoptic connections. #drums
+Just now realizing that the shuffle rhythm in Talk Down by Dijon is a variation
+of the Bembe rhythm. That's awesome! Starting to see the synoptic connections.
+#drums
