@@ -299,4 +299,14 @@ I guess my insecurities with drumming is that ts loud the neighbors get fucking 
 
 # 05/05/2025
 
-The trick to holding to sticks is just to make a fist with the stick in it, then move the thumb up and loosen the fingers.
+The trick to holding to sticks is just to make a fist with the stick in it, then move the thumb up and loosen the fingers. #technique #drums
+
+Jojo Mayer in his TedX talk about 0 to 1 discusses how drums were one of the two primary forms of communication, the other being the voice. The advent of the drum set, industrial machinery, and recording equipment brought rhythm to the forefront of communication. The invention of drum machines further synthesized what a drummer was capable of and try to simulate what a real drummer would play. That was until Jungle and DnB music which sought to invent a whole new genre that surpassed the previous limitations of drummers. Jojo Mayer's big goal was to go beyond the human limitations and imitate what the machiens were playing, in the same way that early drummers would imitate machinery, yet add a human component to them, something more emotional and which would allow for simple improviation. #drums #drumhistory #innovations
+
+A big part of #investigativejournalism is to actually just explore with curiosity constantly, allowing each source to paint part of a bigger picture.
+
+[The origins of Cuban Salsa, Rumba and Bembe - A story told by a rumbero - Dr Yabu Kenke](https://www.youtube.com/watch?v=du15n1kO4i8) Most of the details of the story talk about how drumming is a way of communicating with the Gods. Similar to what Jojo Mayer was saying, drums are used to communicate over longer distances. They are loud so the Gods can hear us, and is a form of communion with them. Its a connection to the spirituatl realm  #bembe
+
+What about a book that unconciously reinforces good practice habits? Like the 15 min per day guitar book, but for drums? Or even, what about building a lessons plan which helps to build general skills everyday? Like one day for dynamics, one for grid, etc. #ideas #drums #books
+
+Starting to get alot more wrist movement in left hand, which is making me aware of the fact that alot of my problems have stemmed from how little wrist movement i had before. Still need to work on more fluidity with it though, letting it flow a bit more instead of exclusively moving with the wrist (relying on pivot more) #drums #progress
