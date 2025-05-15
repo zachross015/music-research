@@ -2983,3 +2983,104 @@ any of them mean. But I'm also so hungry
 # 04-27-2025 
 
   Hello"
+
+# 05-15-2025
+
+Intention for today's dump: 20 min dump MAINLY focused on the 6 week program. Also may include some stuff on the afro-cuban rhythms and other general knowledge dumping
+
+Okay so mainly wanted to get a dump out on the six week program honestly have
+no idea so far and also wondering if anyone is doing anything like this and how
+i market it to them i feel like i have a better grasp on what people are
+looking for like honestly it seems sort of simple if all theyre really looking
+for is an outlet and something to do or a skill they wanted to learn that now
+they finally have time for but what can be accomplished in six weeks honestly
+hat is even really important in six weeks i guess to start being able to larn
+from a song how to sit at the instrument how to improve yourself how to get
+faster how to build up speed how to play more musically how to build the hait
+idk should it be twelve weeks maybe not twelve but it feels like 8 or 9 is
+better like i want to make it so that the practice goes on for the duration of
+habit generation so that idk i dont want it too long like i want the dealine so
+its unambiguous but what are their goals like what are they trying to
+accomplish part of the problem is i have no idea what theyre looking for what
+theyre looking to accomplish and combine that with what i know it still feels
+like what i really need right here is evidence or sources  people to talk to
+about this kind of thing so i can understand better what im looking for like it
+may be worthwhile to do some actual market research like to reach out to like
+over a 100 people and just ask if they or anyone they know is looking to learn
+drums at any point and really see what it is they're looking for or maybe make
+an ad im not sure like i feel like on one side i should get started buton the
+other fuck it research at this point just feels like its a form of
+procrastiation im not going to be able to improve it until i start it amybe it
+all works from the get go but also its not going to work right away at least im
+going in with that mindset so im not dissapointed if it doesnt i dont
+understand what im going here and i want to make another quick tiktok on
+improving dynamics so i need to look up a place where they offer these sorts of
+exercises for free so that other people can really get better at this sort of
+thing i also want to write so many more blog articles now that the hatch is
+open like all the ones i want to write on mindfulness are starting to pop up in
+my head and i drew this line around my wrist that i really want tattooed
+anyways i feel so much less judgemental and more powerful ever since starting
+to open my sefl to the brat/owner identities its actually bee a huge change to
+my self esteem okay what are the six weeks why i dont give it over to chatgpt
+just evades me it would be so easy to let chatgpt figure it out and just make
+me do the actual work like solving all their problems would be so easy i figure
+that like my niche going forward is just going to be drummers its going to
+start with people interested in getting started and probably move on from there
+to something else okay what do we actually need i guess a lesson on holding the
+sticks sitting at the kit and getting the first beat out probably a lesson on
+how to feel the music every week should have some type of homework associated
+with it like im thinking $500 for 6 weeks with a 2 week guarantee if things
+don't go smoothly or they don't get their money's worth and i still have to
+figure out all the bonuses like some are probably going to be around sound
+proofing or getting a kit to set up with i wish i could do it virutally but i
+really think the best idea is to do in person for now start at 5 people then go
+up to 10 next month i wish i could get people to buy into 3 month lesson plans
+rather than weekly lessons so that its not just idk me being fucking dumb or
+some shit no its more because its a 3 month training cycle of improvement i
+feel like its important to also take videos to demonstrate how they improve or
+to encourage a meditation and a journaling session to track improvements and
+also recognize imrpovements constantly which is already what i kind of do idk
+okay so we have a lesson on like etiqute around the kit we need a lesson in
+there about feeling but i feel like these 6 lessons need to be so nutrient rich
+that they feel worth so much more than what they are paying like every lesson
+they should leave feeling like holy shit my mind is numb that was so much
+information like every single lesson needs to feel like a fucking trip to the
+heaviest gym and they need to leave each session feeling like new people
+completely evolved from who they once were and its insane so the first week is
+that basic lesson the second week starts out with a review then it goes into a
+lesson on feeling music, emotion in music, specifically pointing out tracks
+which discern between different emotions because the point of the class isnt to
+make shredders its to make groovers people that other musicians actually want
+to play with we're crafting a mindset here that awakens people the point of
+this class is a hidden method for awakening people its not just about learning
+drums its about learning how to express yourself in a way that you never
+thought possible its a way about relieving suppression i want to masturbate so
+badly right now like after all this intimacy i explored today im so fucking
+horny ookay anyway yeah week two about feeling groove which is also about
+listening to music and trying to recreate what we feel should singing be done
+here or is that for later i think here probably i dont even know if sight
+reading should be part of the curriculum especially with how little i use it
+maybe it should be idk i feel like its important in reference to the meteronome
+like if we theme each week each one should cover a different aspect of
+performance like week 1 is technique week 2 is groove week 3 is time week 4
+dynamics week 5 sound and week 6 musicality actually that's kind of genius i
+felt like this idea came to me before but idk i feel like thats the way to go
+about it so that at least is the most fruitful of the ideas it would be good to
+brainstorm and explore each one individually so we can really understand the
+different mechanics of each week then after that use them to delve much deeper
+like if the purpose of the whole camp is to delve into the different sextents
+of drumming theres also the possibility of extending it two weeks with week 1
+being the overview and week 8 being the closing but honestly the faster it can
+end the better not just for them but for me too and i think citing Benny Greb
+as a major inspiration here is important but i think using this framework to
+help people get started is massive plus there's a much wider audience among
+beginngers like i want to lead the next wave of drummers by being a starter i
+want to lower the barrier of entry not just cost wise but finding solutions
+that help people drum from a much younger age and much more frequently like the
+fact that drummers are the least frequent of the batch is such a shitty thing
+and bassists too like if we can glamorize drummming more the art of it the
+passion of it the groove of it the community of it then we can create a world
+where people worship through drumming just like the Africans did and the cubans
+the bembes and rumbas its so important to me this is my niche this will always
+be my niche i love drums i love drummers and every time i sit at the kit i feel
+like a kid again okay what else is there 
