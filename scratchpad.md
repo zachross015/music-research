@@ -736,13 +736,13 @@ Reddit, YouTube, drumming forums, and lesson sites. These are ordered by
 # 05/13/20
 "# 05-14-2025 
 
-  This fucking video is hanging over my head. The sooner I can get it done, the
+This fucking video is hanging over my head. The sooner I can get it done, the
 less stress I'll be under. And I can actually move on to the next fucking video
 without feeling like I have this tech debt
 
 # 05-13-2025 
 
-  Techniques for the minimalist drummer #ideas #books
+Techniques for the minimalist drummer #ideas #books
 
 One thing I "resent" about brats is their playfulness. There's something so
 attractive about how playful they are and excitable they are that I see it as
@@ -769,12 +769,12 @@ I grow it into the magnetism that Brandi has?
 
 # 05-13-2025 
 
-  The way she kissed her child with such tenderness, love, and excitement made
+The way she kissed her child with such tenderness, love, and excitement made
 me feel love and pleasure. I want that so bad. In relationship form.
 
 # 05-13-2025 
 
-  The incredible #progress is that now every time I record myself playing, a
+The incredible #progress is that now every time I record myself playing, a
 lot of what I play actually comes out sounding pretty good and as intended. I'm
 definitely still trying to lean more into feeling and groove and finding ways
 to recreate emotion with it, but it makes me really happy to see how far I've
@@ -787,7 +787,7 @@ Brat...it actually feels pretty bratty. I love it.
 
 # 05-12-2025 
 
-  - "The part of me that wants to be a brat is really craving…"
+- "The part of me that wants to be a brat is really craving…"
 
 Emotional security. Freedom to express myself fully and openly in front of
 everyone without judgement. To punish delightfully. To hurt other people as a
@@ -924,7 +924,7 @@ makes me feel so horny.
 
 # 05-11-2025 
 
-  Intentions
+Intentions
 
 - Highest Self
 - EK Work
@@ -1090,12 +1090,12 @@ written "letter from your future self"?
 
 # 05-11-2025 
 
-  I think if I were to distill my qualms into one pattern, it would be that the
+I think if I were to distill my qualms into one pattern, it would be that the
 book lacks any narrative which inspires a core principle 
 
 # 05-11-2025 
 
-  The much bigger takeaway from [[The Next Conversation]] is just how to be
+The much bigger takeaway from [[The Next Conversation]] is just how to be
 mindful during conversations. What is a simple set of rules that the book
 doesn't recognize? Maybe just ways to challenge mindfulness in conversation?
 It's all making me realize how much I *fear* the pause. Probably from a
@@ -1104,7 +1104,7 @@ trusting people to hear me.
 
 # 05-11-2025 
 
-  [[The Next Conversation]] actually feels like a fairly shallow book. The
+[[The Next Conversation]] actually feels like a fairly shallow book. The
 overall meaning seems to be: approach conversation with intention. But all of
 the information can be condensed into a couple of points. It carries the same
 issues I have with a lot of Self-Help books: padding content to make a much
@@ -1140,7 +1140,7 @@ specific way.
 
 # 05-11-2025 
 
-  One of the biggest takeaways from my conversation with Brandi was that I had
+One of the biggest takeaways from my conversation with Brandi was that I had
 an inner peace when I began confronting her about the deep connection. Like I
 was coming from a place where even if it harmed our relationship, I knew I'd be
 okay. I had this confidence that I'd be okay if it didn't work out, and what
@@ -1172,7 +1172,7 @@ like a fun list of challenges to work pn
 
 # 05-10-2025 
 
-  What you're describing is _so deeply honest_ -- and exactly where the gold
+What you're describing is _so deeply honest_ -- and exactly where the gold
 is. The fact that you're even noticing this ambivalence -- _"Is this
 integration or escape?"_ -- means you're already **doing the work** that most
 people avoid.
@@ -1265,22 +1265,22 @@ build **permanence through integration**, not just access through isolation
 
 # 05-11-2025 
 
-  Really disappointed that I didn't organize anything for Mother's Day so far.
+Really disappointed that I didn't organize anything for Mother's Day so far.
 I feel like a failure of a son
 
 # 05-11-2025 
 
-  Enlightening conversation with Peyton revealed that I know absolutely nothing
+Enlightening conversation with Peyton revealed that I know absolutely nothing
 about my religious beliefs, or at least how to describe them.
 
 # 05-11-2025 
 
-  Feeling anxiety due to change of plans tomorrow. Want to plan to assert some
+Feeling anxiety due to change of plans tomorrow. Want to plan to assert some
 semblance of control.
 
 # 05-10-2025 
 
-  There still feels like a darkness to it. Like even if i let myself be owned,
+There still feels like a darkness to it. Like even if i let myself be owned,
 something still feels like wrong or shameful. Idk, i like ChatGPT's
 recommendation of sitting with it, and there's something in there I def still
 haven't processed. I feel like my mind is overwhelmed right now though and I've
@@ -1295,7 +1295,7 @@ try with so many more things but I'm trying not to overwhelm myself
 
 # 05-10-2025 
 
-  It's all weird. I feel like I've just unlocked this cheat code that's made me
+It's all weird. I feel like I've just unlocked this cheat code that's made me
 so much hornier than I've ever been before. It's like by letting myself be
 owned...it's all I want now, but in this way I feel confident about. And I
 understand now that a lot of the vulnerability isn't as much about getting her
@@ -1317,7 +1317,7 @@ an attachment thing
 
 # 05-10-2025 
 
-  Obsessively checking her snap right now. I feel like I can sense an emotional
+Obsessively checking her snap right now. I feel like I can sense an emotional
 crash incoming. A detachment ritual. I'm looking for her to take me away with
 these photos.
 
@@ -1329,7 +1329,7 @@ refreshing hearing her take responsibility for some shit she'd done.
 
 # 05-10-2025 
 
-  Last night was so aligned
+Last night was so aligned
 - Brandi became more vulnerable and opened up to me after I stated my goals of
   going deeper in our friendship and being more vulnerable 
 	- Crazy how like...open she was to what I was saying. She wasn't
@@ -1361,12 +1361,12 @@ more structured SOC
 
 # 05-10-2025 
 
-  Just now realizing my obsession with rape comes from Haley having raped me
+Just now realizing my obsession with rape comes from Haley having raped me
 several times. Vivian once too
 
 # 05-10-2025 
 
-  1. Black 2. Black 3. Call to the Queen 4. Skye 5. The dragon has the fiddle,
+1. Black 2. Black 3. Call to the Queen 4. Skye 5. The dragon has the fiddle,
 his wife left him, something about syphilis. His wife Henrietta is out in the
 stirm, his wife is a star vampire thing, he woos her with the eyes of the
 night, and then they make love 6. Smilie Moon (heavens were :)), blood moon
@@ -1376,12 +1376,12 @@ Eldros 10. Idk 11. Reduce reuse revenge
 
 # 05-09-2025 
 
-  Finally got her to open up, and it felt so much nicer than I could e ever
+Finally got her to open up, and it felt so much nicer than I could e ever
 hoped
 
 # 05-09-2025 
 
-  What are all the other recurrent issues? Money is definitely one since I can
+What are all the other recurrent issues? Money is definitely one since I can
 never seem to make more than $30k a year. Starting a business? Relationships
 still feels like one. Funnily enough after everything yesterday, I don't feel
 as drawn to Brandi.
@@ -1398,11 +1398,11 @@ Never forget though, the point of all of this is to make room
 
 # 05-09-2025 
 
-  What happened to absolutemusic? Why isn't it everywhere?
+What happened to absolutemusic? Why isn't it everywhere?
 
 # 05-09-2025 
 
-  ### **Reclaiming the Desire to Be Owned (as Sacred Surrender)**
+### **Reclaiming the Desire to Be Owned (as Sacred Surrender)**
 
 #### **Step 1: Dialogue with the Desire**
 
@@ -1458,12 +1458,12 @@ that you can come back to?
 
 # 05-08-2025 
 
-  Does the fact that I almost always seem to be struggling with attachment
+Does the fact that I almost always seem to be struggling with attachment
 issues mean that I find pleasure in them?
 
 # 05-08-2025 
 
-  Just broke my meditation record, getting up to 55 minutes. Shit got REALLY
+Just broke my meditation record, getting up to 55 minutes. Shit got REALLY
 weird, in a good way.
 
 Had a couple emotional breakdowns in there around all the attachment and
@@ -1499,7 +1499,7 @@ really friendships that make me feel like I'm in service to them in some way?
 
 # 05-08-2025 
 
-  ### **Week 1: Open Chords + First Progressions**
+### **Week 1: Open Chords + First Progressions**
 - Guitar: G, C, D, Em (strumming with downstrokes)
 - Theory:
 
@@ -1512,13 +1512,13 @@ really friendships that make me feel like I'm in service to them in some way?
 
 # 05-08-2025 
 
-  I think having an excitement or enthusiasm, or demonstrating what I already
+I think having an excitement or enthusiasm, or demonstrating what I already
 have, can make it so others don't flake. Make it feel like less of an
 obligation ya know
 
 # 05-08-2025 
 
-  What are the hidden pleasures I retain with Brandi and being poor and being
+What are the hidden pleasures I retain with Brandi and being poor and being
 unconfident?
 
 There's no conflict in lacking confidence. The worst that happens is I move out
@@ -1537,7 +1537,7 @@ I want to gain confidence without losing my chill.
 
 # 05-08-2025 
 
-  So I just wanted to talk a bit today about the difference in confidence and
+So I just wanted to talk a bit today about the difference in confidence and
 egotism in my mind. I'm tired of taking the stuff to ChatGPT cause I don't feel
 like I actually use that as any progress like I use that too and somewhere
 another escape presence, but I don't know if this is something I think I've
@@ -1645,7 +1645,7 @@ matter where you go**
 
 # 05-08-2025 
 
-  How do I get in the habit of prioritizing Him?
+How do I get in the habit of prioritizing Him?
 
 He says hi to everyone. Makes eye contact with confidence. He doesn't need
 permission to be himself, to talk to anyone. He just does it, and people find
@@ -1659,7 +1659,7 @@ concept of what each groove should *feel* like.
 
 # 05-08-2025 
 
-  I **will not** obsess over her today. It's all robbing me of my presence and
+I **will not** obsess over her today. It's all robbing me of my presence and
 it needs to stop. I think all of it stems from a lack of willpower. Or at least
 perception of will power. BUT ive noticed how the methods ChatGPT proposed
 align with what's already helped irl. Like having a higher Self to focus on
@@ -1669,7 +1669,7 @@ stronger.
 
 # 05-08-2025 
 
-  10 Ways I Provided Value Today
+10 Ways I Provided Value Today
 - Good teacher to Greg
 - Good listener to Amanda
 - supported Noah and Josh's cornhole game
@@ -1698,7 +1698,7 @@ ego
 
 # 05-08-2025 
 
-  Original message to chat gpt
+Original message to chat gpt
 
 > I think I already do the first 3. Like I guess…idk. It doesn't feel like most
 > of this is that much of a problem anymore. I don't shrink myself. I have
@@ -1856,7 +1856,7 @@ keep nearby?
 
 # 05-08-2025 
 
-  I wish I was as social lubed up as Josh. He's so effortless in initiating
+I wish I was as social lubed up as Josh. He's so effortless in initiating
 conversations with people. How does he do it?
 
 Who do I want to be? What does he look like in confidence? When he doesn't need
@@ -1868,7 +1868,7 @@ intention?
 
 # 05-07-2025 
 
-  Tried a shuffle drum beat and was surprised of how good it sounded! #progress
+Tried a shuffle drum beat and was surprised of how good it sounded! #progress
 
 In developing confidence, I've realized I have no habit for inner awareness of
 value. It makes sense why I've constantly undervalued myself, because I've
@@ -1892,7 +1892,7 @@ confidence to swoon people she's attracted to. Just cool enough to be herself.
 
 # 05-07-2025 
 
-  Why was I scanning signs in conversation for Robyn looking for her? Why did I
+Why was I scanning signs in conversation for Robyn looking for her? Why did I
 get defensive when it felt like he was hiding the fact he talked to her during
 a bible study? Like what is the purpose and how do I not do that? 
 
@@ -1920,11 +1920,11 @@ her solely to "hurt" or take revenge on her for not paying attention to me.
 
 # 05-07-2025 
 
-  She's larger than life so I have to be small #lyrics
+She's larger than life so I have to be small #lyrics
 
 # 05-07-2025 
 
-  When she called out, I felt disappointed and hurt, as if she was
+When she called out, I felt disappointed and hurt, as if she was
 intentionally doing it to hurt me. I feel a premonition that she may cancel
 Friday for whatever reason she can't come.
 
@@ -1942,7 +1942,7 @@ What is my goal here?
 
 # 05-07-2025 
 
-  Generosity directly leads to influence because, in a healthy group, the more
+Generosity directly leads to influence because, in a healthy group, the more
 you give the more others are willing to give back when asked #insight
 
 There's a much greater strength to my technique now than there ever has been.
@@ -1951,17 +1951,17 @@ especially in low dynamics. Really happy about that #drums #progress
 
 # 05-07-2025 
 
-  Drew Serrrero is in on doing the clinic. Who else can we get? Should it be a
+Drew Serrrero is in on doing the clinic. Who else can we get? Should it be a
 non profit?
 
 # 05-07-2025 
 
-  Meditation is so much easier when I go into it with the intention of just
+Meditation is so much easier when I go into it with the intention of just
 enjoying myself, still wanting to be disciplined but not expecting anything.
 
 # 05-06-2025 
 
-  I'm starting to understand the feeling of Bembe a lot better. It makes a lot
+I'm starting to understand the feeling of Bembe a lot better. It makes a lot
 more sense at faster tempos, but now I'm wondering how to get it to have the
 same kind of drive at a slower tempo. It also feels like it should swing more
 than I'm making it
@@ -1973,7 +1973,7 @@ I need tp on shirt
 
 # 05-06-2025 
 
-  Now that I understand feeling better in drums, it makes sense why I was so
+Now that I understand feeling better in drums, it makes sense why I was so
 bad at funk #drums #introspection
 
 Sometimes I worry that Carl isn't growing, but then I remember that we don't
@@ -1994,7 +1994,7 @@ How do I find the balance of being confident without being egotistical?
 
 # 05-05-2025 
 
-  There is an obsessive or at least persistent awareness of her, like I notice
+There is an obsessive or at least persistent awareness of her, like I notice
 this so much now today. No matter where I am In the room or what I'm doing, it
 feels like there's this hyper connection to where she is, what she's doing, who
 she's talking to, who she's texting, etc. almost like im constantly looking for
@@ -2010,16 +2010,16 @@ to minimize myself and wait for permission.
 
 # 05-05-2025 
 
-  Weird thick spot on leg, should get checked out
+Weird thick spot on leg, should get checked out
 
 # 05-05-2025 
 
-  Merth and Mischeif 
+Merth and Mischeif 
 
 
 # 05-05-2025 
 
-  Manipulation and lying can almost wholly be derived from the fact that in
+Manipulation and lying can almost wholly be derived from the fact that in
 order to get my mom to listen to me at all I had to over exaggerate everything
 
 So I think I'm really just looking for a way to embody this freedom more you
@@ -2084,7 +2084,7 @@ it's still stressful and hard.
 
 # 05-04-2025 
 
-  In reshaping my relationship with people in a more confident and loving way,
+In reshaping my relationship with people in a more confident and loving way,
 I hugged my entire mfamily on the way into the funeral, including cousins. This
 is huge #progress! It was crazy because I just walked up to them and did it,
 even afraid of how they would perceive it. But they all loved it!
@@ -2101,14 +2101,14 @@ support that"
 
 # 05-04-2025 
 
-  One reason I lie is to prevent rejecting others. How do I continue to
+One reason I lie is to prevent rejecting others. How do I continue to
 communicate with them that celebrates what they said in a way that doesn't
 reject them? Like Josh said he's been listening to the criticals. I haven't but
 I'm tempted to say I have. How do I continue the conversation from here?
 
 # 05-04-2025 
 
-  The trauma of being cheated on is coming up fairly frequently Or maybe not as
+The trauma of being cheated on is coming up fairly frequently Or maybe not as
 much let go as allow it to be there while I enjoy myself Maybe it's not just
 permission to like them, but permission to be myself.
 
@@ -2153,7 +2153,7 @@ When did I learn to feel this way?
 
 # 05-04-2025 
 
-  I want to be the type of person where u can see a boundary and immediately
+I want to be the type of person where u can see a boundary and immediately
 let someone know about it
 
 I just wanted to let you know that like I'm gonna be distancing myself a bit
@@ -2170,7 +2170,7 @@ I should tell her?
 
 # 05-04-2025 
 
-  I really do just need the reminder that she's not the center of my world
+I really do just need the reminder that she's not the center of my world
 Expectations for sex plays a huge part in the anxiety when approaching women.
 What would happen if I just talked to them and see where it went Need to renew
 my social goals
@@ -2190,11 +2190,11 @@ text
 
 # 05-01-2025 
 
-  Samurai Champu #reccomendation #anime
+Samurai Champu #reccomendation #anime
 
 # 05-04-2025 
 
-  One thing I noticed from tonight: So Stephen came up and complimented me a
+One thing I noticed from tonight: So Stephen came up and complimented me a
 lot on my performance. It was actually a really heartwarming experience. I
 remember for so long when I was getting started, all I wanted was his approval.
 This is probably the first time that I didn't really care if I got it, and yet
@@ -2207,60 +2207,60 @@ text
 
 # 05-04-2025 
 
-  Need to renew my social goals
+Need to renew my social goals
 
 What is the anxiety that her messages are relieving? It's a confidence thing I
 think? I remember this with the couple nice messages Jess sent
 
 # 05-04-2025 
 
-  Expectations for sex plays a huge part in the anxiety when approaching women.
+Expectations for sex plays a huge part in the anxiety when approaching women.
 What would happen if I just talked to them and see where it went
 
 # 05-03-2025 
 
-  I really do just need the reminder that she's not the center of my world 
+I really do just need the reminder that she's not the center of my world 
 
 # 05-03-2025 
 
-  Temporary Tattoos for Spare Change
+Temporary Tattoos for Spare Change
 
 https://www.stickermule.com/products/temporary-tattoos?utm_source=google&utm_medium=cpc&src=GOOG&cid=362721247&gad_source=1&gbraid=0AAAAADydqOni6axJGTu5CIgyMJzIhU-qI&gclid=EAIaIQobChMIqqPIq6yIjQMVbaxaBR2JGhwrEAAYASAAEgIpY_D_BwE
 
 # 05-03-2025 
 
-  The trauma of being cheated on is coming up fairly frequently
+The trauma of being cheated on is coming up fairly frequently
 
 # 05-03-2025 
 
-  Or maybe not as much let go as allow it to be there while I enjoy myself
+Or maybe not as much let go as allow it to be there while I enjoy myself
 
 # 05-03-2025 
 
-  Maybe it's not just permission to like them, but permission to be myself.
+Maybe it's not just permission to like them, but permission to be myself.
 
 Can I let all of this go for now and be present?
 
 # 05-03-2025 
 
-  Like it really feels like there's a tenderness and love to saying it without
+Like it really feels like there's a tenderness and love to saying it without
 intention, but the idea that she says all of that with some horniness or
 attraction puts this much more lustful spin on the whole thing and it feels
 like that's what hooks me in
 
 # 05-03-2025 
 
-  Like I even keep rejoining her social media so she'll notice me more
+Like I even keep rejoining her social media so she'll notice me more
 
 # 05-03-2025 
 
-  Looking back on it all now, I don't think I was as manipulative as I was just
+Looking back on it all now, I don't think I was as manipulative as I was just
 desperate for connection. This weird paradox of craving connection yet having
 to act like I didn't want it.
 
 # 05-03-2025 
 
-  It's with all women. I want the permission to be attracted to them
+It's with all women. I want the permission to be attracted to them
 
 The goal of being giving is to constantly be giving without having to think
 about it. Without fear that you won't recoup. The way to realize this is to
@@ -2268,14 +2268,14 @@ surround yourself with people who are equally willing to give back
 
 # 05-03-2025 
 
-  It's like there's a purity to her saying that stuff as a friend, because it's
+It's like there's a purity to her saying that stuff as a friend, because it's
 just genuine and true. But I don't want the purity. I want the intention. The
 dark and dirty. The idea that she's saying those things to elicit sex. Like
 she's trying to manipulate me. It's an expectation as much as it is a desire
 
 # 05-03-2025 
 
-  Important questions I need to ask
+Important questions I need to ask
 
 - _What am I hoping her message will prove to me right now?_
 - _What would I feel if I stopped trying to guess and just let myself want her,
@@ -2297,37 +2297,37 @@ the same way.
 
 # 05-03-2025 
 
-  Almost like my feelings become invalidated if she doesn't reciprocate them.
+Almost like my feelings become invalidated if she doesn't reciprocate them.
 When did I learn to feel this way?
 
 # 05-03-2025 
 
-  It's taking all of my willpower to not obsess over her response and try to
+It's taking all of my willpower to not obsess over her response and try to
 find hidden meaning in it. I know I have to do it, but it's really fucking hard
 right now especially since it feels like it's all I've ever done.
 
 # 05-03-2025 
 
-  Family feud tapings are free
+Family feud tapings are free
 
 # 05-03-2025 
 
-  The important thing is to stop doing it for her. Do it for Him. Align
+The important thing is to stop doing it for her. Do it for Him. Align
 yourself with Him and the right people will follow.
 
 # 05-03-2025 
 
-  The way to stop thinking about her is to once again become in love with the
+The way to stop thinking about her is to once again become in love with the
 highest version of myself. That's what worked last time, and I can already feel
 it working again. What does he look like now?
 
 # 05-03-2025 
 
-  Is that something I should tell her?
+Is that something I should tell her?
 
 # 05-03-2025 
 
-  I want to be the type of person where u can see a boundary and immediately
+I want to be the type of person where u can see a boundary and immediately
 let someone know about it
 
 I just wanted to let you know that like I'm gonna be distancing myself a bit
@@ -2343,12 +2343,12 @@ disposition. Just wanted to let you know that I've noticed it
 
 # 05-03-2025 
 
-  I feel like there's a lot more exploring to do with all the Lizzie stuff. Or
+I feel like there's a lot more exploring to do with all the Lizzie stuff. Or
 at least some kind of forgiveness or gratitude.
 
 # 05-03-2025 
 
-  I don't even really know how to continue from here like where to grow who to
+I don't even really know how to continue from here like where to grow who to
 become like I feel like the best part about the last time was, I was growing
 into a new person. You know it was like completely refreshed starting from the
 ground up and I had problems. All of them were like somewhat simple to solve
@@ -2446,7 +2446,7 @@ like that and humble what do you think?
 
 # 05-02-2025 
 
-  Trying to escape to have some kind of like time with the universe and I guess
+Trying to escape to have some kind of like time with the universe and I guess
 just talk about everything is going on with Brandy and Lizzie. It's like I have
 weird things circulating. It's like I'm just I'm frustrated. Frustrated cause I
 kind of just I wanna go over it all. I'm tired of thinking about it. You know I
@@ -2602,7 +2602,7 @@ about this.
 
 # 05-02-2025 
 
-  It's not a real moment, but something that runs through my head. Lizzie led
+It's not a real moment, but something that runs through my head. Lizzie led
 me on for 2 years, and in that time we were still pretty flirtatious. I think
 that in general really fucked up my ability to sense or trust it. But there was
 this one time I remembered like professing my love to her after not talking to
@@ -2634,7 +2634,7 @@ My fear of power is also getting in the way of all of this
 
 # 05-02-2025 
 
-  I think something I'm realizing is that the major reason I don't want to say
+I think something I'm realizing is that the major reason I don't want to say
 anything is I want her to keep trying. Or on the other side, the major reason I
 want to say something is because I want her to notice. It feels like I want to
 break up with her without ever dating her.
@@ -2695,7 +2695,7 @@ who isn't even fucking paying attention to me
 
 # 05-02-2025 
 
-  But it felt like the same exact thing as always. I had to scream to get her
+But it felt like the same exact thing as always. I had to scream to get her
 to fucking listen. I had to look like I was having a meltdown and I can't tell
 if that was a failure on my communication or her observation but it was the
 same as every relationship and I'm terrified that this spells out the exact
@@ -2723,13 +2723,13 @@ who isn't even fucking paying attention to me
 
 # 05-02-2025 
 
-  The most important and effective thing I can do is to come into work every
+The most important and effective thing I can do is to come into work every
 day with the conscious intention to ignore her. She is a distraction at this
 point that causes unneeded 
 
 # 05-02-2025 
 
-  Im trying to figure out how to reshape my relationship with her. Like I think
+Im trying to figure out how to reshape my relationship with her. Like I think
 obviously it's going to hurt her and I don't want it to. But I need this to be
 a permanent change. I've kept going back, falling back into her like an
 addiction or a bad habit, but all she does is create this large resistance to
@@ -2771,7 +2771,7 @@ as I am
 
 # 05-02-2025 
 
-  Who is the new Zach Ross?
+Who is the new Zach Ross?
 - Wokr
 - Nap
 - Figure it out
@@ -2808,7 +2808,7 @@ Yeah but what does that look like?
 
 # 05-02-2025 
 
-  Why did going to this show hurt so much? Or make me so anxious? I felt so
+Why did going to this show hurt so much? Or make me so anxious? I felt so
 abnormal
 
 Like why did being around her make me so uncomfortable and unconfident? Even
@@ -2825,11 +2825,11 @@ What does God think of all of this? How can I continue returning to myself?
 
 # 05-01-2025 
 
-  Dating that Bert show girl would be one hell of a career move
+Dating that Bert show girl would be one hell of a career move
 
 # 05-01-2025 
 
-  I'm not mad at her, I'm mad about every person in my life she represents.
+I'm not mad at her, I'm mad about every person in my life she represents.
 
 Look at everyone that surrounds her. Everyone that continues to be attracted to
 her. It hurts, but you're no different than any of them. You want to believe
@@ -2852,7 +2852,7 @@ this unconscious draw to her?
 
 # 05-01-2025 
 
-  In what ways am I contributing to my own suffering with Brandi?
+In what ways am I contributing to my own suffering with Brandi?
 
 - Sexual innuendos 
 - Expectations
@@ -2870,7 +2870,7 @@ that makes me question if that was the right move, and so I come back.
 
 # 04-30-2025 
 
-  The text is wished shed send.
+The text is wished shed send.
 
 Hey Zach, I've seen you're looking down pretty lately. How are you feeling?
 Just want you to know if you ever need anything, anything at all, I'm here for
@@ -2879,7 +2879,7 @@ me a call sometime. Love ya man
 
 # 04-30-2025 
 
-  What went wrong with teaching:
+What went wrong with teaching:
 - too much time shooting the shot, not aggressive enough about staying on
   topic. There's def a gentle way to do this
 - Need to demonstrate more and ask him to demonstrate more. You're more
@@ -2887,7 +2887,7 @@ me a call sometime. Love ya man
 
 # 04-30-2025 
 
-  It’s just so fucking daunting looking at my past recently. The past couple
+It’s just so fucking daunting looking at my past recently. The past couple
 days, the grief of all the change has made me reflect on my childhood. The more
 I looked, the more I just found that I was always alone. I was always bullied
 by my friends or led on by people I was in love with. One girl (Lizzie) led me
@@ -2902,7 +2902,7 @@ place and group of people that accepted me, but that’s besides the point
 
 # 04-29-2025 
 
-  I get it. I have daddy issues too. I surround myself with women who are all
+I get it. I have daddy issues too. I surround myself with women who are all
 in some regard in love with the idea of me because I don't know how to give
 that kind of attention to myself. I'm nice. I'm flirty. I'm not always
 intentionally flirty, but I just am. I'm a tease. I like the attention. I hate
@@ -2949,11 +2949,11 @@ many people.
 
 # 04-29-2025 
 
-  Matt walker sleep studies 
+Matt walker sleep studies 
 
 # 04-27-2025 
 
-  Really want to get a vintage gramophone and old jazz records to get the real
+Really want to get a vintage gramophone and old jazz records to get the real
 experience 
 
 The solution to finding a recording location where I won't disturb anyone is to
@@ -2968,7 +2968,7 @@ in return. #insight
 
 # 04-27-2025 
 
-  Testing
+Testing
 
 Still really neeed a water filter and trekking poles
 
@@ -2982,7 +2982,7 @@ any of them mean. But I'm also so hungry
 
 # 04-27-2025 
 
-  Hello"
+Hello"
 
 # 05-15-2025
 
@@ -3201,4 +3201,10 @@ with meteronome)
 - Practice room renovation that increases motivation/inspiration
     - Transformative experience, add mirrors, change lighting, pictures of other people and inspirations
 
+# 05-24-2024
 
+What im starting to understand after watching https://www.youtube.com/watch?v=-Coy3uS7RCo  is that Afro-Cuban is primarly taking a clave pattern and combining it with some other orientation of the other limbs that resembles the other instruments. I need to figure out how to explain this in simple terms because it's not described at all in this book. I'm also starting to understand how different the pulse is. I'm so used to 4/4 that I can feel it no matter where I go. The clave patterns are so different that I don't know where we are half the time.
+
+But simpler terms is like...okay now I get what the book is trying to do. I think I'm just not reading it well. The book is basically saying here are all the original parts, combine them to get this thing. I feel like I should be more patient with the whole thing. I'm not exploring it with enough curiosity.
+
+But the most insane part I'm realizing is just how different all these things are from 4/4. Like it's not like they're actually in 4/4 at all, there are times where no part of that pulse ever exists. Things just shift from 3-2 to 2-3, almost like it exists in a time separation of its own. Feeling it in 4/4 seems just wrong in that perspective. How do native players of these genres count, if at all?
