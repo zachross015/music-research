@@ -3083,4 +3083,122 @@ passion of it the groove of it the community of it then we can create a world
 where people worship through drumming just like the Africans did and the cubans
 the bembes and rumbas its so important to me this is my niche this will always
 be my niche i love drums i love drummers and every time i sit at the kit i feel
-like a kid again okay what else is there 
+like a kid again okay what else is there #soc
+
+# 05-16-2025
+
+Doing a brain dump to get all the drum knowledge out and about
+
+So there are typically 4 different clave pattern in Afro-Cuban music those are
+the bembe rumba son and bombo each of them with a folkloric feel the bembe
+started off in WEstern AFrica as a rhythm born from the bembes ceremony it's
+not exclusive to the bembe tribe and was instead part of a diverse set of the
+Yoruba tribes in west Africa the ceremony itself was a ritual full of
+improvised singing and dancing but now im curious how the son and rumba were
+derived exclusively anyways the part was typically spread out between 6
+instruments but i dont remember what each of the instruments were blah blah
+blah it was in 6/8 time and the rhythm was x.x..x.x.x.. so thats about it for
+the bembe i guess theres more idk okay so the next one was the rumba another
+folkloric rhythm that was thought to be derived from the bembe for the rumbas
+ceremony, a ceremony that combined African whythms with either African or
+Spanish HArmonies and was found in West Africa along with Cuba among other
+places its a 4/4 variation of the bembe that goes like x..x...x..x.x... instead
+of the 6/8 variation although if you hold them side by side they're about the
+same and for the most part they are played the same like if you decide to swing
+the rumba you basically get the bembe i dont think the rumba has any like
+derived music that ive heard of so far though next theres the son clave also
+called the salsa clave for its use in salsa music the son is from indigenous
+Cuba Feature African Rhythms and Spanish Harmonines wheras the rumbas is a
+ceremony of improvised song and dance the son has no ceremonial aspect that I
+can recall but I might just be dumb about that the difference between the rumba
+and son lies in one note which is x..x..x...x.x... yet this one note creates a
+genre difference it makes me wonder how much this connects to the axioms of
+math like are all genres derived from a single rhythm like a single pattern if
+rumba is that one pattern and son is the other and bombo is the next yet
+they've spawned such different genres with such different instrumentation it
+seems like both of these genres are just explorations of an underlying pattern
+an axiom of sorts if that's true then why were those ones specifically
+developed maybe they're just what people gravitated towards in the same sense
+like swing has the axiom of x..x.xx..x.x in 6/8 that's kind of a crazy
+realization see this is why i love putting fields together okay anyways the
+bombo is just the first bar of the son pattern so its x..x..x.x..x..x. over and
+over again and its typically called the bombo because the second note is
+accented by a drum called the bombo otherwise its just called the one bar clave
+so from these patterns different instrumentation was used up until this point
+and even further from this point none of this really involves a drum set these
+are fundamental and theoretical axioms that spawn a genre the next component is
+the palito and the cascara so the palito is a thin stick typically played on a
+gua gua drum which i dont know what that is or what tha looks like i feel like
+im finally starting to understand how this all pieces together and to an extent
+I feel like this is my fault going in with a misunderstanding i use to do this
+with math textbooks alot where it was like i went in not knowing what i was
+getting into and at first would get frustrated without tryint to undersatnd or
+get the bigger picture but its like when i come out to write about it or teach
+about it it makes all of this so much easier to understand maybe thats the
+teacher or maybe thats just me but i feel like i just dont pay attention to
+what im reading ecause even in having the difficult converstaion yesterday i
+feel like going back and reading how i couldve handled the situation better
+makes the book actually beneficial like its not there for understanding so much
+as reinforcement anyways yeah so the palito pattern is typically played
+unaccented as R.LR.R.RL.R.RL.L where the right hand keeps the rumba pattern
+further on the cascara pattern was plyaed by hitting the palito on the side of
+the timbales (cascara means shell so hit the shell of the timbales) it holds
+the same pattern as the palito except is done all on the right hand matched
+grip, replicating this on the drum set is typically done by hitting the side of
+the floor tom holy shit with the axiom thing i think i see that most good
+drummers play a solo around a centralized rhythm or an axiom its about going on
+a journey to discover this rhythm thats so sick so this is where i kinda forgot
+everything i know that the cascara pattern is typically only played on the son
+clave for salsa music, intermittent with conguears bongueras and bombueras i
+think thats all that play congos bongos and bombos resprectivley bombo is also
+still played here idk what else
+
+# 05-17-2025
+
+Group improv or music lessons classes for adults, akin to group acting classes. #business #ideas
+
+# 05-19-2025
+
+Simple rules and their evolution: one of my favorite things to explore in life
+is *the evolution of simple rules*. In biology, we have boids, in computer
+science we have conway's game of life, in mathematics we have axioms. In all
+cases, entire fields have been evolved from the structure of simple rules. In
+music, I've found this same semblance in clave patterns. In reading about
+Afro-Cuban rhythms, its become apparent that distinctive genres are always
+spawned from siple rules. From the Bembe, we've evolved the Rumba, Son, and
+Bombo clave patterns. Each one of which has distinctive rules no what
+instruments to use, what rhythms to play, what dances and melodies/harmonies
+are spawned on top of them, which scales to use, what ceremonies celebrate.
+Each of them has an entire culture that has evolved from the creation of
+rhythms displaced by one note (most important part). It makes me wonder, can we
+spawn new genres by changing the rhythm? #blogs #ideas #exerpt
+
+If I'm noticing this much improvement by half ass rehearsals throughout the
+week over one or wo challenges, imagine how much improvement I would see if I
+did *more* within a subject. I.e. 2 hours of accents instead of one, or adding
+diddles, or anything like that. Improvements would be out of this world. #inspiration
+
+One of my super powers is how critical and objective I can be. Balanced with
+mindfulness and my ability to synoptically connect subjects, it allows me to
+find patterns in places most people wouldn't. #strengths
+
+To make coaching more valuable: 
+- Set up same excel sheet (shared between me and client) for their
+  accountability and my own information on guiding their practice 
+I'm starting to understand it now. Have a base business (ie the 1-1 coaching)
+and everyday seek to make it more valuable. Adding value can be done by
+figuring out what their problems could be, and offering a solution. Over time,
+business will expand just by nature of encountering more problems and building
+more 1-many solutions at different resolutions (ie faster results for higher
+price, more personalized results for higher price, increased likelihood of
+achievement for higher price). The other side of this is the more i work with
+others, the easier it will become to diagnose specific issues and their
+solutions, which contributes back to my own practice. #business #coaching
+Low ball solution to accountability and other ideas: 
+- Start off with excel/notion templates for accountable practice. Eventually
+  work towards building an app with community feature (Strava but for music
+with meteronome)
+- Practice room renovation that increases motivation/inspiration
+    - Transformative experience, add mirrors, change lighting, pictures of other people and inspirations
+
+

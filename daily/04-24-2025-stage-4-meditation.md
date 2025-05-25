@@ -39,13 +39,25 @@ falls away. When it does so, return to the breath. Doing this practice over and
 over again will train the mind to stop resisting physical discomforts and
 instad just alert you to their presence.
 
-During this stage, it's also possible for emotional traumas to come back up again. It's important not to identify with these feelings and instead allow them to flow through you as...idk
+During this stage, it's also possible for emotional traumas to come back up
+again. It's important not to identify with these feelings and instead allow
+them to flow through you as...idk
 
 
 ## Questions
 
-1. Is it true that stable dullness should be achieved during this stage? What is the difference between stable, subtle, and strong dullness and how they can be detected?
-2. How are subtle and strong dullness overcome? Is it simplpy a matter of focus and intention?
-3. He begins to talk about how physical pain is a symptom here, yet I feel like I've hardly experienced this. Why? Or at least, I have experienced it yet have neglected it?
-4. Alot of the stuff I'm writing feels like I'm just recalling the book without having understood or truly experienced any of it. How can I put more of this into my own words? Most of it seems like I haven't actually attended to these things dilligently, so I can't speak from experience. Makes sense why I haven't progressed as far as I'd thought.
-6. Who am I describing this to? I feel like I'm just rewriting the book without understanding what I'm trying to convey?
+1. Is it true that stable dullness should be achieved during this stage? What
+is the difference between stable, subtle, and strong dullness and how they can
+be detected?
+2. How are subtle and strong dullness overcome? Is it simplpy a matter of focus
+and intention?
+3. He begins to talk about how physical pain is a symptom here, yet I feel like
+I've hardly experienced this. Why? Or at least, I have experienced it yet have
+neglected it?
+4. Alot of the stuff I'm writing feels like I'm just recalling the book without
+having understood or truly experienced any of it. How can I put more of this
+into my own words? Most of it seems like I haven't actually attended to these
+things dilligently, so I can't speak from experience. Makes sense why I haven't
+progressed as far as I'd thought.
+6. Who am I describing this to? I feel like I'm just rewriting the book without
+understanding what I'm trying to convey?
