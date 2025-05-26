@@ -1,7 +1,7 @@
 # 04-27-2025
 
 I don't even know where to begin today. So I've been thinking alot about
-dullness in meditation and it's become more apparaent to me what dullness is.
+dullness in #meditation and it's become more apparaent to me what dullness is.
 It's this nmbing of the sense, and I think the reason I got so tripped up in my
 meditations for so long was that I had confused dullness with the meditative
 joy that the book talks about but now it seems obvious that I have no idea what
@@ -240,7 +240,7 @@ underrepresented i want to cry about it because it almost seems like another
 place where ive chosen the lonelest instrument the one that no one pays
 attention to the instrument with walls its not that i chose it for those
 reasons like i absolutely love drums everything about it the way it feels to
-exert that energy i used to come home after a bad day or a breakup and i didn't
+exert that energy **i used to come home after a bad day or a breakup and i didn't
 want to run i didn't want to cry all i wanted to do was shit myself on the kit
 ecause i was playing so much all i wanted to do was play some heavy fucking
 rock music or heavy metal and beat all my problems away when i was bullied when
@@ -262,7 +262,7 @@ it allowed you express yourself because that was you in those few moments you
 could speak your truth in those few moments the universe aligned in your favor
 dad couldnt yell at you and mom couldnt bully or belittle you drumming was your
 escape and you have the power to give that to someone else you have the power
-to channel that expression to teach this skill but why are you so afraid to
+to channel that expression to teach this skill** #music #insight #emotional but why are you so afraid to
 teach it why are you trying to hide it why are you so afraid to express
 yourself here you love the drumms you hate the drums the drums challenge you
 theyve frustrated you youve felt misunderstood as a drummer you have so many
@@ -272,11 +272,11 @@ that you have to recognize that they've impacted your ability to play your
 ability to take risks your ability to shine on the stage eeryone loves when you
 play but you still dont feel like your'e good enough to belong there its
 addicting its gratifying its amazing when you get done with a show and they all
-tell you how good that show was how your fills popped off but the best feelings
+tell you how good that show was how your fills popped off but **the best feelings
 dont come from the stage they come from the conversations you get to have with
 your friends about music its like this whole other world opens up this new
 understanding for whats interesting whats fun this whole world of excellence
-its like anything that expands your mind like running or meditation why dont I
+its like anything that expands your mind like running or meditation**  #music #emotional why dont I
 want to pay for lessons of mentorship its not that i dont i just never feel
 like i know the right person theres still this barrier here that i dont
 understand like theres a heavy resistance that i cant quite explain its like i
@@ -466,8 +466,8 @@ permission to start to be told that congradulations now youre officially a
 drummer youre allowed to do whatever the fuck you want now and no one can say
 otherwise maybe theyre afraid because their parents discouraged art as
 meaningless when its so full of meaning its so fully beauty and spirituality
-like being told that drums is a way of communicating with the Gods has really
-been one of the most impactful things ive heard in a long tim from Jojo and the
+like **being told that drums is a way of communicating with the Gods has really
+been one of the most impactful things ive heard in a long tim from Jojo** #drums #religion and the
 Rumero its fascinating hearing about this whole other life style this religiion
 of drumming how do i continue to spread the love when i cant even understand
 the problem how can li create something valueable that they feel dumb rejecting
@@ -485,7 +485,7 @@ the power to control the band i no longer fear the power i once felt victim to
 i feel like im gaining a much broader control over it in an influential way not
 to be confused with domineering or manipulation or abuse of authority i just
 feel like i understand the instrument i posess and the respect for what i do
-but what do they want they want a glimpse of that power they live in a world
+but what do they want they want a glimpse of that power **they live in a world
 where that power was taken away from them where their voice was silenced they
 lived in a world where they had to ask permission all their life to be
 themselves and they finally want an outlit where they can be whoever they want
@@ -493,7 +493,7 @@ to be and be heard doing so they want to feel themselves and they want everyone
 in the room to feel the groove that they eminate the rhythm they walk to they
 want to inspire they want to connect and live hramoniously they want to be a
 trusted backbone a supportive cahrracter a generous mind for the world of
-musicians and the life they live. #soc
+musicians and the life they live.** #soc #music
 
 The trick to holding to sticks is just to make a fist with the stick in it,
 then move the thumb up and loosen the fingers. #technique #drums 
@@ -518,7 +518,7 @@ Yabu Kenke](https://www.youtube.com/watch?v=du15n1kO4i8) Most of the details of
 the story talk about how drumming is a way of communicating with the Gods.
 Similar to what Jojo Mayer was saying, drums are used to communicate over
 longer distances. They are loud so the Gods can hear us, and is a form of
-communion with them. Its a connection to the spirituatl realm  #bembe
+communion with them. Its a connection to the spirituatl realm  #bembe #music #drums
 
 What about a book that unconciously reinforces good practice habits? Like the
 15 min per day guitar book, but for drums? Or even, what about building a
@@ -733,8 +733,7 @@ Reddit, YouTube, drumming forums, and lesson sites. These are ordered by
 > Appeals to kinesthetic learners or those seeking movement.  "I can’t sit
 > still. I want to move while I play."
 
-# 05/13/20
-"# 05-14-2025 
+# 05-14-2025 
 
 This fucking video is hanging over my head. The sooner I can get it done, the
 less stress I'll be under. And I can actually move on to the next fucking video
@@ -2125,6 +2124,7 @@ them
 The goal of being giving is to constantly be giving without having to think
 about it. Without fear that you won't recoup. The way to realize this is to
 surround yourself with people who are equally willing to give back #insight
+
 It's like there's a purity to her saying that stuff as a friend, because it's
 just genuine and true. But I don't want the purity. I want the intention. The
 dark and dirty. The idea that she's saying those things to elicit sex. Like
