@@ -3208,3 +3208,11 @@ What im starting to understand after watching https://www.youtube.com/watch?v=-C
 But simpler terms is like...okay now I get what the book is trying to do. I think I'm just not reading it well. The book is basically saying here are all the original parts, combine them to get this thing. I feel like I should be more patient with the whole thing. I'm not exploring it with enough curiosity.
 
 But the most insane part I'm realizing is just how different all these things are from 4/4. Like it's not like they're actually in 4/4 at all, there are times where no part of that pulse ever exists. Things just shift from 3-2 to 2-3, almost like it exists in a time separation of its own. Feeling it in 4/4 seems just wrong in that perspective. How do native players of these genres count, if at all?
+
+# 05-25-2025
+
+Having a really hard time being decisive about the next decision for my business. I know I need to make a website, but have no idea what I'm doing as far as marketing goes. Or really what the fuck I'm trying to do. Like I think what I want more than anything is to be a drum coach, to solve other drummers problems and guide them. To get them to come to me with their problems and then create or find solutions for them so they can continue growing on their own. Having a hard time with the fears here, because I feel like an important step of this is to separate myself in some ways as an authority on drums. I'm trying way too hard to do it without actually talking to anyone.
+
+# 05-26-2025
+
+Strengthening my intentions seems to be somethign I really struggle with during #meditation
