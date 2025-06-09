@@ -4,8 +4,7 @@ Strengthening my intentions seems to be somethign I really struggle with during 
 
 Want to open mouth more when I talk
 
-What is a quick video on jazz bass drum?
-- Talk about history (tuba alternation in ragtime, backing the bass, then dropping bombs)
+What is a quick video on jazz bass drum?  - Talk about history (tuba alternation in ragtime, backing the bass, then dropping bombs)
 
 What EK work do I need to acknowledge the attraction in our dynamic?
 
@@ -15,14 +14,11 @@ Teaching people gives me leads on what to explore with people. Like Amanda wanti
 
 Did a good job of recognizing when I was obsessing over Brandi and detached from her #progress need to make this a major priority right nwo
 
-My big insecurity is that they're leaving me out because they don't like me
-- I'm too much for them
+My big insecurity is that they're leaving me out because they don't like me - I'm too much for them
 
 The best way to have power is to give more to others #insight
 
-Really need to work through
-- Limiting beliefs around excitement 
-- The tension-release trauma and what parts of it I enjoy
+Really need to work through - Limiting beliefs around excitement - The tension-release trauma and what parts of it I enjoy
 
 Everything is really weird right now. I feel somewhat numb to the pleasures I once had. Nothing about shrinkage or women's footwear really seems to be turning me on anymore. At least not in the way it used to. And attraction is changing. I'm just confused about what I find pleasure in, or if pleasure is even something I care about now.
 

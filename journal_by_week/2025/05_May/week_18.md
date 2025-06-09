@@ -1,110 +1,12 @@
 # 05-01-2025
 
-Starting out with analysis on this teaching session with Amanda. What is
-everything that went wrong?
+Starting out with analysis on this teaching session with Amanda. What is everything that went wrong?
 
-I dont think really much went wrong but mainly because it lacked direction. I
-think alot of wha tI was trying to do was understand where she was in her
-career with music. Learning how to teach someone else seems like it's actually
-going to be a lot of fun, like I can begin to see where the joy of teaching
-comes form. Like seeing where she is and where she can progress is amazing. But
-I think it's doing it with intention that I'm confusing myself about. Its
-making me realize that i definitely will not be able to take every student that
-comes my way mainly because i want to be sure to give her and whoever else im
-woring with the premium attention they deserve to succed, the kind of growth
-and attention i give to myself is what i want to give to others i guess where i
-feel like i went wrong is introductin music theory way too early i didn't have
-exercises planned i had a general idea of what i wanted to talk about and what
-to go over today but thats about it and i think moving forward its best if i
-create some kind of dedicated plan like if i looked at her skills and said what
-is the most major eweakness in regards to her goals what would it be honestly
-no clue so her goal is just to use the guitar as a form of creation to convy
-thoughts in her head through the medium of guitar what are all the skills shes
-missing i guess first a basic knowledge of music theory also how to move around
-the fretboard and what different chords mean and what different symbols mean
-and how to read sheet music and also how to write music but to be fair its not
-so much about being able to read and write as it is just being able to
-understand what a chord is even without necessarily knowing what each thing
-does and playing around with it seeing how they go into each other and stuff
-like that idk its really hard to figure out where to go from here so we can
-commit to several paths but what is the best one like as a year long plan and 3
-month plan and month plan and weekly plan where should we go and howdo we
-adjust i think thats the first thing say where should she be a year from now
-what is like typical or expected like i dont think we have to get her all the
-way to doing stuff like what is too easy what is too hard how do we build more
-of repetoire especially with how skilled i am to begin with like i know quite a
-bit but mst of what i know is from fucking around on the guitar and finding out
-i guess creating a roadmap and a consistent practice schedule should be the
-first thing i feel like doing it like my therapis would have done it seems like
-the right approach have the settle in a nd warmup period andlet that kind of
-guide the discussion I also dont feel like I conveyed everything the way I
-wished I had like I wanted to say things so much more like artfully or
-poetically maybe I just hadnt thought them through but she understood and lke
-it doesnt seem like she had complaints i guess we'll find out as time goes on
-what the verdict is but I feel like my rough edges are in the terminology alot
-of the time and getting that part clear being able to communicate that sort of
-thing well and also some more complicated topics idk im confused i dont really
-know how to grow from here like i feel like i look on that lesson thinking yeah
-that went pretty well but i think i wished it was more structured in a way not
-freeballed it just felt a little frustrating i guess like idk it wasnt really
-frustrating like i really eenjoyed almost all of it and i feel like this is an
-area where i can really excel but im beginning to see where my faults are and i
-want to practice this the same way id practice music  like there were so many
-points where I could tell i wasn't able to communicate clearly and effectively
-and i feel like that was a failure on my part as a teacher
+I dont think really much went wrong but mainly because it lacked direction. I think alot of wha tI was trying to do was understand where she was in her career with music. Learning how to teach someone else seems like it's actually going to be a lot of fun, like I can begin to see where the joy of teaching comes form. Like seeing where she is and where she can progress is amazing. But I think it's doing it with intention that I'm confusing myself about. Its making me realize that i definitely will not be able to take every student that comes my way mainly because i want to be sure to give her and whoever else im woring with the premium attention they deserve to succed, the kind of growth and attention i give to myself is what i want to give to others i guess where i feel like i went wrong is introductin music theory way too early i didn't have exercises planned i had a general idea of what i wanted to talk about and what to go over today but thats about it and i think moving forward its best if i create some kind of dedicated plan like if i looked at her skills and said what is the most major eweakness in regards to her goals what would it be honestly no clue so her goal is just to use the guitar as a form of creation to convy thoughts in her head through the medium of guitar what are all the skills shes missing i guess first a basic knowledge of music theory also how to move around the fretboard and what different chords mean and what different symbols mean and how to read sheet music and also how to write music but to be fair its not so much about being able to read and write as it is just being able to understand what a chord is even without necessarily knowing what each thing does and playing around with it seeing how they go into each other and stuff like that idk its really hard to figure out where to go from here so we can commit to several paths but what is the best one like as a year long plan and 3 month plan and month plan and weekly plan where should we go and howdo we adjust i think thats the first thing say where should she be a year from now what is like typical or expected like i dont think we have to get her all the way to doing stuff like what is too easy what is too hard how do we build more of repetoire especially with how skilled i am to begin with like i know quite a bit but mst of what i know is from fucking around on the guitar and finding out i guess creating a roadmap and a consistent practice schedule should be the first thing i feel like doing it like my therapis would have done it seems like the right approach have the settle in a nd warmup period andlet that kind of guide the discussion I also dont feel like I conveyed everything the way I wished I had like I wanted to say things so much more like artfully or poetically maybe I just hadnt thought them through but she understood and lke it doesnt seem like she had complaints i guess we'll find out as time goes on what the verdict is but I feel like my rough edges are in the terminology alot of the time and getting that part clear being able to communicate that sort of thing well and also some more complicated topics idk im confused i dont really know how to grow from here like i feel like i look on that lesson thinking yeah that went pretty well but i think i wished it was more structured in a way not freeballed it just felt a little frustrating i guess like idk it wasnt really frustrating like i really eenjoyed almost all of it and i feel like this is an area where i can really excel but im beginning to see where my faults are and i want to practice this the same way id practice music  like there were so many points where I could tell i wasn't able to communicate clearly and effectively and i feel like that was a failure on my part as a teacher
 
-Okay now for business stuff. I don't really have a question I want to ask
-today. What are my insecurities with drumming?
+Okay now for business stuff. I don't really have a question I want to ask today. What are my insecurities with drumming?
 
-I guess my insecurities with drumming is that ts loud the neighbors get fucking
-annoyed and Griffin was such a piece of shit and terrible player that every
-time i heard him play i wanted to fuckingkill him he really fucked up drumming
-for me because before it was really like play as loud and inconsideratly as you
-can but now its like dont break the peace dont do anything to make him start a
-conversation with you i feel like im getting away fro the point its not so much
-about my insecurities as it is like why do i have a hard time being so excitted
-about drums why do i have a hard time sticking up for myself i feel like the
-different action i need to take in this scenario is to actually talk to Brandi
-like instead of hiding the fact that im distancing myself from her actually own
-up to tht efact that i lead her on and now i feel guilty about having done so
-and its like now i feel my attnetion beginning to shift because ive realized
-that her and i genuinely have nothing to talk about like with Russ it feels
-like i have a vested interest in his life outside of work like with everything
-else happening and its lie i can just go hike with kevin why is it i have hiked
-so many times with Brandi but noever with Andy why is it that ive devoted so
-much of my time andenergy to her instead of giving it to the people that i
-actually enjoy being around like amanda and david and andy and jaida and momo
-and kevin like i fell like im waking up after having been blinded for years now
-having stared right at the sun having confronted someone who has no
-conversational dynamic with me outside of just complaining about all the guys
-shes with its like the glamour has suddenly faeed and i realize the reason im
-always so anxious around her is because i feel this constant judgement i feel
-just fucking bored like i have absolutely nothing to say when im not bullying
-her i have nothing to talk bout nothing at all and ive escaped my intentions
-unfortunatly but ive been meaning to talk about this like what else am i
-insecure about with drumming or with anything i think its a confidence issue
-its weird i enjoy teaching now that im getting more used to it i need a better
-rasp on it still but its nice having students who are such good listeners
-anyways idk idk idk whatother insecurities i have while drumming like i
-definitely have a lot which it hin makes it even harder to start something i
-also just cant tell what is wrong like i need ot proress here and i thnk im
-looking for more part of the problem is i didnt review this yesterday and im
-definitely not going to be able to today so its like all the questions and
-curiosities are evading me idk i feel like there are much deeper insecurities
-tied to self esteem and confidence and i feel like with the people ive been
-surrounded with before it makes sense idk what it is theres still alot of pride
-there maybe its shit that just needs to be let go of im unceratin i dont know
-what to write about right now i dont even really unerstand what the point of it
-all is God please help me i need help understanding and pushing through all
-this getting this business up and running i feel like I'm so fucking close but
-I still don't completely understand what the core package is and how to
-advertise it like i thnk through Amanda I realize that I dont have to solve
-every problem right away but I still can't really imagine why someone would
-pick up the drums in the first place i still dont even really understand groove
-oriented genres which to me is the main reason to pick it up i feel like I'm
-somewhere in between trying to learn why other people start playingdrums and
-learning why I  play in the first place and its really a perplexing puzzle to
-me
+I guess my insecurities with drumming is that ts loud the neighbors get fucking annoyed and Griffin was such a piece of shit and terrible player that every time i heard him play i wanted to fuckingkill him he really fucked up drumming for me because before it was really like play as loud and inconsideratly as you can but now its like dont break the peace dont do anything to make him start a conversation with you i feel like im getting away fro the point its not so much about my insecurities as it is like why do i have a hard time being so excitted about drums why do i have a hard time sticking up for myself i feel like the different action i need to take in this scenario is to actually talk to Brandi like instead of hiding the fact that im distancing myself from her actually own up to tht efact that i lead her on and now i feel guilty about having done so and its like now i feel my attnetion beginning to shift because ive realized that her and i genuinely have nothing to talk about like with Russ it feels like i have a vested interest in his life outside of work like with everything else happening and its lie i can just go hike with kevin why is it i have hiked so many times with Brandi but noever with Andy why is it that ive devoted so much of my time andenergy to her instead of giving it to the people that i actually enjoy being around like amanda and david and andy and jaida and momo and kevin like i fell like im waking up after having been blinded for years now having stared right at the sun having confronted someone who has no conversational dynamic with me outside of just complaining about all the guys shes with its like the glamour has suddenly faeed and i realize the reason im always so anxious around her is because i feel this constant judgement i feel just fucking bored like i have absolutely nothing to say when im not bullying her i have nothing to talk bout nothing at all and ive escaped my intentions unfortunatly but ive been meaning to talk about this like what else am i insecure about with drumming or with anything i think its a confidence issue its weird i enjoy teaching now that im getting more used to it i need a better rasp on it still but its nice having students who are such good listeners anyways idk idk idk whatother insecurities i have while drumming like i definitely have a lot which it hin makes it even harder to start something i also just cant tell what is wrong like i need ot proress here and i thnk im looking for more part of the problem is i didnt review this yesterday and im definitely not going to be able to today so its like all the questions and curiosities are evading me idk i feel like there are much deeper insecurities tied to self esteem and confidence and i feel like with the people ive been surrounded with before it makes sense idk what it is theres still alot of pride there maybe its shit that just needs to be let go of im unceratin i dont know what to write about right now i dont even really unerstand what the point of it all is God please help me i need help understanding and pushing through all this getting this business up and running i feel like I'm so fucking close but I still don't completely understand what the core package is and how to advertise it like i thnk through Amanda I realize that I dont have to solve every problem right away but I still can't really imagine why someone would pick up the drums in the first place i still dont even really understand groove oriented genres which to me is the main reason to pick it up i feel like I'm somewhere in between trying to learn why other people start playingdrums and learning why I  play in the first place and its really a perplexing puzzle to me
 
 Samurai Champu #reccomendation #anime
 
@@ -112,401 +14,88 @@ Dating that Bert show girl would be one hell of a career move
 
 I'm not mad at her, I'm mad about every person in my life she represents.
 
-Look at everyone that surrounds her. Everyone that continues to be attracted to
-her. It hurts, but you're no different than any of them. You want to believe
-maybe you're special, but she's a whore and you've fallen for it. That's okay,
-we can get out of this.
+Look at everyone that surrounds her. Everyone that continues to be attracted to her. It hurts, but you're no different than any of them. You want to believe maybe you're special, but she's a whore and you've fallen for it. That's okay, we can get out of this.
 
-When I genuinely look at how I am around her, I'm not happy. I'm on edge. I'm
-depraved. I'm egotistical. 
+When I genuinely look at how I am around her, I'm not happy. I'm on edge. I'm depraved. I'm egotistical. 
 
-And I genuinely believe that to some extent, the reason we've continued to be
-connected is because I needed to have this realization. There was a part of me
-I didn't understand and she's said that light. How do I, as the more confident
-and less of a push over Zach, respond to this? How do I distance myself? How do
-I do so while staying friends? Is staying friends even something I want here?
+And I genuinely believe that to some extent, the reason we've continued to be connected is because I needed to have this realization. There was a part of me I didn't understand and she's said that light. How do I, as the more confident and less of a push over Zach, respond to this? How do I distance myself? How do I do so while staying friends? Is staying friends even something I want here?
 
 Almost as an experiment, I'm trying to see if me walking away does anything.
 
-How can I create a constant reminder that she's bad? Or how can I get out of
-this unconscious draw to her?
+How can I create a constant reminder that she's bad? Or how can I get out of this unconscious draw to her?
 
 In what ways am I contributing to my own suffering with Brandi?
 
-- Sexual innuendos 
-- Expectations
-- Playful bullying
-- Vested interest in her personal life without reciprocation 
-- Every time I start to pull away, she does something to bring me back in.
-  Including me in her life in some way or doing something for me. It's like
-there's this large zone between us where we only seem to make effort if one of
-us exits the zone. Like to pull each other back in. Or at the very least, it
-seems like over and over again I try to leave and inevitably she does something
-that makes me question if that was the right move, and so I come back.
-- Prioritizing her over people like Kevin and Andy who I would genuinely have a
-  good time hiking with
+- Sexual innuendos - Expectations - Playful bullying - Vested interest in her personal life without reciprocation - Every time I start to pull away, she does something to bring me back in.  Including me in her life in some way or doing something for me. It's like there's this large zone between us where we only seem to make effort if one of us exits the zone. Like to pull each other back in. Or at the very least, it seems like over and over again I try to leave and inevitably she does something that makes me question if that was the right move, and so I come back.  - Prioritizing her over people like Kevin and Andy who I would genuinely have a good time hiking with
 
 # 05-02-2025
 
-Trying to escape to have some kind of like time with the universe and I guess
-just talk about everything is going on with Brandy and Lizzie. It's like I have
-weird things circulating. It's like I'm just I'm frustrated. Frustrated cause I
-kind of just I wanna go over it all. I'm tired of thinking about it. You know I
-didn't practice today because of I meditate. I'm just exercising now. It's just
-kind of getting in the way of life I feel like that's all Brandy has been. I
-mean she's great but just feel like it's constantly getting in the way of it
-feels like my higher purpose and the fact that I haven't even like finished
-this core package. It's frustrating me today Because I think I wanted to get it
-done this week so that way you can advertising for it I have a Starbucks so
-that I don't have to see her anymore, but you're I still am I don't know. I'm
-just I'm all up in my feelings because of everything that happened today Like
-the sincerity she had when she asked me what was going on and hugged me. It's
-like it wasn't special like it was nice. She does that with everyone. I think
-it's just it's I guess humbling to say the least you know it's humbling to see
-her treat me the same as so many other people it feels like I'm like coming
-back to earth and I guess I just I feel delusional and it all just triggers me
-because of everything that happened with Lizzie's like was this even real to
-begin with or did I always imagine it you know like because I just stupid this
-whole time Did I let myself get caught up in like a fantasy land even with
-someone I didn't want to be with, and it's like the thing that draws me to her
-or has drawn me to her I think is always been this powered of like she feels
-dangerous like I think it was reassuring to hear that from Gregory that Despite
-her goodwill and good intentions, she just kind of feels dangerous to be around
-you know like there's that side to her that's still there, but I do think it's
-the power dynamic and it's like it doesn't even feel like it actually exist but
-like I don't know, I guess I'm. I'm thinking about some of the stuff that came
-up today when I was writing stuff out and that it feels like my fantasies
-reflect the nature of reality like the way I see myself in these fantasies
-still reflects the power dynamic. We have like the fact that I could see her
-just like using me like that says something about our relationship. It's just
-it feels so destructive. It's like at this point I don't even wanna know the
-truth. I don't wanna know if she also has feelings cause it just feels like too
-big of a risk, but it's also it's frustrating looking back on so much of my
-life like the fact that I could never be attracted to women or not be attracted
-them, but like the fact that I could never pursue them, seems to be like super
-rooted in this concept in the stories that created Like this is frustrating
-because I don't wanna be dealing with this like I would much rather be dealing
-with like the whole power power issue you know like wise power so scary to me
-and wise like I don't know how do I gain more confidence and stand up for
-myself more like those to me feel like the things I should be dealing with not
-the fucking brandy thing over and over again, but I mean, I guess to an extent
-that's part of it Can you kind of sucks that just like those fantasies feel so
-good in the bedroom that's something about so satisfying. It's like every time
-I'm around her. I think about those things you know I imagine what it be like
-and I mean, I think part of it because we have had those kind of conversations.
-I don't feel like I can trust anything I don't know how to trust anything like
-I don't know it's just it's so frustrating because now like last night I had
-this this woman I was dancing with and I couldn't see that there was a spark. I
-couldn't trust it was there because of this it feels like you know and it's
-like because of the bullying I couldn't make moves Just all of it feels like
-this cluster fuck I don't know. I feel like I'm ranting, which is good, but I'm
-not really doing anything you know I'm not like trying to improve on it like I
-guess my intention right now is that I wanna get back to being my attachment
-you know like to having the insecurity in that confidence and who I am and
-where I'm going It's like I have a lot of that I guess part of is like I don't
-know I feel like I have a misconception at what confidence looks like it feels
-like or something because I think I have it in some regards but not others. It
-feels like the first time I've actually thought about this stuff. I don't know
-I guess like last year or two years ago basically whenever I was going through
-all the stuff like what made it better was that I had someone I wanted to
-become and because of all the uprooting it was like this is how I move away
-from it Like if I become this person then I think there's some extent it was
-like maybe she would love me again, but I think all in all also just what would
-help me to love myself cause I mean if you look at it, I think it is like the
-things I think that she would want me to be with the things that in the end I
-wanted to be And it feels like when I first started at Starbucks I had that you
-know I had that vision for where I wanted to go who I wanted to be what that
-person looks like I had the meditations in the inner child work kind of on wrap
-constantly you know I felt like I felt complete I felt like at home almost all
-the time and I have this pain that I have right now, but I felt like at peace,
-which isn't exactly true. I mean, if I go through most of my journals, a
-nightmare which reminds me I need to I like having these drafts and I like
-having this analysis kind of method, but I don't like doing it for emotional
-work like it feels like it's much better for something that I'm making a
-product from but like all this emotional work I feel like the analog is a much
-better way to go about it. That's it I think having some kind of method to do
-this like stream of consciousness or like to just talk about it without having
-to write everything does help, but I don't like the idea of you know keeping it
-around or I don't know recording it. I like recording it because I wanna
-witness but I don't like having it later because I don't like the idea of
-mixing it with more creative work But maybe that's dumb. I just like I miss
-taking myself on dates and taking care of myself you know like I just dropped
-$200 on books because I wanted to for a long time and I feel like it is a good
-investment into who I wanna be And it's important to me. You know I love
-reading so it'll be good. I don't know like I wish she showed up more and it's
-like I feel like I'm constantly looking for signs like I'm obsessed with signs
-and expectations and you know like her saying that she wants to come be my fan
-girl and take pictures of me Playing. I'm like OK do it like if you're gonna
-say do it do it or like I don't know the fact that Russ and Cade talked about
-us flirting and her not denying it and reminding me of Jess anyway like getting
-back just I feel like I do feel the most attractive and really am the most
-attractive when I am centered. Do you know when I focus on the present and
-becoming the best version of myself not trying to like cater to her or anyone
-else like if I just sit there and be me But I think right now it just feels
-really hard to do that. I don't really know why it just does it frustrating to
-feel like to feel like I'm not even paying attention to myself. It's like why
-should anyone else if I'm not going to? It's like it's not even the
-responsibility anyway like there's a version of myself I wanna be and I feel
-like I'm only gonna bring people and if I become that person, I don't know. I
-really need to make room for other communities like I feel like now that I've
-understood all that stuff there's so much like it's not just the lack of
-confidence. It's like I think it's just mistrust everywhere cause like having
-been bullied so much. It's like now. I don't trust communities either. It feels
-like the core theme of any of it is. I just don't trust other people like I
-don't feel like I can trust my instincts around other people because all I've
-been taught is that they're deceptive and they hurt you and they don't care
-about you and even when I have people again he and Jada asked her whoever else
-in my life I'd like I don't have the peace that I once felt and part of that's
-just I haven't been meditating as much, which is frustrating and I mean that
-that is part of like not committing to myself as much. I don't even really know
-what it is. It's like like I'm journaling more than I ever have before. I'm
-trying to learn more like a more committed to what I'm doing it's just I made a
-really really difficult time dealing with so many weaknesses you know like
-businesses a weakness and community challenges are weaknesses and trust issues
-and all the stuff it's like all of that is coming to light and it's like I once
-felt so safe and now it's like oh well all the sudden your house has like you
-know holes all over it it's like yeah they were there to begin with, but it was
-nice being oblivious. I just don't feel like I'm letting it all go and I'm in
-pain and I feel like I'm waking up to the fact that I've been lying for so long
-and it's just it's making me feel guilty. It's like I've known I've been doing
-this, but I guess I didn't feel like it had consequences because it's it's like
-a really interesting insight into mindfulness I think just having all these
-journals that I can look back on and say like I did intend to do this I
-intended to see how I interacted with Brandy for so long like to some extent I
-intended to stay Addicted to her like I knew this was going to happen
-eventually and I just kept putting it off over and over because I wanted to
-understand essentially what I'm looking at now you know like the pains with
-Lizzie and the trust issues in the community issues issues with people flaking
-and stuff like that it's just such a mixed bag Of Things that I've never
-actually dealt with all coming to light and I'm just I'm trying to find Grace
-and it all, I'm trying to find a way to be grateful for her in spite of all of
-this and that really hurt to say but it felt like the right thing like I'm
-trying to find a way to continue to feel the same love I have for her and for
-other people, knowing what I know now and I mean, like I think the good thing
-is, I can reflect on all the journals I've had and see that there were some
-really messed up ones and they're still are like It's not terrible thing but
-it's like it feels like when I read them there is so much greater distance
-between the bad times which I think it's just a sign it's working like I wish I
-could point out what were the big changes to happen but every time it feels
-like it was a revelation on something Really painful like the big one in
-California was that big explosion and I wish I kept the video for that because
-it was a really important moment she couldn't stand to watch that stuff now I
-know you know it's like this time. The big moment is realizing that all of it
-goes back to Lizzie Lizzie also all my other friends that hurt me. It's like I
-feel like all of this is like necessary on my route to becoming you know the
-best Drummer alive. You be becoming a better teacher also like a sidenote, I've
-realized that a big part of my fear of like teaching comes from the same power
-dynamic that I'm afraid of and like I feel like as I gain more comfortable with
-like a stronger sense of leadership and a stronger sense of power that I'll
-probably be a better teacher or at least like I'll be more willing to see
-myself as that kind of authority. I'm curious to hear what you have to say
-about this.
+Trying to escape to have some kind of like time with the universe and I guess just talk about everything is going on with Brandy and Lizzie. It's like I have weird things circulating. It's like I'm just I'm frustrated. Frustrated cause I kind of just I wanna go over it all. I'm tired of thinking about it. You know I didn't practice today because of I meditate. I'm just exercising now. It's just kind of getting in the way of life I feel like that's all Brandy has been. I mean she's great but just feel like it's constantly getting in the way of it feels like my higher purpose and the fact that I haven't even like finished this core package. It's frustrating me today Because I think I wanted to get it done this week so that way you can advertising for it I have a Starbucks so that I don't have to see her anymore, but you're I still am I don't know. I'm just I'm all up in my feelings because of everything that happened today Like the sincerity she had when she asked me what was going on and hugged me. It's like it wasn't special like it was nice. She does that with everyone. I think it's just it's I guess humbling to say the least you know it's humbling to see her treat me the same as so many other people it feels like I'm like coming back to earth and I guess I just I feel delusional and it all just triggers me because of everything that happened with Lizzie's like was this even real to begin with or did I always imagine it you know like because I just stupid this whole time Did I let myself get caught up in like a fantasy land even with someone I didn't want to be with, and it's like the thing that draws me to her or has drawn me to her I think is always been this powered of like she feels dangerous like I think it was reassuring to hear that from Gregory that Despite her goodwill and good intentions, she just kind of feels dangerous to be around you know like there's that side to her that's still there, but I do think it's the power dynamic and it's like it doesn't even feel like it actually exist but like I don't know, I guess I'm. I'm thinking about some of the stuff that came up today when I was writing stuff out and that it feels like my fantasies reflect the nature of reality like the way I see myself in these fantasies still reflects the power dynamic. We have like the fact that I could see her just like using me like that says something about our relationship. It's just it feels so destructive. It's like at this point I don't even wanna know the truth. I don't wanna know if she also has feelings cause it just feels like too big of a risk, but it's also it's frustrating looking back on so much of my life like the fact that I could never be attracted to women or not be attracted them, but like the fact that I could never pursue them, seems to be like super rooted in this concept in the stories that created Like this is frustrating because I don't wanna be dealing with this like I would much rather be dealing with like the whole power power issue you know like wise power so scary to me and wise like I don't know how do I gain more confidence and stand up for myself more like those to me feel like the things I should be dealing with not the fucking brandy thing over and over again, but I mean, I guess to an extent that's part of it Can you kind of sucks that just like those fantasies feel so good in the bedroom that's something about so satisfying. It's like every time I'm around her. I think about those things you know I imagine what it be like and I mean, I think part of it because we have had those kind of conversations.  I don't feel like I can trust anything I don't know how to trust anything like I don't know it's just it's so frustrating because now like last night I had this this woman I was dancing with and I couldn't see that there was a spark. I couldn't trust it was there because of this it feels like you know and it's like because of the bullying I couldn't make moves Just all of it feels like this cluster fuck I don't know. I feel like I'm ranting, which is good, but I'm not really doing anything you know I'm not like trying to improve on it like I guess my intention right now is that I wanna get back to being my attachment you know like to having the insecurity in that confidence and who I am and where I'm going It's like I have a lot of that I guess part of is like I don't know I feel like I have a misconception at what confidence looks like it feels like or something because I think I have it in some regards but not others. It feels like the first time I've actually thought about this stuff. I don't know I guess like last year or two years ago basically whenever I was going through all the stuff like what made it better was that I had someone I wanted to become and because of all the uprooting it was like this is how I move away from it Like if I become this person then I think there's some extent it was like maybe she would love me again, but I think all in all also just what would help me to love myself cause I mean if you look at it, I think it is like the things I think that she would want me to be with the things that in the end I wanted to be And it feels like when I first started at Starbucks I had that you know I had that vision for where I wanted to go who I wanted to be what that person looks like I had the meditations in the inner child work kind of on wrap constantly you know I felt like I felt complete I felt like at home almost all the time and I have this pain that I have right now, but I felt like at peace, which isn't exactly true. I mean, if I go through most of my journals, a nightmare which reminds me I need to I like having these drafts and I like having this analysis kind of method, but I don't like doing it for emotional work like it feels like it's much better for something that I'm making a product from but like all this emotional work I feel like the analog is a much better way to go about it. That's it I think having some kind of method to do this like stream of consciousness or like to just talk about it without having to write everything does help, but I don't like the idea of you know keeping it around or I don't know recording it. I like recording it because I wanna witness but I don't like having it later because I don't like the idea of mixing it with more creative work But maybe that's dumb. I just like I miss taking myself on dates and taking care of myself you know like I just dropped $200 on books because I wanted to for a long time and I feel like it is a good investment into who I wanna be And it's important to me. You know I love reading so it'll be good. I don't know like I wish she showed up more and it's like I feel like I'm constantly looking for signs like I'm obsessed with signs and expectations and you know like her saying that she wants to come be my fan girl and take pictures of me Playing. I'm like OK do it like if you're gonna say do it do it or like I don't know the fact that Russ and Cade talked about us flirting and her not denying it and reminding me of Jess anyway like getting back just I feel like I do feel the most attractive and really am the most attractive when I am centered. Do you know when I focus on the present and becoming the best version of myself not trying to like cater to her or anyone else like if I just sit there and be me But I think right now it just feels really hard to do that. I don't really know why it just does it frustrating to feel like to feel like I'm not even paying attention to myself. It's like why should anyone else if I'm not going to? It's like it's not even the responsibility anyway like there's a version of myself I wanna be and I feel like I'm only gonna bring people and if I become that person, I don't know. I really need to make room for other communities like I feel like now that I've understood all that stuff there's so much like it's not just the lack of confidence. It's like I think it's just mistrust everywhere cause like having been bullied so much. It's like now. I don't trust communities either. It feels like the core theme of any of it is. I just don't trust other people like I don't feel like I can trust my instincts around other people because all I've been taught is that they're deceptive and they hurt you and they don't care about you and even when I have people again he and Jada asked her whoever else in my life I'd like I don't have the peace that I once felt and part of that's just I haven't been meditating as much, which is frustrating and I mean that that is part of like not committing to myself as much. I don't even really know what it is. It's like like I'm journaling more than I ever have before. I'm trying to learn more like a more committed to what I'm doing it's just I made a really really difficult time dealing with so many weaknesses you know like businesses a weakness and community challenges are weaknesses and trust issues and all the stuff it's like all of that is coming to light and it's like I once felt so safe and now it's like oh well all the sudden your house has like you know holes all over it it's like yeah they were there to begin with, but it was nice being oblivious. I just don't feel like I'm letting it all go and I'm in pain and I feel like I'm waking up to the fact that I've been lying for so long and it's just it's making me feel guilty. It's like I've known I've been doing this, but I guess I didn't feel like it had consequences because it's it's like a really interesting insight into mindfulness I think just having all these journals that I can look back on and say like I did intend to do this I intended to see how I interacted with Brandy for so long like to some extent I intended to stay Addicted to her like I knew this was going to happen eventually and I just kept putting it off over and over because I wanted to understand essentially what I'm looking at now you know like the pains with Lizzie and the trust issues in the community issues issues with people flaking and stuff like that it's just such a mixed bag Of Things that I've never actually dealt with all coming to light and I'm just I'm trying to find Grace and it all, I'm trying to find a way to be grateful for her in spite of all of this and that really hurt to say but it felt like the right thing like I'm trying to find a way to continue to feel the same love I have for her and for other people, knowing what I know now and I mean, like I think the good thing is, I can reflect on all the journals I've had and see that there were some really messed up ones and they're still are like It's not terrible thing but it's like it feels like when I read them there is so much greater distance between the bad times which I think it's just a sign it's working like I wish I could point out what were the big changes to happen but every time it feels like it was a revelation on something Really painful like the big one in California was that big explosion and I wish I kept the video for that because it was a really important moment she couldn't stand to watch that stuff now I know you know it's like this time. The big moment is realizing that all of it goes back to Lizzie Lizzie also all my other friends that hurt me. It's like I feel like all of this is like necessary on my route to becoming you know the best Drummer alive. You be becoming a better teacher also like a sidenote, I've realized that a big part of my fear of like teaching comes from the same power dynamic that I'm afraid of and like I feel like as I gain more comfortable with like a stronger sense of leadership and a stronger sense of power that I'll probably be a better teacher or at least like I'll be more willing to see myself as that kind of authority. I'm curious to hear what you have to say about this.
 
-It's not a real moment, but something that runs through my head. Lizzie led
-me on for 2 years, and in that time we were still pretty flirtatious. I think
-that in general really fucked up my ability to sense or trust it. But there was
-this one time I remembered like professing my love to her after not talking to
-her for a while. We were talking over Facebook and being flirty and she was
-talking about how excited she was to see me and I think it just came out. But
-like, I think I was looking for a reassurance? Or like validation? Something
-that screamed I wasn't insane. I remember she was talking to my best friend
-about it too and he was showing me the messages and I can't remember what they
-said, but I had this massive breakdown after that.
+It's not a real moment, but something that runs through my head. Lizzie led me on for 2 years, and in that time we were still pretty flirtatious. I think that in general really fucked up my ability to sense or trust it. But there was this one time I remembered like professing my love to her after not talking to her for a while. We were talking over Facebook and being flirty and she was talking about how excited she was to see me and I think it just came out. But like, I think I was looking for a reassurance? Or like validation? Something that screamed I wasn't insane. I remember she was talking to my best friend about it too and he was showing me the messages and I can't remember what they said, but I had this massive breakdown after that.
 
   
 
-But now it's like, I imagine that for all women. I imagine it's all in my head.
-And especially for Brandi, all I can think about is how much ut would be hurt
-to be wrong here. They share show much in common. The excitement. The
-flirtation. The bond. And it's like…with Brandi she's told me multiple times
-I'm her best friend. But there's this part of me that always thinks "how many
-people do you say this to?" And in spite of the fact she attracts so many men,
-I've constantly noticed there's a bit more nuance, a bit more freedom, to how
-she acts around me. So now it's like whenever I want to talk about my feelings
-with her, all I imagine is that moment with Lizzie. I imagine Brandi telling me
-that she's not into me. That it's all in my head. And I feel like that being
-the case would destroy my trust even further. Like if I've picked up the
-signals and she does feel that way about me, then it's good, but if she doesn't
-then it's devastating and it's reinforcing that mistrust that Lizzie left me
-with
+But now it's like, I imagine that for all women. I imagine it's all in my head.  And especially for Brandi, all I can think about is how much ut would be hurt to be wrong here. They share show much in common. The excitement. The flirtation. The bond. And it's like…with Brandi she's told me multiple times I'm her best friend. But there's this part of me that always thinks "how many people do you say this to?" And in spite of the fact she attracts so many men, I've constantly noticed there's a bit more nuance, a bit more freedom, to how she acts around me. So now it's like whenever I want to talk about my feelings with her, all I imagine is that moment with Lizzie. I imagine Brandi telling me that she's not into me. That it's all in my head. And I feel like that being the case would destroy my trust even further. Like if I've picked up the signals and she does feel that way about me, then it's good, but if she doesn't then it's devastating and it's reinforcing that mistrust that Lizzie left me with
 
 My fear of power is also getting in the way of all of this
 
-I think something I'm realizing is that the major reason I don't want to say
-anything is I want her to keep trying. Or on the other side, the major reason I
-want to say something is because I want her to notice. It feels like I want to
-break up with her without ever dating her.
+I think something I'm realizing is that the major reason I don't want to say anything is I want her to keep trying. Or on the other side, the major reason I want to say something is because I want her to notice. It feels like I want to break up with her without ever dating her.
 
-Like it really hurts to feel like there wouldn't even be a drop in the pond if
-I distanced myself. 
+Like it really hurts to feel like there wouldn't even be a drop in the pond if I distanced myself. 
 
-It's like I sense a genuine altruism in her somewhere underneath it all. But my
-intentions are and have always been corrupted. And I feel like I could have a
-friendship with her down the line, but right now it just feels like I know that
-I'm just another one of those guys that she attracts. I'm no different.
+It's like I sense a genuine altruism in her somewhere underneath it all. But my intentions are and have always been corrupted. And I feel like I could have a friendship with her down the line, but right now it just feels like I know that I'm just another one of those guys that she attracts. I'm no different.
 
-And it's like I'm conflicted. Because I have the option to work with her on
-this. I have the option to say I don't want this and there's a boundary and I'm
-distancing myself because I don't like feeling this way all the time and
-feeling constantly drained by this relationship. Because of all the unmet
-expectations and other stuff. But I don't understand what the highest version
-of myself would do here. What the strong version of me would do. I don't
-understand if he gently molds reality by distancing himself or confronts it
-head on. And I feel like the ambiguity and indecision is hurting me just as
-much as the process.
+And it's like I'm conflicted. Because I have the option to work with her on this. I have the option to say I don't want this and there's a boundary and I'm distancing myself because I don't like feeling this way all the time and feeling constantly drained by this relationship. Because of all the unmet expectations and other stuff. But I don't understand what the highest version of myself would do here. What the strong version of me would do. I don't understand if he gently molds reality by distancing himself or confronts it head on. And I feel like the ambiguity and indecision is hurting me just as much as the process.
 
-I feel like the middle ground I'm trying to go for is like distance myself and
-see what happens. Because I don't know for certain what she's feeling and I
-don't want to assume? Idk. It's really complicated and I don't feel like it's a
-plan I can hack out in one sitting. But I feel a really heavy draw towards
-saying something which terrifies me
+I feel like the middle ground I'm trying to go for is like distance myself and see what happens. Because I don't know for certain what she's feeling and I don't want to assume? Idk. It's really complicated and I don't feel like it's a plan I can hack out in one sitting. But I feel a really heavy draw towards saying something which terrifies me
 
 
-And it's like now I've had the opportunity to say something and I fucking
-chickened out and I feel like a coward
+And it's like now I've had the opportunity to say something and I fucking chickened out and I feel like a coward
 
-But it felt like the same exact thing as always. I had to scream to get her to
-fucking listen. I had to look like I was having a meltdown and I can't tell if
-that was a failure on my communication or her observation but it was the same
-as every relationship and I'm terrified that this spells out the exact same
-fucking problems that every relationship spells out, using my misery to bond us
-and falling into this same trap over and over again
+But it felt like the same exact thing as always. I had to scream to get her to fucking listen. I had to look like I was having a meltdown and I can't tell if that was a failure on my communication or her observation but it was the same as every relationship and I'm terrified that this spells out the exact same fucking problems that every relationship spells out, using my misery to bond us and falling into this same trap over and over again
 
-It's like I've been compromising this identity I've worked so fucking hard to
-build, someone who's courageous and easy going but is capable of truths and
-hard conversations and it just feels like this is evidence to the contrary that
-I'm a failure to my self and who I want to be that I notice how much pain she
-puts me in yet when it comes to having to have that conversation where I
-possibly break her heart I can't do it or even worse I can't face the fact that
-I'm no different than any of them I'm exactly the same as every fucking horny
-ass dude that's fallen into her orbit and I can't fucking take it anymore I
-can't take feeling like this any more I can't take being her fucking puppy dog
-or sausage or whatever she calls me I can't take the flirting anymore I just
-can't take it anymore something has to change but I'm too much of a coward to
-do what I need to do say what I need to say because I'm equally as afraid of
-losing her and losing that attention she gives me but it feels like I'm lying
-it feels like right now I have to go and put on a face for Noah and my mom like
-I can't live my truth and it fucking sucks to feel like I spent so long trying
-to build an identity around honesty and yet here I am still lying to everyone
-around me because I love her and it feels like I have to break up with someone
-who isn't even fucking paying attention to me
+It's like I've been compromising this identity I've worked so fucking hard to build, someone who's courageous and easy going but is capable of truths and hard conversations and it just feels like this is evidence to the contrary that I'm a failure to my self and who I want to be that I notice how much pain she puts me in yet when it comes to having to have that conversation where I possibly break her heart I can't do it or even worse I can't face the fact that I'm no different than any of them I'm exactly the same as every fucking horny ass dude that's fallen into her orbit and I can't fucking take it anymore I can't take feeling like this any more I can't take being her fucking puppy dog or sausage or whatever she calls me I can't take the flirting anymore I just can't take it anymore something has to change but I'm too much of a coward to do what I need to do say what I need to say because I'm equally as afraid of losing her and losing that attention she gives me but it feels like I'm lying it feels like right now I have to go and put on a face for Noah and my mom like I can't live my truth and it fucking sucks to feel like I spent so long trying to build an identity around honesty and yet here I am still lying to everyone around me because I love her and it feels like I have to break up with someone who isn't even fucking paying attention to me
 
-But it felt like the same exact thing as always. I had to scream to get her
-to fucking listen. I had to look like I was having a meltdown and I can't tell
-if that was a failure on my communication or her observation but it was the
-same as every relationship and I'm terrified that this spells out the exact
-same fucking problems that every relationship spells out, using my misery to
-bond us and falling into this same trap over and over again
+But it felt like the same exact thing as always. I had to scream to get her to fucking listen. I had to look like I was having a meltdown and I can't tell if that was a failure on my communication or her observation but it was the same as every relationship and I'm terrified that this spells out the exact same fucking problems that every relationship spells out, using my misery to bond us and falling into this same trap over and over again
 
-It's like I've been compromising this identity I've worked so fucking hard to
-build, someone who's courageous and easy going but is capable of truths and
-hard conversations and it just feels like this is evidence to the contrary that
-I'm a failure to my self and who I want to be that I notice how much pain she
-puts me in yet when it comes to having to have that conversation where I
-possibly break her heart I can't do it or even worse I can't face the fact that
-I'm no different than any of them I'm exactly the same as every fucking horny
-ass dude that's fallen into her orbit and I can't fucking take it anymore I
-can't take feeling like this any more I can't take being her fucking puppy dog
-or sausage or whatever she calls me I can't take the flirting anymore I just
-can't take it anymore something has to change but I'm too much of a coward to
-do what I need to do say what I need to say because I'm equally as afraid of
-losing her and losing that attention she gives me but it feels like I'm lying
-it feels like right now I have to go and put on a face for Noah and my mom like
-I can't live my truth and it fucking sucks to feel like I spent so long trying
-to build an identity around honesty and yet here I am still lying to everyone
-around me because I love her and it feels like I have to break up with someone
-who isn't even fucking paying attention to me
+It's like I've been compromising this identity I've worked so fucking hard to build, someone who's courageous and easy going but is capable of truths and hard conversations and it just feels like this is evidence to the contrary that I'm a failure to my self and who I want to be that I notice how much pain she puts me in yet when it comes to having to have that conversation where I possibly break her heart I can't do it or even worse I can't face the fact that I'm no different than any of them I'm exactly the same as every fucking horny ass dude that's fallen into her orbit and I can't fucking take it anymore I can't take feeling like this any more I can't take being her fucking puppy dog or sausage or whatever she calls me I can't take the flirting anymore I just can't take it anymore something has to change but I'm too much of a coward to do what I need to do say what I need to say because I'm equally as afraid of losing her and losing that attention she gives me but it feels like I'm lying it feels like right now I have to go and put on a face for Noah and my mom like I can't live my truth and it fucking sucks to feel like I spent so long trying to build an identity around honesty and yet here I am still lying to everyone around me because I love her and it feels like I have to break up with someone who isn't even fucking paying attention to me
 
-The most important and effective thing I can do is to come into work every
-day with the conscious intention to ignore her. She is a distraction at this
-point that causes unneeded
+The most important and effective thing I can do is to come into work every day with the conscious intention to ignore her. She is a distraction at this point that causes unneeded
 
-Im trying to figure out how to reshape my relationship with her. Like I think
-obviously it's going to hurt her and I don't want it to. But I need this to be
-a permanent change. I've kept going back, falling back into her like an
-addiction or a bad habit, but all she does is create this large resistance to
-actual practice. She's an emotional drain and I'm tired of it impacting me.
-Like even today I was in a great mood and she just came up and fucking dumped
-on me the fact that her friend needed narcan. Didn't even fucking ask about the
-concert I mentioned.
+Im trying to figure out how to reshape my relationship with her. Like I think obviously it's going to hurt her and I don't want it to. But I need this to be a permanent change. I've kept going back, falling back into her like an addiction or a bad habit, but all she does is create this large resistance to actual practice. She's an emotional drain and I'm tired of it impacting me.  Like even today I was in a great mood and she just came up and fucking dumped on me the fact that her friend needed narcan. Didn't even fucking ask about the concert I mentioned.
 
-All of it is making me realize that my focus has become too external. I've
-gotten away from BEING attractive. BEING fun. Being myself. And I think that
-desperation has shown. I feel like grief still is a big part of it all. Like
-not recognizing my own accomplishments. Not even acknowledging them. I can't
-tell if I couldn't do it or just was choosing not to. Maybe it's just that I
-lost momentum. It's like now that I can again, I feel like I don't need her.
-Like my credit score just got back into good standing and I feel like this
-incredible gratitude coasting through me. And last night hanging out with Josh,
-it reminded me how good it feels to be social. To talk to strangers. To go to a
-concert and dance my heart out.
+All of it is making me realize that my focus has become too external. I've gotten away from BEING attractive. BEING fun. Being myself. And I think that desperation has shown. I feel like grief still is a big part of it all. Like not recognizing my own accomplishments. Not even acknowledging them. I can't tell if I couldn't do it or just was choosing not to. Maybe it's just that I lost momentum. It's like now that I can again, I feel like I don't need her.  Like my credit score just got back into good standing and I feel like this incredible gratitude coasting through me. And last night hanging out with Josh, it reminded me how good it feels to be social. To talk to strangers. To go to a concert and dance my heart out.
 
-It's like I lost balance. And it's like the consequences is I reached out to
-every foothold or object that could give me that balance. The balance is always
-within but I'm still gaining the strength to stand on my own without those
-attachments. 
+It's like I lost balance. And it's like the consequences is I reached out to every foothold or object that could give me that balance. The balance is always within but I'm still gaining the strength to stand on my own without those attachments. 
 
-I know I'm going to hurt her. I don't want to, but I have to break this
-attachment. 
+I know I'm going to hurt her. I don't want to, but I have to break this attachment. 
 
 God, how can i make this a permanent change?
 
-And all of it makes me wonder, is it a healthy behavior to not keep pouring
-into the energy of my thoughts into someone who's not even paying attention?
-Like I've been thinking about this a lot. I think for a long time I refused to
-talk about just anything on my mind. And now it feels like that's only an issue
-with certain people. Like I don't mind talking, but if I bring up a topic and
-it doesn't spark curiosity, I stop talking about it. Even if it excites me. I
-don't know if that's a lack of confidence or if it's just saving energy for
-someone that cares. Maybe it's the expectation that they should be as excited
-as I am
+And all of it makes me wonder, is it a healthy behavior to not keep pouring into the energy of my thoughts into someone who's not even paying attention?  Like I've been thinking about this a lot. I think for a long time I refused to talk about just anything on my mind. And now it feels like that's only an issue with certain people. Like I don't mind talking, but if I bring up a topic and it doesn't spark curiosity, I stop talking about it. Even if it excites me. I don't know if that's a lack of confidence or if it's just saving energy for someone that cares. Maybe it's the expectation that they should be as excited as I am
 
-Who is the new Zach Ross?
-- Wokr
-- Nap
-- Figure it out
+Who is the new Zach Ross?  - Wokr - Nap - Figure it out
 
 What does he look like when he prioritizes himself again?
 
-I feel like I've lost out on this connection I had to myself before. The self
-validating and affirming is what I mean.
+I feel like I've lost out on this connection I had to myself before. The self validating and affirming is what I mean.
 
-It's like how did I get so far from the person who used his relationship with
-Brandi as inspiration for how all relationships could be?
+It's like how did I get so far from the person who used his relationship with Brandi as inspiration for how all relationships could be?
 
-How do we remain confident instead of prideful? How do we remain humble all the
-while? How do we re-envision a version who a
+How do we remain confident instead of prideful? How do we remain humble all the while? How do we re-envision a version who a
 
 - A magnetic leader who acts in spite of fear
 
 Yeah but what does that look like?
 
-- He makes others feel safe in his presence
-- He pays attention 
-- He has such a strength that others feel compelled to follow him
-- he doesn't stand for bullying or harassment and intervenes where necessary
-- When Brandi gets in his way he moves her
-- He commands a room without controlling it
-- He invites others to assist him 
-- He leans into power without overindulging 
-- He sees himself as on a level playing field with everyone, yet builds the
-  playing field to make everyone succeed
-- He makes plans for all his friends to join in
-- He is eager to give yet distances himself from those who take
-- He makes it clear that he can't be pushed over, but he can be swayed
+- He makes others feel safe in his presence - He pays attention - He has such a strength that others feel compelled to follow him - he doesn't stand for bullying or harassment and intervenes where necessary - When Brandi gets in his way he moves her - He commands a room without controlling it - He invites others to assist him - He leans into power without overindulging - He sees himself as on a level playing field with everyone, yet builds the playing field to make everyone succeed - He makes plans for all his friends to join in - He is eager to give yet distances himself from those who take - He makes it clear that he can't be pushed over, but he can be swayed
 
-Why did going to this show hurt so much? Or make me so anxious? I felt so
-abnormal
+Why did going to this show hurt so much? Or make me so anxious? I felt so abnormal
 
-Like why did being around her make me so uncomfortable and unconfident? Even
-Josh thought we were really clicking. I guess because I didn't know what to do
-next, how to make that next step and lacked the confidence to even try. Also
-frustrations.
+Like why did being around her make me so uncomfortable and unconfident? Even Josh thought we were really clicking. I guess because I didn't know what to do next, how to make that next step and lacked the confidence to even try. Also frustrations.
 
-It's weird. Watching the video Josh sent me makes me horny. But in the moment I
-remember being so anxious. Watching every move. Maybe it's unfamiliarity. Maybe
-it's being gay. Maybe it's just fear of the consequences. I still don't
-understand it. 
+It's weird. Watching the video Josh sent me makes me horny. But in the moment I remember being so anxious. Watching every move. Maybe it's unfamiliarity. Maybe it's being gay. Maybe it's just fear of the consequences. I still don't understand it. 
 
 What does God think of all of this? How can I continue returning to myself?
 
@@ -526,293 +115,97 @@ Maybe it's not just permission to like them, but permission to be myself.
 
 Can I let all of this go for now and be present?
 
-Like it really feels like there's a tenderness and love to saying it without
-intention, but the idea that she says all of that with some horniness or
-attraction puts this much more lustful spin on the whole thing and it feels
-like that's what hooks me in
+Like it really feels like there's a tenderness and love to saying it without intention, but the idea that she says all of that with some horniness or attraction puts this much more lustful spin on the whole thing and it feels like that's what hooks me in
 
 Like I even keep rejoining her social media so she'll notice me more
 
-Looking back on it all now, I don't think I was as manipulative as I was just
-desperate for connection. This weird paradox of craving connection yet having
-to act like I didn't want it.
+Looking back on it all now, I don't think I was as manipulative as I was just desperate for connection. This weird paradox of craving connection yet having to act like I didn't want it.
 
 It's with all women. I want the permission to be attracted to them
 
-The goal of being giving is to constantly be giving without having to think
-about it. Without fear that you won't recoup. The way to realize this is to
-surround yourself with people who are equally willing to give back
+The goal of being giving is to constantly be giving without having to think about it. Without fear that you won't recoup. The way to realize this is to surround yourself with people who are equally willing to give back
 
-It's like there's a purity to her saying that stuff as a friend, because it's
-just genuine and true. But I don't want the purity. I want the intention. The
-dark and dirty. The idea that she's saying those things to elicit sex. Like
-she's trying to manipulate me. It's an expectation as much as it is a desire
+It's like there's a purity to her saying that stuff as a friend, because it's just genuine and true. But I don't want the purity. I want the intention. The dark and dirty. The idea that she's saying those things to elicit sex. Like she's trying to manipulate me. It's an expectation as much as it is a desire
 
 Important questions I need to ask
 
-- _What am I hoping her message will prove to me right now?_
-- _What would I feel if I stopped trying to guess and just let myself want her,
-  as I am?_
-- _If she liked me, what would that allow me to feel that I won't allow right
-  now?_
+- _What am I hoping her message will prove to me right now?_ - _What would I feel if I stopped trying to guess and just let myself want her, as I am?_ - _If she liked me, what would that allow me to feel that I won't allow right now?_
 
 And maybe even:
 
-> "What if her signals don't define whether I'm lovable--but whether _she_ is
-> ready to receive love from someone like me?"
+> "What if her signals don't define whether I'm lovable--but whether _she_ is > ready to receive love from someone like me?"
 
-I think I'm just looking for permission to like her and have feelings for her?
-Like I feel like her message has so much more depth if there are feelings
-behind it. Almost like there's a depth of connection I won't allow myself to
-have as friends but also like I'm worthless and valueless without her feeling
-the same way.
+I think I'm just looking for permission to like her and have feelings for her?  Like I feel like her message has so much more depth if there are feelings behind it. Almost like there's a depth of connection I won't allow myself to have as friends but also like I'm worthless and valueless without her feeling the same way.
 
-Almost like my feelings become invalidated if she doesn't reciprocate them.
-When did I learn to feel this way?
+Almost like my feelings become invalidated if she doesn't reciprocate them.  When did I learn to feel this way?
 
-It's taking all of my willpower to not obsess over her response and try to
-find hidden meaning in it. I know I have to do it, but it's really fucking hard
-right now especially since it feels like it's all I've ever done.
+It's taking all of my willpower to not obsess over her response and try to find hidden meaning in it. I know I have to do it, but it's really fucking hard right now especially since it feels like it's all I've ever done.
 
 Family feud tapings are free
 
-The important thing is to stop doing it for her. Do it for Him. Align
-yourself with Him and the right people will follow.
+The important thing is to stop doing it for her. Do it for Him. Align yourself with Him and the right people will follow.
 
-The way to stop thinking about her is to once again become in love with the
-highest version of myself. That's what worked last time, and I can already feel
-it working again. What does he look like now?
+The way to stop thinking about her is to once again become in love with the highest version of myself. That's what worked last time, and I can already feel it working again. What does he look like now?
 
 Is that something I should tell her?
 
-I want to be the type of person where u can see a boundary and immediately
-let someone know about it
+I want to be the type of person where u can see a boundary and immediately let someone know about it
 
-I just wanted to let you know that like I'm gonna be distancing myself a bit
-from our friendship. It's not your fault and I wanted to make you aware of this
-so your mind doesn't jump to conclusions. But right now I'm dealing with this
-trauma from a girl who led me on for almost two years, and right now you remind
-me a lot of her. 
+I just wanted to let you know that like I'm gonna be distancing myself a bit from our friendship. It's not your fault and I wanted to make you aware of this so your mind doesn't jump to conclusions. But right now I'm dealing with this trauma from a girl who led me on for almost two years, and right now you remind me a lot of her. 
 
-I'm really proud of you dude, I've seen you grow a lot over the past couple
-years from the person wandering in still drunk to who you are now. I've noticed
-a much more upbeat energy from you lately and what feels like a sunnier
-disposition. Just wanted to let you know that I've noticed it
+I'm really proud of you dude, I've seen you grow a lot over the past couple years from the person wandering in still drunk to who you are now. I've noticed a much more upbeat energy from you lately and what feels like a sunnier disposition. Just wanted to let you know that I've noticed it
 
-I feel like there's a lot more exploring to do with all the Lizzie stuff. Or
-at least some kind of forgiveness or gratitude.
+I feel like there's a lot more exploring to do with all the Lizzie stuff. Or at least some kind of forgiveness or gratitude.
 
-I don't even really know how to continue from here like where to grow who to
-become like I feel like the best part about the last time was, I was growing
-into a new person. You know it was like completely refreshed starting from the
-ground up and I had problems. All of them were like somewhat simple to solve
-like just getting away from certain people it's like now I don't know. It
-doesn't feel like those problems are any different it's just the people are
-different in the community is different. It's like the people I feel like are
-better. You know we're older. We're more mature and we've all kind of been
-through these kinds of things over and over again, where we've all got into a
-place where we're trying to be better people and trying to heal. It's just it
-hurts that like I thought. I was so much better. You know I thought I had
-covered these tracks. It's a very weird feeling. It's like you know when I'm
-experiencing the highs now it's like there's almost like this. Worry that I
-have covered everything you know that I'm just present and I'm mindful and like
-for what now where do we go from here? It's like I make the problem into
-something that's just like there's no problem so what can I make it into a
-problem But then it's like reassuring that this can still happen you know it
-feels like a weird thing to say it's just it's weird that the lowest Lowe's now
-I don't know where that. I don't even know how to explain. It's like before now
-I don't know. It's like I kinda understand the whole process of it now it's
-like it never gets easier, but the problems you deal with become lighter in a
-sense like the depth of the pain I feel now is still the depth of the pain when
-I lost Angelo and Jess and everyone else like I mean, it may have been quite a
-bit deeper than because it felt like there were much more higher Stikes
-Consequences, but like it feels like the emotional depths is about around the
-same of like like around the same level of pain, it's just the real life
-consequences are much less and it feels like that's what it is most of the
-time. It's like the emotional consequences. Don't change like everything that
-happens inside doesn't change, but what happens out in the world on a secular
-level kind of stays the same like I'm not you know having to move out of the
-big house anymore. I'm not going balls deep into debt. In fact today I got my
-credit score up to 700 for the first time in two years Such a huge relief and I
-think that was the first thing that got me to reenter on myself seeing that you
-know like I don't feel like I've been celebrating my own accomplishments and
-achievements, and I've been relying on her for it and you know every time
-something happens. I want to talk to her about it See her reaction. It's like I
-haven't been supplying that for myself and I think that's somewhere where I've
-kind of gone wrong I know I'm sidetracking, but whatever I think that to me is
-like a big take away is just that you know I got lost in her again, which is
-what usually happens in a relationship for me. It's like at some point, I just
-start running and I expect her to kind of like pick up after me Which never
-works and it has never worked. It's just it takes all the energy out of both of
-us it's like I have to remember that like she is her own person. I am my own
-person and I have to take care of myself. I can't expect her to be excited
-about my accomplishments in achievements or to Sympathize with me when I'm down
-like I should be happy when it happens, but I can't expect it because that just
-leads to both of us getting hurt or really just me. I think not providing that
-for myself is really hurt our friendship and made this attachment so much worse
-But what was I saying before I just I feel like the emotional depths is much
-worse than the secular depths now like the consequences of this or actually
-pretty light like you know I love Brandy, but the worst that happens is that we
-don't talk that much anymore and she's not even that big of a figure in my life
-for it to be like super consequential it's just it fucking sucks you know it
-hurts. Trying to figure out what the hardest thing to do is here because I feel
-like that's what needs to happen. I guess just saying like yeah I am grateful
-for her. It makes me wanna cry to say that cause it feels like I'm trying to
-like lift myself out of a fucking swamp, but I Grateful for the role that she's
-played in my life. She's been like a staple you know like yeah she's fucking
-traumatic as shit and she has all these boy problems. Seems like issues with
-attraction and she leads people on. You know she surround herself with dudes
-but like she came out to my concerts no one else did She came and watched her
-brother play cornhole. She gave me a really long hug today and I don't feel
-like I deserved it because I was being mad at her the whole time and I was too
-afraid to tell her how I felt I'm I'm really grateful for a lot of people in my
-life right now And it hurts. It really hurts to say that it's funny that it
-hurts to say it's just I haven't been vulnerable like I haven't let myself G
-myself. It's not as much let myself I guess just I just haven't really felt
-like myself and I've been avoiding the hard thing of being kind and being
-vulnerable and I think a lot of that has to do with the fact that you know,
-I've kind of hit the edge of vulnerability like I had for a long time. Just
-been vulnerable about other stuff but now it's like what's underneath it all is
-the truth And the truth is that like I love her and I know I can't be with her
-and there's consequences to that and the fact that I haven't told her about any
-of this it's terrifying to think about what could happen and like you know the
-other vulnerability is dealing with Lizzie and all that stuff and I feel like I
-need to sit with some gratitude like yeah I'm grateful for my mom and Noah and
-Jimmy didn't even know something was wrong but they made me feel better. I'm
-grateful for Josh. I'm always great Josh. He's a good time but when we went out
-last night like he really made me feel confident I just feel like a keeper
-resisting this like I keep telling myself it's a waste of time. I feel like I
-need to figure out why I'm grateful for Lizzie like in spite of all this try to
-find a way to forgive her and forgive myself for chasing after her for so long
-I don't know how I don't know what the lesson here is and I don't really know
-where to go from here like all of this seems like a really important part of my
-focus this year, which is to be a part of community and grow community and
-become more attractive in the spiritual sense of it But I'm like I'm kind of
-lost on how to do more because I just don't know what else I can do I mean I
-know what else I can do but it just seems like everything else is so outside my
-comfort zone that I have a hard time picking something And it's like even then
-I feel like I encounter this whenever I start picking up a new skill there's
-always just this period of like what now it's like how do I become confident?
-How do I stand up for myself? You know how do I become that person? How do I
-see myself as that person? How do I stop letting myself get lead on or picked
-on or whatever but how do I do so while still being like easy-going and shit
-like that and humble what do you think?
+I don't even really know how to continue from here like where to grow who to become like I feel like the best part about the last time was, I was growing into a new person. You know it was like completely refreshed starting from the ground up and I had problems. All of them were like somewhat simple to solve like just getting away from certain people it's like now I don't know. It doesn't feel like those problems are any different it's just the people are different in the community is different. It's like the people I feel like are better. You know we're older. We're more mature and we've all kind of been through these kinds of things over and over again, where we've all got into a place where we're trying to be better people and trying to heal. It's just it hurts that like I thought. I was so much better. You know I thought I had covered these tracks. It's a very weird feeling. It's like you know when I'm experiencing the highs now it's like there's almost like this. Worry that I have covered everything you know that I'm just present and I'm mindful and like for what now where do we go from here? It's like I make the problem into something that's just like there's no problem so what can I make it into a problem But then it's like reassuring that this can still happen you know it feels like a weird thing to say it's just it's weird that the lowest Lowe's now I don't know where that. I don't even know how to explain. It's like before now I don't know. It's like I kinda understand the whole process of it now it's like it never gets easier, but the problems you deal with become lighter in a sense like the depth of the pain I feel now is still the depth of the pain when I lost Angelo and Jess and everyone else like I mean, it may have been quite a bit deeper than because it felt like there were much more higher Stikes Consequences, but like it feels like the emotional depths is about around the same of like like around the same level of pain, it's just the real life consequences are much less and it feels like that's what it is most of the time. It's like the emotional consequences. Don't change like everything that happens inside doesn't change, but what happens out in the world on a secular level kind of stays the same like I'm not you know having to move out of the big house anymore. I'm not going balls deep into debt. In fact today I got my credit score up to 700 for the first time in two years Such a huge relief and I think that was the first thing that got me to reenter on myself seeing that you know like I don't feel like I've been celebrating my own accomplishments and achievements, and I've been relying on her for it and you know every time something happens. I want to talk to her about it See her reaction. It's like I haven't been supplying that for myself and I think that's somewhere where I've kind of gone wrong I know I'm sidetracking, but whatever I think that to me is like a big take away is just that you know I got lost in her again, which is what usually happens in a relationship for me. It's like at some point, I just start running and I expect her to kind of like pick up after me Which never works and it has never worked. It's just it takes all the energy out of both of us it's like I have to remember that like she is her own person. I am my own person and I have to take care of myself. I can't expect her to be excited about my accomplishments in achievements or to Sympathize with me when I'm down like I should be happy when it happens, but I can't expect it because that just leads to both of us getting hurt or really just me. I think not providing that for myself is really hurt our friendship and made this attachment so much worse But what was I saying before I just I feel like the emotional depths is much worse than the secular depths now like the consequences of this or actually pretty light like you know I love Brandy, but the worst that happens is that we don't talk that much anymore and she's not even that big of a figure in my life for it to be like super consequential it's just it fucking sucks you know it hurts. Trying to figure out what the hardest thing to do is here because I feel like that's what needs to happen. I guess just saying like yeah I am grateful for her. It makes me wanna cry to say that cause it feels like I'm trying to like lift myself out of a fucking swamp, but I Grateful for the role that she's played in my life. She's been like a staple you know like yeah she's fucking traumatic as shit and she has all these boy problems. Seems like issues with attraction and she leads people on. You know she surround herself with dudes but like she came out to my concerts no one else did She came and watched her brother play cornhole. She gave me a really long hug today and I don't feel like I deserved it because I was being mad at her the whole time and I was too afraid to tell her how I felt I'm I'm really grateful for a lot of people in my life right now And it hurts. It really hurts to say that it's funny that it hurts to say it's just I haven't been vulnerable like I haven't let myself G myself. It's not as much let myself I guess just I just haven't really felt like myself and I've been avoiding the hard thing of being kind and being vulnerable and I think a lot of that has to do with the fact that you know, I've kind of hit the edge of vulnerability like I had for a long time. Just been vulnerable about other stuff but now it's like what's underneath it all is the truth And the truth is that like I love her and I know I can't be with her and there's consequences to that and the fact that I haven't told her about any of this it's terrifying to think about what could happen and like you know the other vulnerability is dealing with Lizzie and all that stuff and I feel like I need to sit with some gratitude like yeah I'm grateful for my mom and Noah and Jimmy didn't even know something was wrong but they made me feel better. I'm grateful for Josh. I'm always great Josh. He's a good time but when we went out last night like he really made me feel confident I just feel like a keeper resisting this like I keep telling myself it's a waste of time. I feel like I need to figure out why I'm grateful for Lizzie like in spite of all this try to find a way to forgive her and forgive myself for chasing after her for so long I don't know how I don't know what the lesson here is and I don't really know where to go from here like all of this seems like a really important part of my focus this year, which is to be a part of community and grow community and become more attractive in the spiritual sense of it But I'm like I'm kind of lost on how to do more because I just don't know what else I can do I mean I know what else I can do but it just seems like everything else is so outside my comfort zone that I have a hard time picking something And it's like even then I feel like I encounter this whenever I start picking up a new skill there's always just this period of like what now it's like how do I become confident?  How do I stand up for myself? You know how do I become that person? How do I see myself as that person? How do I stop letting myself get lead on or picked on or whatever but how do I do so while still being like easy-going and shit like that and humble what do you think?
 
 # 05-04-2025
 
-In reshaping my relationship with people in a more confident and loving way,
-I hugged my entire mfamily on the way into the funeral, including cousins. This
-is huge #progress! It was crazy because I just walked up to them and did it,
-even afraid of how they would perceive it. But they all loved it!
+In reshaping my relationship with people in a more confident and loving way, I hugged my entire mfamily on the way into the funeral, including cousins. This is huge #progress! It was crazy because I just walked up to them and did it, even afraid of how they would perceive it. But they all loved it!
 
-Still need to do reflection and knee exercises today and plan week. Especially
-planning for Amanda
+Still need to do reflection and knee exercises today and plan week. Especially planning for Amanda
 
-It's always funny seeing how insecure others get when I talk about my career as
-a musician. One of my family members (after the funeral) started rationalizing
-with me about the financial part of it. I can tell she got uncomfortable after
-a bit. It's sat with me, but not as much in a self doubt way as a "it sucks
-that you couldn't follow your dreams or your son couldn't and you couldn't
-support that"
+It's always funny seeing how insecure others get when I talk about my career as a musician. One of my family members (after the funeral) started rationalizing with me about the financial part of it. I can tell she got uncomfortable after a bit. It's sat with me, but not as much in a self doubt way as a "it sucks that you couldn't follow your dreams or your son couldn't and you couldn't support that"
 
-One reason I lie is to prevent rejecting others. How do I continue to
-communicate with them that celebrates what they said in a way that doesn't
-reject them? Like Josh said he's been listening to the criticals. I haven't but
-I'm tempted to say I have. How do I continue the conversation from here?
+One reason I lie is to prevent rejecting others. How do I continue to communicate with them that celebrates what they said in a way that doesn't reject them? Like Josh said he's been listening to the criticals. I haven't but I'm tempted to say I have. How do I continue the conversation from here?
 
-The trauma of being cheated on is coming up fairly frequently Or maybe not as
-much let go as allow it to be there while I enjoy myself Maybe it's not just
-permission to like them, but permission to be myself.
+The trauma of being cheated on is coming up fairly frequently Or maybe not as much let go as allow it to be there while I enjoy myself Maybe it's not just permission to like them, but permission to be myself.
 
-Can I let all of this go for now and be present?  Like it really feels like
-there's a tenderness and love to saying it without intention, but the idea that
-she says all of that with some horniness or attraction puts this much more
-lustful spin on the whole thing and it feels like that's what hooks me in Like
-I even keep rejoining her social media so she'll notice me more Looking back on
-it all now, I don't think I was as manipulative as I was just desperate for
-connection. This weird paradox of craving connection yet having to act like I
-didn't want it.  It's with all women. I want the permission to be attracted to
-them
+Can I let all of this go for now and be present?  Like it really feels like there's a tenderness and love to saying it without intention, but the idea that she says all of that with some horniness or attraction puts this much more lustful spin on the whole thing and it feels like that's what hooks me in Like I even keep rejoining her social media so she'll notice me more Looking back on it all now, I don't think I was as manipulative as I was just desperate for connection. This weird paradox of craving connection yet having to act like I didn't want it.  It's with all women. I want the permission to be attracted to them
 
-The goal of being giving is to constantly be giving without having to think
-about it. Without fear that you won't recoup. The way to realize this is to
-surround yourself with people who are equally willing to give back #insight
+The goal of being giving is to constantly be giving without having to think about it. Without fear that you won't recoup. The way to realize this is to surround yourself with people who are equally willing to give back #insight
 
-It's like there's a purity to her saying that stuff as a friend, because it's
-just genuine and true. But I don't want the purity. I want the intention. The
-dark and dirty. The idea that she's saying those things to elicit sex. Like
-she's trying to manipulate me. It's an expectation as much as it is a desire
-Important questions I need to ask
+It's like there's a purity to her saying that stuff as a friend, because it's just genuine and true. But I don't want the purity. I want the intention. The dark and dirty. The idea that she's saying those things to elicit sex. Like she's trying to manipulate me. It's an expectation as much as it is a desire Important questions I need to ask
 
-- _What am I hoping her message will prove to me right now?_
-- _What would I feel if I stopped trying to guess and just let myself want her,
-  as I am?_
-- _If she liked me, what would that allow me to feel that I won't allow right
-  now?_
+- _What am I hoping her message will prove to me right now?_ - _What would I feel if I stopped trying to guess and just let myself want her, as I am?_ - _If she liked me, what would that allow me to feel that I won't allow right now?_
 
 And maybe even:
 
-> "What if her signals don't define whether I'm lovable--but whether _she_ is
-> ready to receive love from someone like me?"
+> "What if her signals don't define whether I'm lovable--but whether _she_ is > ready to receive love from someone like me?"
 
-I think I'm just looking for permission to like her and have feelings for her?
-Like I feel like her message has so much more depth if there are feelings
-behind it. Almost like there's a depth of connection I won't allow myself to
-have as friends but also like I'm worthless and valueless without her feeling
-the same way. 
+I think I'm just looking for permission to like her and have feelings for her?  Like I feel like her message has so much more depth if there are feelings behind it. Almost like there's a depth of connection I won't allow myself to have as friends but also like I'm worthless and valueless without her feeling the same way. 
 
-Almost like my feelings become invalidated if she doesn't reciprocate them.
-When did I learn to feel this way?
+Almost like my feelings become invalidated if she doesn't reciprocate them.  When did I learn to feel this way?
 
-I want to be the type of person where u can see a boundary and immediately
-let someone know about it
+I want to be the type of person where u can see a boundary and immediately let someone know about it
 
-I just wanted to let you know that like I'm gonna be distancing myself a bit
-from our friendship. It's not your fault and I wanted to make you aware of this
-so your mind doesn't jump to conclusions. But right now I'm dealing with this
-trauma from a girl who led me on for almost two years, and right now you remind
-me a lot of her. 
+I just wanted to let you know that like I'm gonna be distancing myself a bit from our friendship. It's not your fault and I wanted to make you aware of this so your mind doesn't jump to conclusions. But right now I'm dealing with this trauma from a girl who led me on for almost two years, and right now you remind me a lot of her. 
 
-I'm really proud of you dude, I've seen you grow a lot over the past couple
-years from the person wandering in still drunk to who you are now. I've noticed
-a much more upbeat energy from you lately and what feels like a sunnier
-disposition. Just wanted to let you know that I've noticed it Is that something
-I should tell her?
+I'm really proud of you dude, I've seen you grow a lot over the past couple years from the person wandering in still drunk to who you are now. I've noticed a much more upbeat energy from you lately and what feels like a sunnier disposition. Just wanted to let you know that I've noticed it Is that something I should tell her?
 
-I really do just need the reminder that she's not the center of my world
-Expectations for sex plays a huge part in the anxiety when approaching women.
-What would happen if I just talked to them and see where it went Need to renew
-my social goals
+I really do just need the reminder that she's not the center of my world Expectations for sex plays a huge part in the anxiety when approaching women.  What would happen if I just talked to them and see where it went Need to renew my social goals
 
-What is the anxiety that her messages are relieving? It's a confidence thing I
-think? I remember this with the couple nice messages Jess sent One thing I
-noticed from tonight: So Stephen came up and complimented me a lot on my
-performance. It was actually a really heartwarming experience. I remember for
-so long when I was getting started, all I wanted was his approval. This is
-probably the first time that I didn't really care if I got it, and yet it's the
-only time I feel like I did.
+What is the anxiety that her messages are relieving? It's a confidence thing I think? I remember this with the couple nice messages Jess sent One thing I noticed from tonight: So Stephen came up and complimented me a lot on my performance. It was actually a really heartwarming experience. I remember for so long when I was getting started, all I wanted was his approval. This is probably the first time that I didn't really care if I got it, and yet it's the only time I feel like I did.
 
-It was a great night. Slot of people told me they loved me. I'll probably go
-into more detail about all of it tomorrow. But I think the main thing I need to
-figure out is why their words of affirmation and admiration compare to Brandi's
-text
+It was a great night. Slot of people told me they loved me. I'll probably go into more detail about all of it tomorrow. But I think the main thing I need to figure out is why their words of affirmation and admiration compare to Brandi's text
 
-One thing I noticed from tonight: So Stephen came up and complimented me a
-lot on my performance. It was actually a really heartwarming experience. I
-remember for so long when I was getting started, all I wanted was his approval.
-This is probably the first time that I didn't really care if I got it, and yet
-it's the only time I feel like I did.
+One thing I noticed from tonight: So Stephen came up and complimented me a lot on my performance. It was actually a really heartwarming experience. I remember for so long when I was getting started, all I wanted was his approval.  This is probably the first time that I didn't really care if I got it, and yet it's the only time I feel like I did.
 
-It was a great night. Slot of people told me they loved me. I'll probably go
-into more detail about all of it tomorrow. But I think the main thing I need to
-figure out is why their words of affirmation and admiration compare to Brandi's
-text
+It was a great night. Slot of people told me they loved me. I'll probably go into more detail about all of it tomorrow. But I think the main thing I need to figure out is why their words of affirmation and admiration compare to Brandi's text
 
 Need to renew my social goals
 
-What is the anxiety that her messages are relieving? It's a confidence thing I
-think? I remember this with the couple nice messages Jess sent
+What is the anxiety that her messages are relieving? It's a confidence thing I think? I remember this with the couple nice messages Jess sent
 
-Expectations for sex plays a huge part in the anxiety when approaching women.
-What would happen if I just talked to them and see where it went
+Expectations for sex plays a huge part in the anxiety when approaching women.  What would happen if I just talked to them and see where it went
 

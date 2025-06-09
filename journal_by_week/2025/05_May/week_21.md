@@ -1,46 +1,12 @@
 # 05-19-2025
 
-Simple rules and their evolution: one of my favorite things to explore in life
-is *the evolution of simple rules*. In biology, we have boids, in computer
-science we have conway's game of life, in mathematics we have axioms. In all
-cases, entire fields have been evolved from the structure of simple rules. In
-music, I've found this same semblance in clave patterns. In reading about
-Afro-Cuban rhythms, its become apparent that distinctive genres are always
-spawned from siple rules. From the Bembe, we've evolved the Rumba, Son, and
-Bombo clave patterns. Each one of which has distinctive rules no what
-instruments to use, what rhythms to play, what dances and melodies/harmonies
-are spawned on top of them, which scales to use, what ceremonies celebrate.
-Each of them has an entire culture that has evolved from the creation of
-rhythms displaced by one note (most important part). It makes me wonder, can we
-spawn new genres by changing the rhythm? #blogs #ideas #exerpt
+Simple rules and their evolution: one of my favorite things to explore in life is *the evolution of simple rules*. In biology, we have boids, in computer science we have conway's game of life, in mathematics we have axioms. In all cases, entire fields have been evolved from the structure of simple rules. In music, I've found this same semblance in clave patterns. In reading about Afro-Cuban rhythms, its become apparent that distinctive genres are always spawned from siple rules. From the Bembe, we've evolved the Rumba, Son, and Bombo clave patterns. Each one of which has distinctive rules no what instruments to use, what rhythms to play, what dances and melodies/harmonies are spawned on top of them, which scales to use, what ceremonies celebrate.  Each of them has an entire culture that has evolved from the creation of rhythms displaced by one note (most important part). It makes me wonder, can we spawn new genres by changing the rhythm? #blogs #ideas #exerpt
 
-If I'm noticing this much improvement by half ass rehearsals throughout the
-week over one or wo challenges, imagine how much improvement I would see if I
-did *more* within a subject. I.e. 2 hours of accents instead of one, or adding
-diddles, or anything like that. Improvements would be out of this world. #inspiration
+If I'm noticing this much improvement by half ass rehearsals throughout the week over one or wo challenges, imagine how much improvement I would see if I did *more* within a subject. I.e. 2 hours of accents instead of one, or adding diddles, or anything like that. Improvements would be out of this world. #inspiration
 
-One of my super powers is how critical and objective I can be. Balanced with
-mindfulness and my ability to synoptically connect subjects, it allows me to
-find patterns in places most people wouldn't. #strengths
+One of my super powers is how critical and objective I can be. Balanced with mindfulness and my ability to synoptically connect subjects, it allows me to find patterns in places most people wouldn't. #strengths
 
-To make coaching more valuable: 
-- Set up same excel sheet (shared between me and client) for their
-  accountability and my own information on guiding their practice 
-I'm starting to understand it now. Have a base business (ie the 1-1 coaching)
-and everyday seek to make it more valuable. Adding value can be done by
-figuring out what their problems could be, and offering a solution. Over time,
-business will expand just by nature of encountering more problems and building
-more 1-many solutions at different resolutions (ie faster results for higher
-price, more personalized results for higher price, increased likelihood of
-achievement for higher price). The other side of this is the more i work with
-others, the easier it will become to diagnose specific issues and their
-solutions, which contributes back to my own practice. #business #coaching
-Low ball solution to accountability and other ideas: 
-- Start off with excel/notion templates for accountable practice. Eventually
-  work towards building an app with community feature (Strava but for music
-with meteronome)
-- Practice room renovation that increases motivation/inspiration
-    - Transformative experience, add mirrors, change lighting, pictures of other people and inspirations
+To make coaching more valuable: - Set up same excel sheet (shared between me and client) for their accountability and my own information on guiding their practice I'm starting to understand it now. Have a base business (ie the 1-1 coaching) and everyday seek to make it more valuable. Adding value can be done by figuring out what their problems could be, and offering a solution. Over time, business will expand just by nature of encountering more problems and building more 1-many solutions at different resolutions (ie faster results for higher price, more personalized results for higher price, increased likelihood of achievement for higher price). The other side of this is the more i work with others, the easier it will become to diagnose specific issues and their solutions, which contributes back to my own practice. #business #coaching Low ball solution to accountability and other ideas: - Start off with excel/notion templates for accountable practice. Eventually work towards building an app with community feature (Strava but for music with meteronome) - Practice room renovation that increases motivation/inspiration - Transformative experience, add mirrors, change lighting, pictures of other people and inspirations
 
 I'm worth a chocolate cake today. A $4.14 chocolate cake.  I got my first run in since rehab. I feel numb.
 
@@ -56,9 +22,7 @@ How does all of this connect back to money? I guess it's like I'm looking for wa
 
 Gpt 
 
-So when you spend or masturbate without intention, part of that is:
-> "No one else is going to give me permission to feel good. So I'll take it."
-But it doesn't feel good after. Because what you actually want is permission to be joyfully held while you feel good--not to do it alone in hiding.
+So when you spend or masturbate without intention, part of that is: > "No one else is going to give me permission to feel good. So I'll take it." But it doesn't feel good after. Because what you actually want is permission to be joyfully held while you feel good--not to do it alone in hiding.
 
 Need to stop relying on gpt as much and listen to God more
 
@@ -72,26 +36,13 @@ All this money stuff has awoken me into a panic at 3 AM. It's brought out a leve
 
 # 05-20-2025
 
-Who is my SVM?
-- no clue
-- Drummers looking to improve?
-- Drummers struggling to make that next step in their career?
-- I have no clue
-There's so much pain and doubt in my head that I feel like a failure. I don't even have people in my life I'm trying to help. Like maybe Drew, Ethan, Nick, Stephen, and other Athens drummers? I guess it makes sense to picture them from now on when I'm explaining things. Especially for reels. That's grounding the market. But it brings up this other contradiction in my head on whether to compare within or without. I felt like I was inspired until I read this fucking marketing book that shut down a lot of my ideas. Tbf it didn't shut them down so much as it just adjusted them to reality, giving a proper audience to cater to. I just still don't know how to reconcile building solutions for someone else while marketing in a way that remains true to myself. Like how do I build a blog and reels and YouTube that explore my curiosity in a way that still markets to the people I want to attract? That's my big dilemma here. I don't know how to be authentic and marketable at the same time. 1 for them 1 for me? I mean, I think I actually enjoy making resources for them *when I know what they're looking for*. Like with TikTok, it gives me the queries so I know how to better help. But it feels too Ambiguous trying to guess for myself and I get frustrated with that. Like it's the middle ground of exploring with curiosity and knowing how to relate that into what people want. SVM makes sense though because if you spread it to people you know already that need that information, that's real world evidence.
+Who is my SVM?  - no clue - Drummers looking to improve?  - Drummers struggling to make that next step in their career?  - I have no clue There's so much pain and doubt in my head that I feel like a failure. I don't even have people in my life I'm trying to help. Like maybe Drew, Ethan, Nick, Stephen, and other Athens drummers? I guess it makes sense to picture them from now on when I'm explaining things. Especially for reels. That's grounding the market. But it brings up this other contradiction in my head on whether to compare within or without. I felt like I was inspired until I read this fucking marketing book that shut down a lot of my ideas. Tbf it didn't shut them down so much as it just adjusted them to reality, giving a proper audience to cater to. I just still don't know how to reconcile building solutions for someone else while marketing in a way that remains true to myself. Like how do I build a blog and reels and YouTube that explore my curiosity in a way that still markets to the people I want to attract? That's my big dilemma here. I don't know how to be authentic and marketable at the same time. 1 for them 1 for me? I mean, I think I actually enjoy making resources for them *when I know what they're looking for*. Like with TikTok, it gives me the queries so I know how to better help. But it feels too Ambiguous trying to guess for myself and I get frustrated with that. Like it's the middle ground of exploring with curiosity and knowing how to relate that into what people want. SVM makes sense though because if you spread it to people you know already that need that information, that's real world evidence.
 
-"Learn to torture us in delightful ways" - EK
-I REALLY like this quote. It begs the reader to acknowledge the ways in which we like to torture people and asks us to do it better. I think it's made me realize I like that sexual tension and musical tension 
+"Learn to torture us in delightful ways" - EK I REALLY like this quote. It begs the reader to acknowledge the ways in which we like to torture people and asks us to do it better. I think it's made me realize I like that sexual tension and musical tension 
 
 Also need to work through standing at the precipice of both creative freedom and social freedom. also patterns in attraction. Like what is recurrent and why I feel like the recurrence of Jess into my life is playing a part in it
 
-Notes on new TikTok (Bembe lesson)
-- No sheet music, it would really be nice to have it
-- I like how explicit it is and how it begins
-- saying there's 4 parts at the beginning could've added more tension
-- Can tell there's a lot more confidence and excitement behind it
-- Is generic lesson okay? I've shat on them for so long but maybe they're actually helpful
-- Wished I did multicam
-- Overall, I liked this one much more than previous ones. Less click bait I think
+Notes on new TikTok (Bembe lesson) - No sheet music, it would really be nice to have it - I like how explicit it is and how it begins - saying there's 4 parts at the beginning could've added more tension - Can tell there's a lot more confidence and excitement behind it - Is generic lesson okay? I've shat on them for so long but maybe they're actually helpful - Wished I did multicam - Overall, I liked this one much more than previous ones. Less click bait I think
 
 I think the solution is to be more intentful. Not just making whatever video I want in the moment, but try and get a better idea of where the story I want to tell matches the story someone else needs to hear
 
@@ -111,11 +62,7 @@ The farther into this I get, the more I see the ownership has a projective quali
 
 Wealth Whitchery #books
 
-What do i expect/want for $100?
-- Transformative experience, guard rails that set me on a new trajectory. Actually transformative might be worth more. Like with PT at $100, it's all self accountability. How much more would having someone ensuring you're making progress be worth? Like micromanaged accountability and structure
-- Accountability 
-- Visible progress
-- Guaranteed end result. If I go to a marathon coach, I want a guaranteed timeline for a marathon, or at the very least some form of verifiable results
+What do i expect/want for $100?  - Transformative experience, guard rails that set me on a new trajectory. Actually transformative might be worth more. Like with PT at $100, it's all self accountability. How much more would having someone ensuring you're making progress be worth? Like micromanaged accountability and structure - Accountability - Visible progress - Guaranteed end result. If I go to a marathon coach, I want a guaranteed timeline for a marathon, or at the very least some form of verifiable results
 
 My dream isn't to be the performer. It's to be the drummer other drummers come to for guidance. To be so skilled that other people want to learn from me
 
@@ -163,18 +110,7 @@ The [[Seth Godin]] marketing book [[This is Marketing]] really does a good job o
 
 I think it's more just the precedent of having only practiced 28 hours this month that freaks me out and makes me anxious, when the intention has been to get at a minimum twice as much. Or even deeper, it's a frustration and discomfort with how little I understand how to feel and play Afro Cuban drums (akin to when I first got into jazz), not having prepared anything for Amanda, being exhausted, being emotionally overworked, being insecure about my content creation and making it into a performance, being overwhelmed with how much I already have to create and what little time I have to do it, and not having exercised.
 
-What are the stories I need for 
-- Ethan Houseman
-- Drew Serrero
-- Gideon Johnston
-- Nick
-- Andrew Yi
-- Steven Ledbetter
-- Jesse Mangum
-- Elijah Johnston
-- Trautwein 
-- David Clark
-- Jack 
+What are the stories I need for - Ethan Houseman - Drew Serrero - Gideon Johnston - Nick - Andrew Yi - Steven Ledbetter - Jesse Mangum - Elijah Johnston - Trautwein - David Clark - Jack 
 
 Reading this book, it makes sense why reels never worked in the past. They weren't to help anyone. It was just trying to "show off"
 
@@ -198,15 +134,7 @@ Simple landscape of jazz drums #ideas #blogs #reels
 
 # 05-23-2025
 
-What is the intention of today's lesson? Recording basics: melody lines, tempo, 
-Goals for today with Amanda 
-- Review Fmaj and Amin chords, blues progression 
-- Teach garage band as a tool for learning
-- Teach music theory as a way to learn intervals
-- Teach the metronome 
-	- Knowing when you're on beat
-	- Different parts
-- Improvise on top of blues
+What is the intention of today's lesson? Recording basics: melody lines, tempo, Goals for today with Amanda - Review Fmaj and Amin chords, blues progression - Teach garage band as a tool for learning - Teach music theory as a way to learn intervals - Teach the metronome - Knowing when you're on beat - Different parts - Improvise on top of blues
 
 Work brought out a lot of misery today. It was a rush for 4 hours straight, no break. I think the worst part was that the vibes were overall very low. I kept trying to bring them up, but it ended up being a lot of wasted energy. By the time work was over, I was too crashed out to properly thank everyone from a place of vulnerability. I just had to leave. And it's like I wish I could've been more available for it. Brandi was the most difficult part. All the connection issues are difficult right now because whenever I'm around her, there's such a massive part of my focus that gravitates towards her. Like I think the issues I had with her today were genuine, but I think the recurring pattern of finding problems with her is just a way to focus on her more or stay attached and create more drama for myself. The specific issues were that I feel like her gratitude is few and far between. I don't feel appreciated for the work I do with her and don't feel like I'm getting the support I need. The other side is that I don't want to give the same support back because I'm not getting it from her. And it's like I know that in order to get what I want, I have to be the role model here. I have to properly thank and appreciate her for what she does. I do it for everyone else, why is it so hard with her?
 
@@ -234,19 +162,9 @@ I want David on my team no matter what
 
 I now realize how important learning about cultural history is to analyzing/learning music fast. The ending to Lingus is just a rumba
 
-What I didn't like about this TikTok
-- Couldn't properly articulate half of what I was trying to say (although most of it still came out alright)
-- Playing isn't always necessary, sometimes just describing is enough
-- Need to be more diligent in citing sources
-- Still don't know how to approach it all from a standpoint of mindfulness and awareness
+What I didn't like about this TikTok - Couldn't properly articulate half of what I was trying to say (although most of it still came out alright) - Playing isn't always necessary, sometimes just describing is enough - Need to be more diligent in citing sources - Still don't know how to approach it all from a standpoint of mindfulness and awareness
 
-Things I noticed at work today:
-- Jealousy when I heard about Andy texting someone else about a hike
-- Fear that by being more tenacious in getting a date/activity set with Andy, that I was being too much
-	- Pushing the envelope too much and pushing him away
-- Mindful and more intentional in my approach to working, less movement but more deliberate
-- More openly loving with David and Andy, and more generous with physical touch
-- Longer eye contact
+Things I noticed at work today: - Jealousy when I heard about Andy texting someone else about a hike - Fear that by being more tenacious in getting a date/activity set with Andy, that I was being too much - Pushing the envelope too much and pushing him away - Mindful and more intentional in my approach to working, less movement but more deliberate - More openly loving with David and Andy, and more generous with physical touch - Longer eye contact
 
 Walking slowly but intentionally, always, is a key to mindfulness. Noticed this at work today, didn't have the energy to push myself but somehow being in less of a rush made it easier to act more intentionally fully.
 
@@ -258,8 +176,7 @@ Overall, want the vibe of my teaching style to focus on awareness and focus the 
 
 Having a really hard time being decisive about the next decision for my business. I know I need to make a website, but have no idea what I'm doing as far as marketing goes. Or really what the fuck I'm trying to do. Like I think what I want more than anything is to be a drum coach, to solve other drummers problems and guide them. To get them to come to me with their problems and then create or find solutions for them so they can continue growing on their own. Having a hard time with the fears here, because I feel like an important step of this is to separate myself in some ways as an authority on drums. I'm trying way too hard to do it without actually talking to anyone.
 
-Morning pages
-Monthly review
-Weekly review
-If time, newsletter/categorizinf.
+Morning pages Monthly review Weekly review If time, newsletter/categorizinf.
+
+The most confusing part of afro cuban #drumming has been that its a replication of multiple instruments, not just the instrument on its own. Its the only real form of drumming where drum set didn't start out as the main instrument. Going into learning it, I had the impression that I was picking up a guide on drumset performance, but what I've learned from this book is that none of AFro-Cuban music was ever written or intended for drum set. The different timing feels conflict with 4/4 all the time, because they weren't written in 4/4. They were alwasy meant to groove as a standalone. I think it was just frustrating going into the topic thinking i was learning how to play like bossa nova and salsa and instead got an introduction to how drums aren't welcomed here from the beginning. I'm still struggling to understand all the cultural significances and all the other parts being played on top of the clave.
 
