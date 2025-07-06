@@ -25,3 +25,23 @@ Trying to recall what I remember. Quito is the soloist. The rumba styles are Col
 For the music gym idea, would probably be easiest to build something around an abandoned warehouse or abandoned storage facility. Could easily outfit something like that with a rehearsal setup #ideas #business
 
 [Guaguanco tutorial](https://youtu.be/eWq_-tYBQLs?si=jSDSkX02esJxMpYi) #music #drums #videos Really good tutorial on the essence of guaguanco. Probably the most difficult part about this and every other Afro Cuban rhythm is pocketing myself amongst what feels like chaos, along with relying on the clave instead of 1 2 3 4. I also feel like learning about the dance is way more helpful. Like udnerstnaindg what they're looking for
+
+# 06-28-2025
+
+In trying to write out the lead sheets for my songs, I'm realizing just how little I know about analyzing chords. Need to do a deeper dive on this. Like how do I decide which chord to use for a lead sheet? Furthermore, how do I make a leadsheet? What is it's purpose? Tbh, I can't even read one very well. Maybe that's a big part of the problem.
+
+# 07-02-2025
+
+Actual shopping simulator that takes into account psychology. #ideas #games Could be an easy way of gamifying environmental sales. Could incorporate customer connection by touching each customer, remembering stuff they say.
+
+Need to make an onboarding idea for Elena and a plan moving forward and post-lesson notes. #tasks
+
+#blog #ideas the three things that have greatly changed my perspective on life. 1. Propagating a Devil's Ivy into a mature plant 2. 
+
+#tasks Need to do a full on dump of how music is great how it connects people and shit like that, really find more reason to appreacite what i do
+
+The answer to everything is to ask the question: How can I already treat what I have better?
+
+# 07-03-2025
+
+Ash Soan's [website](https://ashsoan.com/studio/) is so fucking sexy. Apparently he uses [Create](https://createdesigns.co.uk/) digital team. Worth keeping in mind.
