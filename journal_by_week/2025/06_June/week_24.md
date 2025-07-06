@@ -143,6 +143,21 @@ Look Brandi, I wish I had one reason, but there's many. The main thing about it 
 
 Can I begin to imagine, what does it feel like to feel safe within myself, wholly? And what does it feel like to be with someone I feel safe around? Can I accept myself as being worthy of that?
 
+Definitely need to create a stronger structure. Like predicate certain objectives on achieving certain goals. Having something like this will greatly improve my ability to plan things, as well as their ability to accomplish things in a given timeframe. Okay lesson plan for today:
+- Go back over the blues progression in G Major at 35 BPM? 40 BPM? 
+  - This is where I feel like I should be pushing her. Something more concrete of an objective, but having something like that may be too much. Idk it's not something I'm doing to myself (currently) so it feels weird to predicate it in that way.
+- Start teaching about singing in conjunction with guitar. Sing each note before it's placed. 
+  - Create a concious intention before moving. Learn translation.
+- Improvise back and forth with yourself. Sing a bar, play a bar
+- Improvise then play note
+Where are we going? This is why there needs to be a bigger structure. Certain achievements or like a goal map? Like the main purpose of today is to work on translation for melodies. 
+
+I feel like the reason I need a mentor is so that I can relegate all the planning and growth to them, so I can focus on my students. Or at least, have less of a stake in it? Idk. I feel too close to it. It's like I want to have the same goals that I put onto my students, the same strucutre, but I'm struggling to create that for myself. Like I want some kind of goal map to say this precursor is needed to go to achieve these next things, but that requires a more intimate knowledge of what I'm lacking. In planning out the path forward for my student, it makes sense why I need someone with a much higher perspective to plot the route for me. Same reason I need a physical therapist, or why right now I want an actual therapist. A book is good, but it's no replacement for someone who has experience in developing people. #insights #struggles #mentorship #teaching
+
+Can we create a system of like badges/achievements within each like niche or genre or section? I really like this idea, but it's going to take some work to get. It's like I need a program which I can create a path for people. Upload achievements, create a personalized plan. I think having this, having concrete stepping stones and achievements that is completionist within this will really help a student to live up to a full program. Like it would be really cool to say "Level 1" or "The Chords" as a category has all these achievements that can be completed and processed in a way that the student can see their progress. #ideas #apps
+
+Need to start doing journaling around the feeling of a certain drum beat or song.
+
 # 06-11-2025
 
 Part of my niche is outcasts
@@ -188,6 +203,9 @@ Why was it so painful when she talked about him? What did I get during masturbat
 We ended up hanging out for the rest of the night. We got Chick-fil-A and went over to her house and watched funny videos on the floor, and she ended up like almost kind of snuggling up with me and I'm struggling to reenter on myself at this point because it was likeI don't know. I felt like I was inches away from making some kind of move not like towards sex or anything, but just something where we got closer and connected more and it's hard to understand what I'm feeling right now it's really hard to understand it like I'm trying to look at it, but I feel like it's a mixture of exhaustion and also just like a high. Like I wanna be happy about the time I had like feeling a freedom from the pain, but I guess I don't trust it like cause I know that I don't want this relationship but right now I feel like gravity is like pulling me into it and I'm struggling to stay awake cause like even today it was like to cry for help is what pulled me inand like I don't know I'm struggling to feel safe. I'm struggling to reenter myself because this isn't what I need to be prioritizing right now and it's like do I just go with it do I go with it when there's only pain at the end of this rainbow I don't know I don't know what to do. It's like all I wanna do is let it go like let go of it. Reset myself and get away from it because it's just a distraction. It's getting me away from what I'm trying to do and maybe it's true. Maybe it's just the resistance you know like I can't tell if the energy drain comes from the actual thing or if it's the resistance to it but there's such pain there that I haven't dealt with and it's like something that I was saying there's a lot of truth to like there were a lot of moments tonight where I felt like genuinely connected to her just as a friend like we're able to have these deep conversations I was able to admire her beauty and live in the moment in the present with herand just enjoy it, but then there were other moments that we're just complete and utter pain like rubbing salt in a wound. We all I need to do is just accept that I enjoyed myself. I had a good time and let it go from there.
 
 Tonight felt like a weird closure. Like after moving past all the pain, the glamour was gone. For once I could communicate with her, in many roundabout ways, all I'd been feeling. I didn't have to hide anymore. It's like there's no actual feelings. There was genuine admiration for her beauty that I was transparent about. It started to feel like all there ever was was rooted in suffering. Like everything about the beginning of our interaction was just pain pain pain and the obsession was just getting it to stop. After moving through it all, I feel light. Like I had a great conversation with a friend
+
+[Rumba Columbia with Moperc congas](https://www.youtube.com/watch?v=YKSs9la8Lfw) 
+Trying to recall what I remember. Quito is the soloist. The rumba styles are Columbia, GuaGuanco, and I can't rembmer the other one (yumba).
 
 # 06-12-2025
 
