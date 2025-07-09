@@ -26,6 +26,10 @@ What is my funnel? What is the lifetime value of a customer under my business? R
 
 Who do I need to become to run a successful business? What does he look like?
 
+For the music gym idea, would probably be easiest to build something around an abandoned warehouse or abandoned storage facility. Could easily outfit something like that with a rehearsal setup #ideas #business
+
+[Guaguanco tutorial](https://youtu.be/eWq_-tYBQLs?si=jSDSkX02esJxMpYi) #music #drums #videos Really good tutorial on the essence of guaguanco. Probably the most difficult part about this and every other Afro Cuban rhythm is pocketing myself amongst what feels like chaos, along with relying on the clave instead of 1 2 3 4. I also feel like learning about the dance is way more helpful. Like udnerstnaindg what they're looking for
+
 # 06-25-2025
 
 All the material things I need to repair my current condition
@@ -114,4 +118,6 @@ I guess the ideal is that I'm an all in one package. Hiring me *pulls* a crowd t
 - Daily instagram commenting (watering plants) ONLY FOR GENUINE CONNECTION NOT FOR MANIPULATION
 - Referall deals ($50 to whoever refers, engineer or fellow musicians for gigs)
 - Share the wealth wherever possible!!!
+
+In trying to write out the lead sheets for my songs, I'm realizing just how little I know about analyzing chords. Need to do a deeper dive on this. Like how do I decide which chord to use for a lead sheet? Furthermore, how do I make a leadsheet? What is it's purpose? Tbh, I can't even read one very well. Maybe that's a big part of the problem.
 

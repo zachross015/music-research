@@ -40,6 +40,16 @@ Stay on the practice kit for videos. If I can be a beast on there, it brings in 
 
 I've started to see my own influences coming out of my playing, so many jams are littered with traces of the songs I've learned. Gives me more reason to learn more songs! The diligent way, transcribing and reading
 
+Actual shopping simulator that takes into account psychology. #ideas #games Could be an easy way of gamifying environmental sales. Could incorporate customer connection by touching each customer, remembering stuff they say.
+
+Need to make an onboarding idea for Elena and a plan moving forward and post-lesson notes. #tasks
+
+#blog #ideas the three things that have greatly changed my perspective on life. 1. Propagating a Devil's Ivy into a mature plant 2. 
+
+#tasks Need to do a full on dump of how music is great how it connects people and shit like that, really find more reason to appreacite what i do
+
+The answer to everything is to ask the question: How can I already treat what I have better?
+
 # 07-03-2025
 
 The anticipation was worse than the conversation. I asked her about the trip and she said it was really good, and I felt little. I noticed that I was able to still be cheerful with the people I was with. I found comfort in Her.
@@ -143,6 +153,8 @@ I am still showing up the way I want to, but the stress and anxiety are getting 
 - Let Pleasure bring intensity, depth, and erotic charge _to what She initiates_
 
 Bring people to events because I have a better time, they have a better time, and bringing them gives me the courage to make new friend. It's better all around when I include others.
+
+Ash Soan's [website](https://ashsoan.com/studio/) is so fucking sexy. Apparently he uses [Create](https://createdesigns.co.uk/) digital team. Worth keeping in mind.
 
 # 07-04-2025
 
