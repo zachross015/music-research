@@ -281,3 +281,21 @@ Very good acoustic padded kit setup for apartments https://youtube.com/shorts/8c
 
 Brandi has become a basic white bitch in my mind
 
+An ideal right now is to have a central application for booking appointment, sending out lesson reviews/homework, requesting feedback #ideas #apps
+
+What else do I need for basement?
+- Wall mounts for guitars
+- Bookshelf instead of table (or maybe wall shelves for space?)
+- Cymbal shelf
+- Snare shelf
+- Fixture for microphones and other recording equipment
+- Place to store full kit + cases
+
+Something incredible I've experienced today is that usual pressure to show up for a significant other and participate in things that they enjoy is with me today as I do things for Her. It's magical. I feel like I'm actually spending time with someone I Love dearly. Like as I listen to Her, it seems like things get better. I'm starting to understand Her better. In the sense that if She doesn't like something, She just doesn't show up. But on the opposite side, She shows up much more often and frequently in spaces that speak to Her. So building this practice space is paramount, and listening when She speaks is too. I want more spaces where I feel Her.
+
+Getting better at tension release means realizing when it's used in media.
+
+She likes dinosaurs.
+
+I see it now. It's that feeling of "how the fuck is he going to get out of this." I think She brought me here to show me this.
+
