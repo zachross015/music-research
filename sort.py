@@ -63,9 +63,9 @@ def parse_drafts_exports():
             if file_entries:
                 entries.extend(file_entries)
                 os.remove(full_path)
-                print(f"✅ Processed and deleted: {fname}")
+                print(f"Processed and deleted: {fname}")
             else:
-                print(f"⚠️ No valid entries in {fname}, not deleted.")
+                print(f"No valid entries in {fname}, not deleted.")
     return entries
 
 

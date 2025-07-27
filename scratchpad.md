@@ -1,37 +1,25 @@
-# 07-16-2025
+# 07-23-2025
 
-The way to cultivate an obsession is not to focus on a single remedy (ie practicing constantly) but instead to create MULTIPLE outlets that all serve the same higher purpose under different contexts and energy levels. Like transcribing is good for low energy, writing is good for creative, watching and journaling is also good for low energy. Not just the performance, the look of it too. 
+Need to, from the beginning, be capturing analytics on progress. Possibly get Drew on as a content writer? And where does the money come in? Is it monthly subscription, or pay for more time like Duolingo? I think the only problem with Duolingo model is that there's no way for us to challenge people and verify results that way. BUT an offshoot music theory app would be REALLY good under the duolingo model. #musicrunna
 
-# 07-17-2025
+Practices should all be easily recordable. #musicrunna
 
-I think down the line, I need to do the ONE dumps into a single focused solution. This will make the next practice super simple, so maybe do a client facing summary but then a full list of everything I notice. But I think part of holding them to a higher standard also means putting pressure on things like outside practice. One simple way to do this is to start by making them get pads and sticks as a base level assumption #teaching
+Runna uses a goal oriented system, pick a goal and it structures everything up until that goal. What does that look like for drums? What goals end goals are there?
 
-I think in #teaching, get a couple grooves down and THEN start teaching about listening for them in music to learn from others
+# 07-24-2025
 
-What is is I want right now with #musicrunna for #teaching?
-- Give a "General" idea for homework, list of exercises and suggested amount of work days and times, especially with single day activities
-- Allow the student to customize their schedule
-- Self-optimization
-- Simple interface for creating exercises, achievements
-- Automated metronome for going through exercises, create less friction in dilligent practices (automated rest timers)
-The thing I want THE MOST right now is to be able to text them a link to a lesson summary/homework breakdown that's essentially a single web page talking about all this information. FUck the email, there's not nearly enough customization there. I want to be able to use this platform to customize my own routines as much as anyone else's
+Onboarding people for general improvement, in any instrument, should just seek to improve ALL technique with daily practices that focus on individual parts. Let drilling into a single concept advance with mastery ie for a guitar student, one day on alternate picking, one on slides, one on chords, etc. For drums, one day on technique, one day on timing, one day on dynamics, etc or alternatively for each sub area (eg technique one day for accents, one for diddles, one for sticking, etc) #musicrunna this is akin to what I did with both working out and the 15 minute a day book, except that book was fixed and this is much more dynamic to the weaknesses of the player
 
-Also, if I can get this up and running, sending something like a weekly practice reccomendation to someone like Caleb would be super good.
+Maybe the way that goal setting works is it tries to create the shortest route? Like if the goal is to get better at uptempo jazz swing, itll take the end goal and end date and customize a routine which should (ideally) guarantee it gets there by customizing practices up until then with a mixture of endurance/sprints #musicrunna
 
-What is the MVP?
+# 07-25-2025
 
-Reading through and writing out my lessons notes, it's obvious to me that one of the big limitations I'm facing right now is that I don't extend to my students any like consistent system or agreement for homework and summaries. I REALLY need to get this figured out.
+What did I learn from discover strength today?
+- Initiation that went over goal setting was a really good way of easing into the session
+  - Could re-instating goals help with my own sales?
+- Emphasis on research increased my trust for them
+- The 2 free sessions really helped me get involved
+- Locking in a social customer (eg me) is good for their marketing
 
-# 07-18-2025
-
-Different drummers' methods for developing a better sense of comping, grooving, and feeling during solos.
-
-[Benny Greb](www.youtube.com/watch?v=8XI2aHSBTnU). Mean what you play. Learning to become aware of what you play by approaching it in the form of communication. The best thing you can do for all of them is set a clear frame of rules and see what you can do within this frame.
-- 2-bar improv: play whatever you want for the first bar, then repeat it for the second.
-- 4-bar improv: double it
-- Note-value improv: Pick a subdivision and only play in it
-- Orchestration improv: Pick one instrument and see how creative you can get with it
-
-I know that my issue is that my pocket diminishes greatly during improv, possibly due to unawareness.
-
-[Larnell Lewis]() Isolate a limb, keep pocket with the other three and improv with the fourth. Can be interlaced with Benny Greb.
+And in general:
+- Just mentioning I teach drum lessons perks people who want lessons up (eg Momo talked about it). I need to focus on these people and really sell it to them. Give them a free lesson (with onboarding) then try and get them locked in with everything else. Part of this means I REALLY FUCKING NEED SOCIAL PROOF AND AN ORGANIZED OFFER AND A WAY TO CONGLOMERATE ALL OF IT TOGETHER
