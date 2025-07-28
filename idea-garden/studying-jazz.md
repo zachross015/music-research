@@ -1,0 +1,7 @@
+I think the hard part of studying jazz or music is there's no like direct answers. It's hard to analyze because I still don't really know what questions to ask outside of just learning the language 
+
+Beginning to realize the importance of studying music for impact. Studying jazz is opening up this like world of scenery I've never noticed before, most importantly how the little things are what change the impactfulness. Studying how they increase intensity, create tension, release it, etc seems so fucking important. I started noticing this in Deltarune where Toby Fox masterfully increases the intensity of the main theme throughout the game, not only that but the different renditions of different themes are so loaded with emotions that it makes me fall in love with the game.
+
+The big thing in playing with others is you have to get good enough, technique wise, to not think at all about your part. Much like the rest of the world, it's about being generous and considerate of others while you play and allowing the universe to take care of you while you take care of them
+
+My appreciation for jazz is deepening. I'm playing along to Delilah, I'm starting to sense the ebb and flow of musical conversations. Seeing how the drummer is instantly picking up on changes to what the pianist or lead player are doing, how the groove harmony is being modified instantly to match. It's so fucking cool, gives me a much deeper appreciation for what's happening #jazz #music 

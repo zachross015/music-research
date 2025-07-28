@@ -42,3 +42,23 @@ Also, if I can get this up and running, sending something like a weekly practice
 Should find a condensed way to show the metronome and exercise on the same screen. For most exercises, the net doesn't need to take up the full screen #musicriunna
 
 Eventually use #musicrunna as a research tool give discount to dummies like various finger training and stuff
+
+Need to, from the beginning, be capturing analytics on progress. Possibly get Drew on as a content writer? And where does the money come in? Is it monthly subscription, or pay for more time like Duolingo? I think the only problem with Duolingo model is that there's no way for us to challenge people and verify results that way. BUT an offshoot music theory app would be REALLY good under the duolingo model. #musicrunna
+
+Practices should all be easily recordable. #musicrunna
+
+Runna uses a goal oriented system, pick a goal and it structures everything up until that goal. What does that look like for drums? What goals end goals are there?
+
+Onboarding people for general improvement, in any instrument, should just seek to improve ALL technique with daily practices that focus on individual parts. Let drilling into a single concept advance with mastery ie for a guitar student, one day on alternate picking, one on slides, one on chords, etc. For drums, one day on technique, one day on timing, one day on dynamics, etc or alternatively for each sub area (eg technique one day for accents, one for diddles, one for sticking, etc) #musicrunna this is akin to what I did with both working out and the 15 minute a day book, except that book was fixed and this is much more dynamic to the weaknesses of the player
+
+Maybe the way that goal setting works is it tries to create the shortest route? Like if the goal is to get better at uptempo jazz swing, itll take the end goal and end date and customize a routine which should (ideally) guarantee it gets there by customizing practices up until then with a mixture of endurance/sprints #musicrunna
+
+A good goal after I get used to building exercise pattern for people is to get to a point where I input a target for an exercise and the plan auto populates with associated exercises #musicrunna
+
+Definitely need a community tab aspect. Need a way to use this to motivate myself and my friends #musicrunna
+
+On the practice screen, bottom should have a pause/end workout flow. Eventually the "next exercise" button can be included to auto start the next one's timer/met, especially if there's a full screen met this would be good for jumping between exercises after a planned routine. Next should be the summary screen where private notes can go. Main page should have a routine history #musicrunna what of this is absolutely essential for this version? What can be saved?
+
+Pitch grader #musicrunna
+
+Especially with a routine builder, can monetize creators seamlessly through a practice routine marketplace #musicrunna

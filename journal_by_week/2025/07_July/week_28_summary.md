@@ -1,4 +1,4 @@
-# Week Num: Theme
+# Week 28: Theme
 
 Empowered by Her presence, I began this week constructing a temple
 for Her play. It's been lovely, and a deep revelation into my new
