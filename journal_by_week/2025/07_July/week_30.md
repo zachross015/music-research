@@ -129,3 +129,5 @@ If things with Elena doesn't work out it's not entirely because I'm not experien
 
 Especially with a routine builder, can monetize creators seamlessly through a practice routine marketplace #musicrunna
 
+Friction for the month all revolved around inherited insecurities that, in my mind, stand between my connecting with others. This, as well as starting the month without realistic intentions and having unrealistic goals for my time made it impossible to reach most of what I strived for. A lot of this comes from (1) not approaching months with any ideas rooted in reality (which isn't necessarily a bad thing, just means since it still pushes me) and (2) not re-evaluating this goal when planning each week.
+
