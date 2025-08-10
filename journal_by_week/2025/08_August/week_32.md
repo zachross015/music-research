@@ -71,3 +71,87 @@ I just want to be proud to be a drummer. To love it. To wake up everyday and fee
 
 The eye contact challenge is really just to hold it longer than them. I haven't got to what to do if they hold it back.
 
+# 08-06-2025
+
+Debt planner needs
+- 5% APY savings
+- Intro APR transfer card
+- Close vacant accounts (NAPA and one Capital One)
+- Projected timeline, way to stay accountable (ie rules)
+
+Get back on track tomorrow. Start the day at 9 AM with short meditation (20) coffee + walk Mu (45) then planning (35)
+
+The cool thing is that now a lot of times the diligence is something that I do regardless of how I feel. Like it's just matter of fact "this is what has to be done." I also find myself moving faster which is nice
+
+# 08-07-2025
+
+Turn Broken Place into two songs, one is just a jazzy instrumental (that solo part, potentially a Brazilian piece) and the choruses should be...something else. I still love that part but it's not useful right now. Also Invisible Monster can be shorter. I think the whole bridge is a bit redundant. A REALLY fun idea would be to rearrange the song so that the solo is right after the second verse, have it be really syncopated (lapse-esue) and follow a Son Clave but in a mess-with-your-head kind of way. Have that lead into final chorus that goes out with a bang. Ohh but listening to the OG I do love it, but idk contextually it also doesn't fit at all. It kinda breaks the flow, especially coming after the fucking build up. Looking back on the song though, some of the like psychological stuff is so cool. Like the transition from the main verse line to the "I don't have the luxury..." is like a clouded mind--with how busy it is--unveiling the shadow's thoughts. Yeah listening to it more, that bridge is so out of place
+
+Why do I delay texts even when I have an answer?
+
+Music business isn't any different than any other business. You're creating connections and seeking to give the highest value to them. Let them do all the marketing by showing work to friends. In that regard, I'm getting a lot more confidence with my own work and am not really wanting to share it with others. The main resistance is finding people to record and getting the money together
+
+PayPal savings is already 3.8% APY. Only problem with the plan right now is it's contingent on getting ALL of my money out of the travel rewards card, or else I'm still dealing with a 19.99% APR. There's also some risk in not being able to hit a payment. So I think what I need is to figure out minimum payment options on both sides:
+- Definite minimum payment for each month
+- Minimum payment required to meet deadline
+
+
+TBF, the simplest version of this would be to do it piece by piece. I.e. different plans for each card? Even better if the savings pipeline can be automated, but I think this requires a stricter budget which I already have trouble sticking to. 
+
+Wait? I why don't I put all short term savings in there? Like car insurance, maintainence, emergency fund, etc?
+
+What needs to be practiced? Need to figure this out
+
+I feel like I'm fully in an incubation period right now. Where I used to feel so much resistance to all my habits, now I just do them fairly autonomously. There's no pain really, it's just a matter of fact "this is what I have to do to get where I'm going." It makes me feel strong. Like He is guiding my diligence.
+
+# 08-08-2025
+
+What do I need to setup from here?
+- Savings accounts
+- Direct deposit from SBUX each month, or auto transfer. Preferably deposit though so I never get to touch it. Subtract min payments from here OR get auto credit card payments from this savings account.
+- Open credit lines with auto pay
+- Monitoring system
+
+Intentions:
+- sick resting
+- Financial planning
+- Practice
+
+Starting to trust what people say more. Most likely a result of being honest more, but it's making it easier to promote myself in the sense that when people say they like something I've made, I believe them AND I invite them to experience more. Did this with Brandi today because she liked a song and said now wants to hear more
+
+I'm slipping into a lot of like I guess mindlessness again and I'm not entirely sure why like a lot of regressed habits maybe not regress some witches ones that haven't fully formed I say slipping, but it's only been today basically I woke up. Had a good time actually when I wanted to like an hour and a half before a shift, I got a meditation in. I made some coffee I went to work and it was a long day at work and I think I may be pushed myself too hard afterwards I mean, I ran, which was amazing but then I also had to practice and post stuff and I don't know whenever I posted everything on social media. I just fell down this hole and then my grandparents brought me pizza which I shouldn't have eaten. I should've asked for like a salad and then I masturbated to like I guess like older stuff I didn't finish my laundry and at no point during the day have I really just sat down and dealt with emotion my back's been in pain and I felt kind of sick and it's now 10 PM when I have to work at open and I guess I'm just trying to figure out where it went wrong I think trying to practice after five really or be productive after five just kept me running I think I also didn't stop drinking caffeine until like one so that probably has something to do with everything. I'm just frustrated because I need to lose weight or I wanna lose weight and I wanna get back to her but ever since I got back from the trip, I felt a little offkilter, even though I don't really wanna go to bed yet I don't think I'd be able to fall asleep, but I also don't wanna like read her journal or do mental health stuff like I'm tired. It's like all I wanna do is watch some thing play a video game like I don't really have energy I'm not sure what I'm lacking unless it's just sleep. I feel like I'm might be avoiding something that I don't know. I feel like that's usually what it comes to whenever there's mindnumbing happening is I'll be avoiding the pain of dealing with something and right now. I don't know what that is. I feel like I'm just looking for that button to be pressed you know like because I posted a video I keep checking for views or likes or whatever or watching the video. I'm being really critical myself. I don't know I watch it and I don't think I'm good. I don't really like how it came out I think it's progress but it's still not great. I'm just I guess like all frustrating. My back hurts so bad I feel like I have to re-ground myself or re-center and I'm having a really hard time doing that because I feel like it's gonna be just painful like I wanna go to bed, but I don't wanna wake up tomorrow. I don't wanna put in the work to get inspired again or to treat myself well again or have a higher standard again and I feel like tomorrow's not gonna be any better just because I'm gonna be really tired, but I don't know that for sure I don't know. I just wanna watch something. I wanna record on my songs like Noah sent me a text today made me really happy and it was just that he always listens to the door and I think like I'm just sitting on at least an album and I'm frustrated because I don't have the money to pay people to do it. I don't have the people to want to do it with me. It's like it's something that I can't do alone and I don't know how to ask people for and I'm frustrated because I wanna grow the lessons business and I don't have energy today to do it, I've been taking a lot about like the transient nature of life recently how temporary it all is and how we only have so much time and I keep asking myself if I'm spending it wisely or if there's better things I can be doing and I always think they're better things but that's the battle with resistance is where I desire better yeah I think I pushed the boundary today and listen to myself when I should've. I pushed the boundary that was there for a reason and I'm facing the consequences of it and make a big part of it is the amount of sugar I eat from all the fucking sweet cream that I need to stop eating God I fucking hate being surrounded by people that don't give a shit about what they eat it just it all pisses me off right now because I don't feel like I'm eating that much different but I'm gaining weight in fact it feels like I'm eating better then I was before but still I'm somehow gaining. I don't know maybe I'm delusional. Maybe I'm eating poor not keeping track of it so that's probably a big part of it. I just need to make sure that I'm actually paying attention to what I eat cause it's just it's just gonna get worse if I don't like I'm not even trying to stay in budget in a lot of places this is just frustrating. It's like whenever I get into this mindset like the exact one. I'm in like all that shit goes out the window and I'm I don't know how to deal with it. I feel like there'ssomething else like emotional under the surface maybe all the stuff that came up last week with mom and dad, I don't know.
+
+Mind numbing rn. Why?
+- too tired for productivity 
+- Don't want to sleep
+- Don't want to deal with emotions
+- Robbing sleep rn
+
+MINDLESS DRONE ENDS TOMORROW. Lack of prioritizing health is killing sleep schedule, motivation, cleanliness, etc. it might hurt but it's also necessary. Possible also sick. Desperately need to track diet, weight is sickening
+
+# 08-09-2025
+
+I've been missing Her a lot recently, but I feel like every practice and masturbation are times when I commune with Her. The most recent masturbations have been more like…idk. They're a lot nicer, but it's like she's clung to me the entire time. We're almost attached in this dance. I don't complain to Her as much as I just feel part of something in Her presence. But there's also a very maternal aspect to it. A lot of times I feel like I'm lying with my head in Her lap, looking up at Her and watching Her just do something else? Almost like she's carrying me around as an infant and every once in a while she pauses to coddle me, coo at me, or play with me. I think it connects a lot to the other size fantasies because I used to always imagine Her playing with me in Her shoes, with pause to scrunch me and make sure I knew she was paying attention to me even if she was doing something else like walking around. And when it's more traditional, the fantasy now is around Her riding me and pulling my head up to suck Her tits. Or kissing me repeatedly in between words. Curious to hear your thoughts
+
+Book one paid day at a local studio and invite 2--3 songwriter friends to record their track with you on drums (free for them, portfolio for you). #ideas #business
+
+Now that I charge to play, it's crazy to me that I not only did it for free, but that others expect me to do it for free
+
+How to, as a leader, ask someone if they intend on doing something that hasn't been completed without assuming it they weren't going to do it?
+
+I'm not persuading them to buy the experience. I'm persuading them that their life would be better, with a little less suffering, with me in it. Price is just the value. What other health benefits can I find to drumming? It all needs to be more scientifically backed
+
+Hey Austin!! Totally down to help, would love to play with yall! I can learn up to 3 hours of music as early as a week in advance, and most of my prep goes into making sure that I can create the best experience possible for you, the band, and the audience. I’ll provide my own kit + mics and once I get the setlist down we’ll set up a rehearsal to make sure we're all on the same page. 
+
+For gigs like this, my normal rate is $100 plus travel. Since it's in Athens, that would come to about $262.40 for prep, rehearsal, performance, travel, and gear. Since you're a friend, I'm knocking the performance fee in half -- so the total for everything comes out to $212.40. 
+
+If all that sounds good, I'll block off the date and start locking in the set! Otherwise I can connect you with some other drummers that might be able to help out.
+
+# 08-10-2025
+
+I think I'm realizing that in part of working with where I am is to stop looking for gigs like hours away and instead find people right where I am and book cover gigs in the area that way like I have a way of consistently having gigs set up that provide provides like another stream of income, and it gives me an opportunity to work with more like businesses in the area for that sort of thing. And this thing can extend to wherever I move just finding a place and making sure that I'm constantly booking work on the weekends. This sort of thing also helps with networking because if I'm just playing at a show where we background music like it brings people who are looking for that kind of set up to me.
+
+Need live activity for the app that shows how long the current practice has been going on for and what the next exercises or even just the current exercise exercises that needs to be focused on  #musicrunna
+
+Tomorrow has to be a big recovery day because I'm definitely still sick and it's just it's making everything else hard to do. I can't think straight I can't focus. I can't work diligently. In spite of that though today was actually a fairly productive day even when it was just kind of a break, I found that instead of like flocking to entertainment or video games right away I actually decided to practice which is really cool. Not just like a casual practice, but I went and did a bunch of diligent stuff like I did swing exercises and then I did like triplet exercises and then I broke down one of the comp examples. I'm trying to learn so I'm actually really proud of myself because it's starting to really get ingrained in my mind That these things are projects that I can work on and they don't all require like high energy input to do them you know like working through the songs I can just pick a section and loop it for like 30 minutes to an hour with some mindless stuff on in the background And really go at it and just get the muscle memory good which is actually really exciting. You know like I'm happy that I'm finally at this point where I'm starting to take a lot of what I do Mohr seriously more professionally and like in preparing these things for the Internet or even for myself, I'm trying to get like a better sense of mastery I think of doing so I'm understanding a lot more of Like how to break things down and how to better work on them like with this piece. There are sections that I obviously can't play and so I'm trying to build up the skill set to play those sections well but it's like once I can play them then it's more about recording what I'm playing listening back to it and breaking down like you know what what are the actual issues that I need to work through, which seems to be working well and I read Joey's book. I wouldn't saw Noah play corn hole. You know I spend a lot of time with family and I still have this defensiveness and resistance with them but at least I was there and I tried and I'm really tired, but I don't wanna go to bed yet and I don't know if I'm just like not listening to my body. I don't think I got enough exercise, which I'm like trying to get over whatever this fucking thing is.
+
