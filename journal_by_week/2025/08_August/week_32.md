@@ -1,8 +1,133 @@
 # 08-04-2025
 
-I started writing this in my journal, but I feel like this is a conversation. I'd rather I guess they talk out only because I think I don't know giving it to chat. GPT might be a good thing but also it just helps me to deal with it in different ways. I feel like I've been circling around this for a long time, but I just I feel ashamed being a drummer. It's weird because like I don't know I don't feel like this conversation is going to change my direction at all like I think at the end of the day it's still what I see myself doing and what I mean I know that I want to do and I'm willing to be wrong about that if it comes to it, butI find my happiest moments in life are always around the drums. It's like each time I come back to try to trust this. I find myself getting distracted or trying to avoid it or something rather but like it I mean, truthfully I am ashamed to play the drums. I'm ashamed that my career path is around music you know that that I'm trying to like make a living Profiting off of numbing people's minds. Which isn't at all what it is it's just I don't know. I feel like I keep looking for a reason and reasoning to want to sell what I do you know to enjoy what I do to feel like me teaching other people it helps them to grow in somewhere shape or form. I keep wanting to believe that what I'm doing is important But I don't. I feel like I'm constantly trying to justify it in my head like what I do and what I wanna do and even if it feels like it's the only thing I can do and the only thing I truly give that amount of my life and that amount of my time to is just I just don't know how to justify it like I don't know how to tell people when there's a war going on and when the government is the way it is and you know when I could be making money that what I do is I teach people how to hit things you know just trying to justify it to find more reasons to enjoy it more and like I do like you know going to jazz jams I feel inspired or listening and studying music. I feel inspired or progressing when I talk to people about music I feel educated about it. It's just when I think about trying to sell what I do you know like to tell people I teach drum lessons to try to show up for an audition to try and record music with people like everywhere I go I feel like shame. It used to be that I felt burdened in different ways like I think it used to be that the question was you know why me of anyone you know why does it? Why do I deserve to succeed or why should I be chosen to record something when there's someone else available you know why do I deserve this? Why do I deserve that even if I don't but now the question isn't like as much about deserving it's just it doesn't make sense to me to want to do this and to put so much time and energy. I know it when I don't know I guess the money is never gonna be good for some reason it's become a focus. I guess just because it's an insecurity of mine, especially being around people that are wealthy is hard to want to tell people that that's what I do you know like it feels like a restriction to my career my love life my friendships. It's like a area of insecurity that I don't know how to deal with it like I don't know I just I guess I wanna get to a point where I see what I'm doing as being critical you know like see what I'm doing as is being as like important as a doctor or a lawyer or a surgeon or CEO because it feels like having that level of authority or respect or something like that lends itself to having just a surgical precision about what you do and I want that on drums but it's so hard to find value in that or to want to share that with someone else and I just I guess I feel like I'm just cynical and insecure and I'm frustrated with how long it takes and annoyed with the whole process because it feels like there's always something you know right now like my struggle is I don't know like I guess it's nice that the things I struggle with now are different. You know like a year ago it was the question of whether or not I deserve this and now it's a question of how do I truly believe that this has a value or that what I'm doing for people creates value like I guess now it's good that the question isn't if I deserve it so much as it is what can I do to make sure that I deserve it, but this shame has always been here and I think it just goes under different names and I don't know I think in getting into selling and persuading and trying to build this as a business. I'm having to confront this fact that like I don't know how to justify what I do I don't know how to have a good conscious telling people that yeah I played drums for a living I make art I'm an artistic fucker who's really emotional and it just creates so much insecurity right now it's like an elephant in the room that I keep trying to avoid and it's just it doesn't go away and there's always this part of me. That's like it would be so much easier if I just got like a well paying job that I could mindlessly slave away for eight hours a day just so I could have the money and the security of telling someone that I have a stable job so I could be more of a provider. It's just it sucks feeling like I'm such a mooch or a leech or a maggot and I think part of it is that I put so much on this thing as being the only thing that stands between me and you know financial security and a relationship which are deeper areas in my life that I still have to deal with, but I don't know I just I hate how this feels. I hate feeling like I'm ashamed of what I love to do feeling like I have to be closeted about the fact that I'm a musician I don't work on airplanes. I don't shoot people in war when I tell people what to do. It's for music you know it's not for anything necessary for survival. It's just entertaining. It takes your mind off of things. It helps you to connect to other people you're really just fucking sucks it's like I feel like I need to go through this I just I wanna be with the shame and the guilt so I wanna feel like I'm doing something important and memorable and it just doesn't feel like I am. I feel like I'm being a coward and like I'm fighting this war on art and like I'm losing.
+I started writing this in my journal, but I feel like this is a
+conversation. I'd rather I guess they talk out only because I think I
+don't know giving it to chat. GPT might be a good thing but also it
+just helps me to deal with it in different ways. I feel like I've
+been circling around this for a long time, but I just I feel ashamed
+being a drummer. It's weird because like I don't know I don't feel
+like this conversation is going to change my direction at all like I
+think at the end of the day it's still what I see myself doing and
+what I mean I know that I want to do and I'm willing to be wrong
+about that if it comes to it, butI find my happiest moments in life
+are always around the drums. It's like each time I come back to try
+to trust this. I find myself getting distracted or trying to avoid it
+or something rather but like it I mean, truthfully I am ashamed to
+play the drums. I'm ashamed that my career path is around music you
+know that that I'm trying to like make a living Profiting off of
+numbing people's minds. Which isn't at all what it is it's just I
+don't know. I feel like I keep looking for a reason and reasoning to
+want to sell what I do you know to enjoy what I do to feel like me
+teaching other people it helps them to grow in somewhere shape or
+form. I keep wanting to believe that what I'm doing is important But
+I don't. I feel like I'm constantly trying to justify it in my head
+like what I do and what I wanna do and even if it feels like it's the
+only thing I can do and the only thing I truly give that amount of my
+life and that amount of my time to is just I just don't know how to
+justify it like I don't know how to tell people when there's a war
+going on and when the government is the way it is and you know when I
+could be making money that what I do is I teach people how to hit
+things you know just trying to justify it to find more reasons to
+enjoy it more and like I do like you know going to jazz jams I feel
+inspired or listening and studying music. I feel inspired or
+progressing when I talk to people about music I feel educated about
+it. It's just when I think about trying to sell what I do you know
+like to tell people I teach drum lessons to try to show up for an
+audition to try and record music with people like everywhere I go I
+feel like shame. It used to be that I felt burdened in different ways
+like I think it used to be that the question was you know why me of
+anyone you know why does it? Why do I deserve to succeed or why
+should I be chosen to record something when there's someone else
+available you know why do I deserve this? Why do I deserve that even
+if I don't but now the question isn't like as much about deserving
+it's just it doesn't make sense to me to want to do this and to put
+so much time and energy. I know it when I don't know I guess the
+money is never gonna be good for some reason it's become a focus. I
+guess just because it's an insecurity of mine, especially being
+around people that are wealthy is hard to want to tell people that
+that's what I do you know like it feels like a restriction to my
+career my love life my friendships. It's like a area of insecurity
+that I don't know how to deal with it like I don't know I just I
+guess I wanna get to a point where I see what I'm doing as being
+critical you know like see what I'm doing as is being as like
+important as a doctor or a lawyer or a surgeon or CEO because it
+feels like having that level of authority or respect or something
+like that lends itself to having just a surgical precision about what
+you do and I want that on drums but it's so hard to find value in
+that or to want to share that with someone else and I just I guess I
+feel like I'm just cynical and insecure and I'm frustrated with how
+long it takes and annoyed with the whole process because it feels
+like there's always something you know right now like my struggle is
+I don't know like I guess it's nice that the things I struggle with
+now are different. You know like a year ago it was the question of
+whether or not I deserve this and now it's a question of how do I
+truly believe that this has a value or that what I'm doing for people
+creates value like I guess now it's good that the question isn't if I
+deserve it so much as it is what can I do to make sure that I deserve
+it, but this shame has always been here and I think it just goes
+under different names and I don't know I think in getting into
+selling and persuading and trying to build this as a business. I'm
+having to confront this fact that like I don't know how to justify
+what I do I don't know how to have a good conscious telling people
+that yeah I played drums for a living I make art I'm an artistic
+fucker who's really emotional and it just creates so much insecurity
+right now it's like an elephant in the room that I keep trying to
+avoid and it's just it doesn't go away and there's always this part
+of me. That's like it would be so much easier if I just got like a
+well paying job that I could mindlessly slave away for eight hours a
+day just so I could have the money and the security of telling
+someone that I have a stable job so I could be more of a provider.
+It's just it sucks feeling like I'm such a mooch or a leech or a
+maggot and I think part of it is that I put so much on this thing as
+being the only thing that stands between me and you know financial
+security and a relationship which are deeper areas in my life that I
+still have to deal with, but I don't know I just I hate how this
+feels. I hate feeling like I'm ashamed of what I love to do feeling
+like I have to be closeted about the fact that I'm a musician I don't
+work on airplanes. I don't shoot people in war when I tell people
+what to do. It's for music you know it's not for anything necessary
+for survival. It's just entertaining. It takes your mind off of
+things. It helps you to connect to other people you're really just
+fucking sucks it's like I feel like I need to go through this I just
+I wanna be with the shame and the guilt so I wanna feel like I'm
+doing something important and memorable and it just doesn't feel like
+I am. I feel like I'm being a coward and like I'm fighting this war
+on art and like I'm losing.
 
-I dont really want application right now like I know the letting go procedure I just feel myself trying to numb trying to escape or trying to rationalize it all when I just know the truth and it makes me feel right now like I hate drums not genuinely but I hate the fucking world we live in and how it makes us feel ashamed to pursue art like what I’m doing is unimportant or stupid or something I hate that my whole family fucking perpetuates the delusion of fiscal importance over happiness I hate it all right now I hate feeling ashamed of what I love I hate that I feel like selling lessons is just fucking manipulating people into giving me money for something I see as being so fucking worthless like what I do is worth nothing what I provide has no value and I give nothing to society nothing to people either than disappointment and disatisfaction and I’m just ranting but I’m so fucking angry at how much this has fucking plagued my life how for years now I’ve been dealing with the fucking emotional toll of having parents who made me so fucking scared all the time who didn’t teach me how to function like a normal human being who made me afraid to chase my dreams for never teaching me how to stand up for myself for apologizing for my existence for never teaching me how to even talk to a girl for making me avoid eye contact and now I resent them for it every time I sit with them I’m stressed because I have all this pent up rage and frustration towards them for how they created me how they treated me how they grew me they hurt me I was their fucking kid and my dad abandoned me both of them expected the fucking world of me without ever teaching me how to do a god damn thing I had to learn it all on my own and I’m fucking sick of them thinking they did such a good fucking Kobe because every time I sit at a dinner table with them or anyone else in my fucking family I have to sit on the fucking edge of my seat the entire time because the look they give me that fucking look they act so fucking worried about me as if I don't know what that means as if I don't know that they'd wished I'd taken the easy way the fucking corporate sell out route the path where I mean nothing and am nothing fuck them fuck them fuck them fuck those fucking cunts. 
+I dont really want application right now like I know the letting go
+procedure I just feel myself trying to numb trying to escape or
+trying to rationalize it all when I just know the truth and it makes
+me feel right now like I hate drums not genuinely but I hate the
+fucking world we live in and how it makes us feel ashamed to pursue
+art like what I’m doing is unimportant or stupid or something I hate
+that my whole family fucking perpetuates the delusion of fiscal
+importance over happiness I hate it all right now I hate feeling
+ashamed of what I love I hate that I feel like selling lessons is
+just fucking manipulating people into giving me money for something I
+see as being so fucking worthless like what I do is worth nothing
+what I provide has no value and I give nothing to society nothing to
+people either than disappointment and disatisfaction and I’m just
+ranting but I’m so fucking angry at how much this has fucking plagued
+my life how for years now I’ve been dealing with the fucking
+emotional toll of having parents who made me so fucking scared all
+the time who didn’t teach me how to function like a normal human
+being who made me afraid to chase my dreams for never teaching me how
+to stand up for myself for apologizing for my existence for never
+teaching me how to even talk to a girl for making me avoid eye
+contact and now I resent them for it every time I sit with them I’m
+stressed because I have all this pent up rage and frustration towards
+them for how they created me how they treated me how they grew me
+they hurt me I was their fucking kid and my dad abandoned me both of
+them expected the fucking world of me without ever teaching me how to
+do a god damn thing I had to learn it all on my own and I’m fucking
+sick of them thinking they did such a good fucking Kobe because every
+time I sit at a dinner table with them or anyone else in my fucking
+family I have to sit on the fucking edge of my seat the entire time
+because the look they give me that fucking look they act so fucking
+worried about me as if I don't know what that means as if I don't
+know that they'd wished I'd taken the easy way the fucking corporate
+sell out route the path where I mean nothing and am nothing fuck them
+fuck them fuck them fuck those fucking cunts. 
 
 "There is medicine in what you do. You just don't get the luxury of seeing the MRI after you play." Redefine what it means to "do something important." Start crafting a personal definition of value that has nothing to do with capitalism, war, or hierarchy. What you think makes a life well lived. What you think art is for.
 
@@ -55,7 +180,34 @@ It's okay to have a mindless day today. I'm recovering and grieving and I need i
 Getting students is still my #1 problem right now, so that needs to be the priority. Flirting with how I can build financial models though to save more money, eg the **cost** of loans via future contracts versus saving (ie the premium). Well and now I'm also thinking about all this debt I have to pay off. Wouldn't it make more sense, instead of paying the monthly amount, to get delayed interest credits, pay the monthly minimum payment, save the rest of it in an account with a guaranteed rate, then at the last minute liquidate and cover costs?
 
 I feel like I'm Too exhausted to like actually keep ranting. Idk. I feel better now but I also feel like there was a lot uncovered in this last rant that I don't quite know how to deal with. Like all the stuff with mom and dad. I feel like that's the truth of the disconnect I have with them. But idk. I'm also bored and stuck on this plane so it feels like emotional work is much better than anything else. If nothing else, it's the two parts are blame and resentment towards my parents, of which I feel deep shame for having in the first place (but don't deny existence of), and feeling shame for being a drummer--akin to the shame of someone coming out of the closet or telling the truth after lying for so long? The parents one especially hurts. There's also the layered cynicism which ironically I think comes from
-My mom. I feel like there's some kinda pleasure thing involved in all this too. I mean even off the bat, the joy of putting the blame on them is that I don't have to take responsibility for my own failures in money and relationships. I get a scape goat, an easy pass. I get to stay small and let them do all the work for me. And when shit gets bad, I get to keep blaming them for my failures. Like every time drum stuff falls, I get to point at them and say if you hadn't fucked me up so much then I'd be successful by now. If you hadn't taught me to manipulate, I'd still have Jess. If you'd taught me how to socialize, I'd have had more friends. I could've been content to a simpler life if it wasn't for you. It makes me sick thinking this way. Gut literally feels bad and my eyes are watering. But it's true. Every time I fail I blame the two of you. I look even at my career of being a musician as a middle finger to you guys. This big reward that is evidence of your failures. Something you have to tell everyone about. I hope it brings you as much shame as it brings me. I hope you're as hesitant as I am to talk about it. I like the idea that you have to watch me fall, over and over. That I'm doing all this for your attention, affirmation, just fucking something. I'm doing this because I want you two to take control of me. To slap me awake. To come in and fucking take control. To tell me what to do. To take away my autonomy and my freedom again. I don't want it. All I want is for you to tell me what to do. But all this career is is revenge for all the ways you messed me up. All the trauma you gave me. I hope you find this all out one day so I can stop hiding just how much I fucking resent the both of you. I hate your smugness. I hate how little you care. How hands off you are. All I ever had was guard rails.
+My mom. I feel like there's some kinda pleasure thing involved in all
+this too. I mean even off the bat, the joy of putting the blame on
+them is that I don't have to take responsibility for my own failures
+in money and relationships. I get a scape goat, an easy pass. I get
+to stay small and let them do all the work for me. And when shit gets
+bad, I get to keep blaming them for my failures. Like every time drum
+stuff falls, I get to point at them and say if you hadn't fucked me
+up so much then I'd be successful by now. If you hadn't taught me to
+manipulate, I'd still have Jess. If you'd taught me how to socialize,
+I'd have had more friends. I could've been content to a simpler life
+if it wasn't for you. It makes me sick thinking this way. Gut
+literally feels bad and my eyes are watering. But it's true. Every
+time I fail I blame the two of you. I look even at my career of being
+a musician as a middle finger to you guys. This big reward that is
+evidence of your failures. Something you have to tell everyone about.
+I hope it brings you as much shame as it brings me. I hope you're as
+hesitant as I am to talk about it. I like the idea that you have to
+watch me fall, over and over. That I'm doing all this for your
+attention, affirmation, just fucking something. I'm doing this
+because I want you two to take control of me. To slap me awake. To
+come in and fucking take control. To tell me what to do. To take away
+my autonomy and my freedom again. I don't want it. All I want is for
+you to tell me what to do. But all this career is is revenge for all
+the ways you messed me up. All the trauma you gave me. I hope you
+find this all out one day so I can stop hiding just how much I
+fucking resent the both of you. I hate your smugness. I hate how
+little you care. How hands off you are. All I ever had was guard
+rails.
 
 Writing all that out, the shame around drumming makes sense. Like building a career out of it. It's like...idk. It seems like the shame comes from blaming them. For not taking responsibility for my own growth. Kinda passively doing it and hoping someone else takes the wheel. For seeing all my shortcomings as their failures. For seeing myself as being behind and incompetent and worthless. I blame them, or at least my dad, for all those things, and I think the connection to drums is all rooted in the way dad had tried to keep me silenced in reactive rage. Not really forgiving them? Idk. I'm having a hard time articulating. 
 
@@ -65,7 +217,7 @@ What else do I need to explore to exorcise the drum shame and further exorcise t
 
 Part of it all tied to Jess too, making the decision somewhat to spite her. Embarrassment partially comes from this being impressive to no one but Jess (in my head) so there's a lot tying this down since it seems pointless to throw points into something I'm insecure about and "uncommitted" to, saying that because part of me is looking for someone to take care of me so I can give up. In other words, I'm specifically growing this for her in a lot of ways, even if that's not the primary drive.
 
-What does a rock version of the jazz 1-take concerts look like? That's what I want to do.
+What does a rock version of the jazz 1-take concerts look like? That's what I want to do. #ideas #business
 
 I just want to be proud to be a drummer. To love it. To wake up everyday and feel like what I'm doing helps people, even though right now it very scarcely does.
 
@@ -154,4 +306,14 @@ I think I'm realizing that in part of working with where I am is to stop looking
 Need live activity for the app that shows how long the current practice has been going on for and what the next exercises or even just the current exercise exercises that needs to be focused on  #musicrunna
 
 Tomorrow has to be a big recovery day because I'm definitely still sick and it's just it's making everything else hard to do. I can't think straight I can't focus. I can't work diligently. In spite of that though today was actually a fairly productive day even when it was just kind of a break, I found that instead of like flocking to entertainment or video games right away I actually decided to practice which is really cool. Not just like a casual practice, but I went and did a bunch of diligent stuff like I did swing exercises and then I did like triplet exercises and then I broke down one of the comp examples. I'm trying to learn so I'm actually really proud of myself because it's starting to really get ingrained in my mind That these things are projects that I can work on and they don't all require like high energy input to do them you know like working through the songs I can just pick a section and loop it for like 30 minutes to an hour with some mindless stuff on in the background And really go at it and just get the muscle memory good which is actually really exciting. You know like I'm happy that I'm finally at this point where I'm starting to take a lot of what I do Mohr seriously more professionally and like in preparing these things for the Internet or even for myself, I'm trying to get like a better sense of mastery I think of doing so I'm understanding a lot more of Like how to break things down and how to better work on them like with this piece. There are sections that I obviously can't play and so I'm trying to build up the skill set to play those sections well but it's like once I can play them then it's more about recording what I'm playing listening back to it and breaking down like you know what what are the actual issues that I need to work through, which seems to be working well and I read Joey's book. I wouldn't saw Noah play corn hole. You know I spend a lot of time with family and I still have this defensiveness and resistance with them but at least I was there and I tried and I'm really tired, but I don't wanna go to bed yet and I don't know if I'm just like not listening to my body. I don't think I got enough exercise, which I'm like trying to get over whatever this fucking thing is.
+
+If they can't run the two trip offer, can always settle for 1 trip and knock off $81
+
+And like with the cover group, I can go anywhere with it. Especially for vagabonds, I can do city popups and shit anywhere I go
+
+Bell on exercise completion #musicrunna
+
+Forest-esque do not leave the app feature, where experience gets cancelled if you leave to enforce distraction free diligence. Should punish but not destroy, eg deduct experience but don't earn 0 experience. Maybe make it like the current scale? Like 1-5, every time you leave app it goes down a tier #musicrunna hard part with this is you need a more consistent progress gauge than self-reported
+
+Something I've noticed I think more and more recently is this like defensiveness I have around my parents and my family and Eavan. It's something that gets reflected a lot in my relationships. You know like I've noticed this essentially like this barrier that exists between me and my parents like especially with my mom of like just I guess like cynicism and argumentativeness and just like pain you know like it feels like she's a happy person in general I mean very anxious, but she can be happy and she's enthusiastic excitable in all this stuff but I don't know. I guess it feels fake sometimes It's hard to want to be that way around her like it doesn't always feel like I could be myself around her and I think it's because I care a lot about what she thinks about me and like what my dad thinks about me and so I end up just like I don't know it feels like every conversation I'm trying to convince them of something like like I'm at a war with them and there's like all this defensiveness there and I never feel like I can open up to them and when I do it feels like it has to be like a meltdown like my dad. I've never really done that with but my mom, I've had several meltdowns with it feels like sometimes it just builds up and it builds and it builds and it builds. It's like she's not hostile and I'm not hostile. It's just I don't know there's so much like I think resentment there right now that I'm uncovering and I'm kind of having a hard time with it Like when I see it it's like yeah it's always been there but it's just becoming more obvious and I mean, not just with them specifically like also my extended family too. It feels like they see me like they know me they've seen every side of me and I think it's stepping into new versions of myself. I feel fake around them a lot of times like I'm trying to be something else. I don't know. Like I think some part of it has to do with like the fantasies. I'm having you know some part of me thinks like I'm afraid to have that connection with my mom or my dad or my family because it's like taboo.
 
