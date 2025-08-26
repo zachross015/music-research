@@ -76,3 +76,22 @@ Need to repair. It's the same loop as always, spotting it this time though. Spot
 - Give grace
 Main fear comes from not having worked out enough, practiced enough, meditated enough, while also having no room for a break. Neglects to take into account I was sick on Monday and the better half of Tuesday, and out of routine for the rest of the week. So I'm demotivated from doing all these things because some part of my mind, the one avoiding the present, says "what's the point? I have missed so much already." Don't worry about what we missed. Start over today. We can do this! Sit and feel the pain if you have to. Feel frustrated but don't be frustrated. Don't be frustrated about your resentment towards your parents. You're still working through stuff and haven't had enough time to actually process all the emotions you're dealing with. It's okay Zach, I love you and I will take care of you.
 
+# 08-17-2025
+
+Use the infinite sales technique when meeting new people. Set up a meeting with them, coffee or food, run sales, and if they don't take up on it ask them for other sources
+
+Really need to just brainstorm how I can incorporate all these things in my life
+
+I think what's really going to change my diet is just learning more about it. Like difference between the carbs and foods and when to eat them. Be more intentional about it and not just shove shit down my throat 
+
+It's so much scarier holding eye contact with a cute girl than anyone else. Idk why. Almost like a non-belonging thing? There's this girl sat across from me--I think college aged but honestly could be younger. I like how she's dressed. She looks studious. I'm admiring her, not in a way that like it's sexualizing her, but just that she looks nice. I'm trying to humanize her more. But while I was looking, she almost made eye contact with me, and my heart skipped a beat. And i just wonder, why? I like her shoes a lot. It's like a pink version of those adidas everyone wears now. I wish I could afford better shoes.
+
+Big inefficiency in my life is reasoning with myself why I think I have to do everything alone, or why everything is "better" alone. Like what's the causality in getting coffee with a friend instead of alone? This beautiful red head just talked to me in the parking lot(to tell me a spot wasn't available), why is there so much pressure on asking her to get a coffee with me? On even just asking her name? I looked her in the eye so that's progress, but still.
+
+All I had to eat was sweet potato, vegetable medley, and protein shake. I'm excessively full but hardly ate anything
+
+Tempo input, tempo analysis, all the music theory exercises, rhythm input (rhythm golf? Get as close as you can) tone matching #musicduolingo
+
+What does He do to grow?
+- Never eat alone. Sets up constant appointments or meals with other professionals, always invites or includes others in adventures to either grow closer or create opportunities
+
