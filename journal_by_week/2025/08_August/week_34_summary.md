@@ -1,14 +1,37 @@
 # Week 34: Avoiding the Avoidant
 
-I spent the last week in the depths of avoidance. It began with an Artist's date in which I struggled to get comfortable. I went from Rome to Marrietta in hopes of finding solace. I found none. I sat and journaled and ranted about the pains I'd suffered growing in an avoidant household. 
+I spent the last week in the depths of avoidance. It began with an Artist's
+date in which I struggled to get comfortable. I went from Rome to Marrietta in
+hopes of finding solace. I found none. I sat and journaled and ranted about the
+pains I'd suffered growing in an avoidant household. 
 
-As the week progressed, so did the emergence of the avoidant. There was an air of hopelessness that turned to guilt and shame. I began looking at my father(s) of different trades in a way that brought out darkness. My dad with his alcohol and career problems, Danny with his career growth, and Angelo with his isolation. I blamed myself for all of them and saw my pains in them, although all I wrote about was how I felt depressed when I saw them. 
+As the week progressed, so did the emergence of the avoidant. There was an air
+of hopelessness that turned to guilt and shame. I began looking at my father(s)
+of different trades in a way that brought out darkness. My dad with his alcohol
+and career problems, Danny with his career growth, and Angelo with his
+isolation. I blamed myself for all of them and saw my pains in them, although
+all I wrote about was how I felt depressed when I saw them. 
 
-Like a seed, the plant of the avoidant slowly grew into something bigger. Shame turned to depression, anger, guilt, frustration, desire, and a slew of other emotions. On another outting Saturday, I happened upon a beautiful poem gifted by the Muse laying out exactly what I struggled with. Fear of being seen. Love and connection found in ignorance, rejection, and guilt. Fear of eye contact as a proxy for being seen. How my foot(wear) fetish and size fetish may have developed in tandem as sexualizing the thing I allowed myself to look at on a woman. How these issues also made it impossible to play on a stage since I didn't want to be seen, and made it difficult to lock in with other musicians because I wouldn't listen. 
+Like a seed, the plant of the avoidant slowly grew into something bigger. Shame
+turned to depression, anger, guilt, frustration, desire, and a slew of other
+emotions. On another outting Saturday, I happened upon a beautiful poem gifted
+by the Muse laying out exactly what I struggled with. Fear of being seen. Love
+and connection found in ignorance, rejection, and guilt. Fear of eye contact as
+a proxy for being seen. How my foot(wear) fetish and size fetish may have
+developed in tandem as sexualizing the thing I allowed myself to look at on a
+woman. How these issues also made it impossible to play on a stage since I
+didn't want to be seen, and made it difficult to lock in with other musicians
+because I wouldn't listen. 
 
-Ultimately, it came down to not seeing because I didn't want to be seen, and not listening because I didn't want to be heard.
+Ultimately, it came down to not seeing because I didn't want to be seen, and
+not listening because I didn't want to be heard.
 
-In spite of this struggle, or maybe because of it, I accomplished more than I sought to achieve. I practiced for nearly 14 hours. I completed all my to do lisk tasks, including getting the balls to create and send feedback requests. When it came time to practice with other musicians, the secret of a good pocket was finally revealed to me. I've begun taking steps to deepen connections with everyone. I'm letting go of the avoident.
+In spite of this struggle, or maybe because of it, I accomplished more than I
+sought to achieve. I practiced for nearly 14 hours. I completed all my to do
+lisk tasks, including getting the balls to create and send feedback requests.
+When it came time to practice with other musicians, the secret of a good pocket
+was finally revealed to me. I've begun taking steps to deepen connections with
+everyone. I'm letting go of the avoident.
 
 ## Achievements
 
