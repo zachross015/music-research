@@ -183,3 +183,7 @@ Need to start asking myself if ahead of or behind the beat to recognize it more
 
 Labeling is so fucking powerful
 
+I usually try to get too systematic before I even know the system I need
+
+More people are stopping to talk to me #progress
+
