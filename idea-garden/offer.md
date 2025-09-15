@@ -32,4 +32,26 @@ Have a monthly offer for single free first lesson, expires at end of month
 
 Repeat expose by posting ads in multiple coffee shops
 
+Offer details for today:
+What is the actual base item? Drum lessons?
+Scarcity: 5 people limit (for my own growth)
+Urgency: Monthly deal. Is this for September or October? Should update once a month with new plan? Is that even necessary? Who knows. Try it and figure out.
+Bonuses: Start with any? 
+- Free sticks, free pad. Does having this off the bat make it easier to practice? Part of the bundle?
+- Access to exclusive discord community
+- Post lesson reviews / Personalized practice plan
 
+Fonts are Marcellus and Lato
+
+Cool headlines
+- Backbeat Bootcamp (for beginners)
+- Kickstart your kick drum (if they know what that is)
+- Autumn Rhythm Rush
+- Fall Groove Fundamentals
+- Rhythm Rookie Ramp-up
+- Autumn Rhythm Awakening
+- Autumn Rhythm Reset
+- Autumn Groove Gathering (for a bigger group down the line)
+- Autumn jam journey
+
+when the discord is up and running, use it to poll students for marketing
