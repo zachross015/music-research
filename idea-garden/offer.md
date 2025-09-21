@@ -55,3 +55,34 @@ Cool headlines
 - Autumn jam journey
 
 when the discord is up and running, use it to poll students for marketing
+
+scan the QR to signup
+
+Jam-Ready?
+
+## Flyer info
+
+Fall Groove Fundamentals: Beginner Drummer's Jam-Ready in 90 Days Program
+I open the door for you to play drums the way you’ve always wanted — whether that’s jamming, songwriting, or one day, gigs.
+- 5 person limit
+- Offer expires October 31
+- Offer includes
+  - 12 Weeks of Private Drum Coaching
+  - FREE Drummer Starter Kit for Newcomers (sticks + pad)
+  - one other thing
+- Picture of me, possibly name
+
+## Landing Page Info
+
+Fall Groove Fundamentals: Beginner Drummer's Jam-Ready in 90 Days Program
+I open the door for you to play drums the way you’ve always wanted — whether that’s jamming, songwriting, or one day, gigs.
+- 5 person limit
+- Offer expires October 31
+- Offer includes
+  - 12 Weeks of Private Drum Coaching
+  - FREE Drummer Starter Kit for Newcomers (sticks + pad)
+  - Exclusive access to Discord community
+  - Personalized training plan and reviews
+- Picture of me, possibly name
+
+How am I going to ensure 12 weeks of lessons is hit for people that pay in advance? Don't need to think about that yet.
