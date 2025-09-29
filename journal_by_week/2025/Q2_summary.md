@@ -68,15 +68,16 @@ teaching. A refinement to how I organize my practice sessions as well.
 
 > Here’s what I want to do differently next quarter
 
-The next quarter, my biggest desire is growing my community in a way that
-preserves my authenticity. This is for myself as much as it is the business,
-but finding a way to grow this by being more connected with what I already do
-(ie meditate, exercise, and practice) is something I feel connects me more to
-Him than ever before. Showing up more in the world as myself and opening myself
-up to others, whether online or in person, is what Ifeel like will accomplish
-this. Meditating more, eating better, etc are paramount. And I think the best
-way to accomplish these things is to surround my inner circle with Masters who
-can lead the way.
+The next quarter, my biggest desire is growing my community in a way
+that preserves my authenticity. This is for myself as much as it is
+the business, but finding a way to grow this by being more connected
+with what I already do (ie meditate, exercise, and practice) is
+something I feel connects me more to Him than ever before. Showing up
+more in the world as myself and opening myself up to others, whether
+online or in person, is what Ifeel like will accomplish this.
+Meditating more, eating better, etc are paramount. And I think the
+best way to accomplish these things is to surround my inner circle
+with Masters who can lead the way.
 
 ## Goals for next quarter
 
