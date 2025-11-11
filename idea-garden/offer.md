@@ -86,3 +86,5 @@ I open the door for you to play drums the way you’ve always wanted — whether
 - Picture of me, possibly name
 
 How am I going to ensure 12 weeks of lessons is hit for people that pay in advance? Don't need to think about that yet.
+
+When I was younger, drums were my refuge. They were the place I could express what I couldn’t say, and the only community where I felt safe being myself. That’s what I want to bring to you. Drumming isn’t just about technique — it’s about finding your voice, connecting with others, and feeling truly heard.When I was younger, drums were my refuge. - ChatGPT, is there a better way to say this?
