@@ -1,0 +1,10 @@
+# 11-01-2025
+
+I think all the recent insecurities come from observing the intentions I've had behind how I act. Like the reasons for lessons or shows or even just interacting with people, and it's made me feel this shame. The good thing is, my habits have really carried me. I'm still being social even at the behest of resistance, forcing myself outside the comfort zone. Still being helpful and positive. Still exercising and meditating. But I think moving forward, learning how to approach things with generosity at the forefront and going out of my way to provide better and better experiences exclusively from a standpoint of giving more is going to be the best move.
+
+One thing I'm seeing through all of this is it's REALLY nice being able to trust myself in this way. Like last night, I didn't really want to use my kit. But I deconstructed it, retuned it, and was rewarded for it. James said it was like a dream. That experience is a gift I gave him and I don't acknowledge that enough. It makes me see what the books are saying. It's about showing up and doing the work, no matter how you feel. Even the practice of like teaching has a this level of resistance to it tha I think I just have to accept
+
+Accepting generosity is just as bad. I feel like I owe Amanda and Kevin for showing up
+
+I'm starting to see it kind of everywhere now. Like it feels like generosity is such a weak point and I began to notice all the way is that it stops me from connecting with people. I've also felt really distant. You know like I guess I'm trying to stick with the habits that I've had because I know that they're there for a reason but some part of them still feels really fake right now like even out in social settings. I feel no desire to improve or be more social or make new friends or anything. It's so I'm just gonna keep them to myself and not trying to learn anyone's name or put in much of an effort and especially not going outside my comfort zone with it. I think there's a lot of self trust issues there and confidence issues.
+
