@@ -1,0 +1,142 @@
+# 11-17-2025
+
+Intentions:
+- run 1200
+- Rest
+- Walk Mu 1340
+- Meditate 1440
+- Business -  Structure 1520
+- Practice 1700
+- Relax/Cook/Journal/Read 1900
+
+I feel like I'm being torn, limb from limb right now it's like every time I have to venture out and begin, including other people. It feels like this unattainable dream. Like there's this massive wall of pain that prevents me from being you know the one in charge of the leader or even just someone that makes things happen and I feel like I'm looking at you know life and structure and seeing that like, I need more fault tolerance in the in the life I have in room for you know serendipity, or growth and I can't figure out what to cut out and I can't really decide because it's like I wanna run a marathon so running is a big one and I need mindfulness so meditating is a big one and the benefits of meditation change everything and so like right now it comes down basically to drum practice or business development and it doesn't feel like I have time for either of them yet those are the things that are the long-term priorities and I think just the idea of being on the hook or on the line is terrifying. Like I understand the things I have to do now and like the kind of structure I need to build for myself to succeed. It's like even just one gig a week could possibly cover all the expenses. I have right now the concept of that is crazy, but attainable or even like five students could do the same thing, but what's stopping me is like having to work with other people having to lead other people you know having to be in charge of other people and I think it's like the same thing at Starbucks right now. I don't know why I feel so impossible.
+
+I stood up for myself today! When Zoe came in two hours late, I expressed myself. I think it went pretty bad lol, but I did it! Self trust! Woooooo! I did it from a position of what I felt, no intentions to change her, and afterwards I felt SO much better. So much lighter. Like I could actually talk to people. Self trust! I feel like I get so in my head approaching it that I don't know how to talk. Or even say anything meaningful. What sounds good in my head sounds bad in person.
+
+To make more money means not only being responsible for the music, but also responsible for the people that are responsible for the music. Should create a structure for this today. Can create different setlist packages or event packages
+- Needs to run itself while I'm on tour
+- Full structure should be done within two years and expand as independent franchise units. What does one unit include? 
+
+What if the new reason to be gregarious was because it was generous? If I had so much joy to share that I needed to give it out? If I could value my listening ear as one of my most generous qualities?
+
+My limitations right now are a structural issue. Building the company is building a structure to grow off of
+
+# 11-18-2025
+
+I just need a dump right now.
+
+The central conflict I face in creating a business now lies in a major divide between growing the Technician side and growing the business side. Like...maybe there's a way to interlink the two. But for the longest times I've had such an issue working with other people that I'm now hitting this wall over and over again. Whether it be at STarbucks, teaching lessons, booking gigs, arranging to play with other musicians, or anything else related, it feels like I'm forcing fate by creating my own path. Like instead of growing into a monumental drummer it feels like I'm trying ot force the universe into giving me money for what I'm doing. It overcomplicates things most the time because when I just focus on drumming, the art itself and not the people or how I deliver it, it becomes so simple. But I knoiw that the issue isn't limited to drumming either because I feel like it's this same issue this same thorn I'm running into that makes it hard to pursue things like relationships or communitites or a buddgist temple or a run club or anything like that. It's the same thorn I keep running into over and over and over a fucking again and I'm so sick and tired of it at this point because it's just constantly inhibitng me. Like I realize now that everything preventing the next step in my life is a conjunction of my ability to lead and my ability to provide/create structure. 
+
+The thing is, I don't think those things are huge weaknesses. Like my practice sessions are highly structured. So much so at this point that I can just relax into the session. I have a panel of things to do, things to go through, which makes it simple enough to slip into the flow of y practice. That makes it so easy. So comfortable. And for the most part, the same can be said about my routine on Sundays. The cleaning, cooking, planning all have become so second nature. But I think I also neglect to do them consistently enough to fall into them in the same way. Maybe the same with exercise and meditation? Idk I feel like what normally ends up happening is I have so many things I have to accomplish in the day that I get hooked on the Resistance of all of it. Unable to take one thing at a time so I just end up sitting in it. This doesn't happen if I dont work at STarbucks that day, because instead of baasking in the overwhelm I just jump the fuck in and do it all. Starting the day off with Starbucks is what makes it feel impossible. But that's the thing, the entire reason I'm trying to force fate early or build my own path right now is because I have to get out of there. I have to leave Starbucks. I need an opportunity which could provide the same resources, or even better, with a marginally decreased energy consumption. And I don't want to make the jump at this point because...I really don't have a good reason. My main reason is I want music to be what works. I don't want to have to jump from STarbucks to another shitty job, especially because I'm primarily looking for anything part time where I can still build towards a better future. And I guess that's why it feels like it's such a high pressure situation right now. I desparately want out of Starbucks and I'm trying to make sure that whatever I'm building is going to work and work right noff the bat. I'm ttrying to rush it too so it all feels like such high stakes. I mean granted, I need to just start taking leaps, but I don't trust myself at this point to remain consistent. Or even just to show up, to do my best, to get other people involved, to do whatever it takes to always make the gig happen. And that's the part that melts my heart. Because it feels like If I actually tried, maybe I could. But I won't. I cant't. I won't. Because it's too risky. too scary. I'm not there yet. I'm not good enough yet. and the thought of having to uppend the other parts of my progress, to focus on this area of my life over things like meditation and exercise, for some reason the idea of that feels completely counter to what I stand for. Like I undoubtedly have my biggest weakness as being financial, but it's a muscle I never really care to priotitize. Or work on. It's just the thing that kinda stays shitty while mental health, phyiscal health, and spiritual health improve. Like I think I'm also stuck in this fantasy that plagues both my gig life and my real life. This fantasy tahat if I'm good enough, someone will come for me. If I'm good enough, someone will save me. If I'm good enough, I won't have to make my own opportunities. I won't have to market myself. My playing will be may advertisement. That outside of bettering myself, I won't actually have to do any work. And that's what I keep hoping for at every point along the way: that someone is coming to save me. Someone is going to come in and be the hero that champions my music, that brings all the right people to me, that makes sure I have time to rest and relax. Someone to tell me what to do 24/7 so all I have to do is get better everyday. To grow. Constantly. It plagues my relationships too because I think the same experience I had this morning when trying to communicate my feelings about Zoe missing work. It's the same cotton in my tongue. The same lump in my throat. This feeling that No one else is coming to save me. No woman that I actually want to be with is the one that comes up to me first. No friends that I want are obsessing over me. Making me come with them places. That's not love. That's attachment. The only way to bring into my life the kind of people that create opportunities is to also be the person who creates opportunities. But it requires also being the person who stands up for himself. The person who respects and recognizes others achievements. Who is generous. Who helps people. And sitting alone in my basement isn't going to cut it anymore. Being the best means publicly being the best. It means being able to work with other people on their projects. It means taking a risk and asking them to help you. In return, you help them. It means creating a collaborative environment.
+
+Gratitudes:
+- McKenzie for being reliable
+- Steve for opening up about his own DUI and being non judgemental about mine
+- Mimza for energy
+- Kevin for humor and attitude
+
+Intentions:
+- Meditate during 30
+- Go home at 1
+- Walk Mu
+- Small business work until 1415
+- Exercise with Jennifer
+- Practice til 1700
+- Rest
+
+# 11-19-2025
+
+Doing another dump. 
+
+I'm really conflicted right now with what direction to take everything in. I now see my life as a conflication of priorities because there is no discernable direction or structure that they work towards. No overall objective. There are the objectives that I still want, which are to become an expert in jazz and becoming a marathon runner and i don't even remember the third one where things are compicated though is i now see how important it is to create a stucture that builds towards this like I have this setup for marathon running but trying to build a life path along this route for drumming specifically one that can not only hold my self but can hold others is really critical and i think I'm having a lot of trouble deciding what direction to take this what direction best works with my strengths because when I look at Ash Soan, Benny Greb, JD Beck, Max Roach, Larnell Lewis, Jojo Mayer, and literally any other drummer I love they all have such distinctive life paths that all have drumming but support the entirety of their lives with drumming ohh louis cole is another one and where I'm starting to sit at is this level of where do I want to go with this what is there that i feel like I want to rpovide to change for people and when I was looking into things yesterday now i udnerstand that the reason ive been so slow with this has been due to the mixture of the lack of focus and the lack of commitment both can be attributed just as well to focus like in practice i feel like ive gotten really focused and enjoy the flow of it so much because all the answers were made before hand theres no decisions to be made its not even time to make decisions but on a day to day basis outside of practice i still strubggle with the energy deplection that is ravaged by indecision on what to do next because there is not any structure i have that guarantees any payoff or even a consistent payoff and its because of this i also wont take too many risks because its only on me the acocountability is exclusisvbely on me and when there is no higher purpose of that accountability theres no reason to take on the pain so its like now what do i want to do i feel like the routes i have available to me are content creator and live perfromer and teacher but the thing is i dont have to pick one forever its more important i pick one commit and cut out anything that doesnt work towards it like with goals all of them need to be aligned toward making and maintaining the ctructure i understand that so deeply now which im also kinda grateful for because its starting to make everything ive ever dreamed of feel attainable and in a way im grateful for the painful witcher like transformation that the practice and e myth had to put me through so the other part of it is like...idk i think the way i have to decide has to be based on how i can best reach the people i care about but like idk when i think of benny or JD or larnell or Louis i think alot about the ideal i had previously the idea used to be and the fantasy was that they didn't have to put any of the other work in they didn't have to book gigs or write music or take any of those risks because they just wanted perfection and mastery and its like i wish i could be there i wish i could be so good that i didn't have to worry about all that other stuff but i also feel like thats not at all how it works i feel like they had to netwrok go to shows and talk to people they had to book their own gigs write their own music and ask people to be in it they had to go out and get their students and i feel like up until now ive still been waiting on someone to come and save me that if i posted enough and played well enough it would all come to me which i feel like is unrealistic what it all comes down to is figuring out how do i free up more time in a day so i can move slower but smoother and cut out anything that is unnecessary to that process like if i could jsut practice for 4 hours a day again that would be amazing and do that everyday but that's not going to build the structure i need so what is more effective especially what is going to work with the things i value which are authentic experiences real moments virtuosity but helping people humility intimate experiences its like i need to choose one and commit to one so idk what are the pros and cons
+
+content creator the important part about this one is that i get to create all i have to do is create and i get to focus on exactly the kind of music i want to focus on the product is my exploration of curiosity its my ability to go into complicated subjects explore them and create from them and i feel like this is the one most authentic with the kind of growth i want to have but it's the one that takes the longest and may start out with much less structure or financial benefit but in the long run leads to much more i think unless the internet explodes then its back to square one but idk  like the glamour of this one is that i get to choose what to do where to go with it what new music to learn ya know the experience is much more about learning new things challenging things and if im going to go the route of lessons or performances i feel like i have to stick to prioritizing other things like booking the actual gigs  or talking or networking or advertising its like the other ideas are easy to scale as traditional business but this one is the easiest to scale to more and more people and to entertain with 
+
+booking gigs the important part about this one is that its the one i actually would enjoy the most i feel. like actually getting to play for people and help them it also means writing my own music and leading people which is something that i need to start doing is leading people and sticking up for myself in that regard
+
+i dont understand why i struggle with this so much i guess in part because like content creatino is easy i like doing it and even if no one sees it its enjoyable to the few that do but i guess i feel like by doing anything else im having to sacrifice the parts of drumming i actually wnat to do for the parts i have to do like building a business around the content creation feels like i genuinely get to explore whatever i want to explore but its also kind of an excuse not to have to do the work lie if im going to commit to that i think i also need to be comitting to like blogging everyday and creating other forms of content idk idk what i want to do and im fucking back here again arent i its like just fucking choose just fucking choose just fuckking choose one route noe route one less life for us to live because it all becomes so much simpler if i pick one route it doesnt even have to be forever it just needs to mosve us out within the next year 
+
+the central competing conflict i have betweent hem is i want to choose the route that will continue to evolve me into the best drummer imaginable and i dont want to take any route thats going to either sacrifice practice time or divide focus away from pursuing mastery in other words im trying to take the route which lies on the pareto front of mastery and building a financially successful life from it and im stuck at a point where i have many options and dont knlow which one to choose while also being unable to decide anything so im unwilling to create anything tangible or pursue a long term direction until i know that im not going to be spreading myself too thin because now im sitting at this fork in the road where i recognize that to get the best out of the next year or two i have to pick am i going to teach am i going to lead or am i going to create and which one can i do in a way that allows me to continue learning about and researching new genres new ways of playing and just becoming unstoppable uncommon among uncommon  and then theres a part of my brain thats asking why do i even want that its all so confusin theres too much information circuling my brain and i feel stuck at a stand still unable to do anything until it gets resolved because i dont want to put points in the wrong direction i dont want to make a mistake i dont want to commit and invest time into something thats going to fail but i guess in part im grateful to be at a point where i have to make these kinds of decisions but what ever i do is going to structure the next couple of years and so idk im scared i dont know what to do i still feel so lost how could i feel so good yesterday and now once again im back to thies miserable hell hole where i dont know what to do
+
+i feel like i just have to commit like at this point i dont have a choice. If i want to move on, i have to commit to an idea and cut out all the things not contributing to that idea. And then create a structure which both capitalizes on the idea and gets exactly what i want out of it
+
+i think the difficulty here is that for some reason, i feel like i can only commit to live/lessons if i give up on learning new things. like the whole reason for the content game is to have an excuse to continue learning new material constantly. like i have no justification otherwise. almost like it would be a distraction from the higher priority of booking and playing more, or learning to teach. i think that is the mental battle. that i believe i would have to give up things like transcribing, practicing, learning if i went the route of something that could create stability. like focusing on those things means giving up on mastery. something to meditate on.
+
+I think the main thing I'm feeling right now is just this frustration and like some fear like I'm worried that I don't know. I'm gonna choose the wrong thing make a mistake. I think it's less than that like I'm worried about picking a path where I don't still get to pursue the things, I love about music the whole thing with content creation I think feels safe and comfortable because I'm not even really having to interact with people like I've been doing it for a long enough that I think I know what I'm trying to do and so like it feels like the creative route where I actually get to make things and that would be true if I actually made things I think lessons in live performances sounds so daunting because it's actually having to include other people and test my own reliability and my ability to move as quick as I need to, but you know contact creation hasn't done anything like I haven't made anything from it like I feel like what I want to do is I wanna pick one thing to commit to right now so that I can have more time again because right now it feels like trying to decide between doing content and doing live stuff just just indecisiveness is draining the hell out of me and I think it's cause like the things that keep getting stuck in my mind or that I have to commit to one forever, which just isn't true it's giving me like the squeezy feeling in my gut because I'm just really not sure what to do and I feel like I just need to commit, but I don't want to commit to the wrong one and I feel like the fact that I keep thinking about this is making it harder to commit to something because I just keep saying stuck in the state of fucking misery. Just trying to figure out what to do with my life and it's like I look at the people that I'm inspired by and they have it all already they could do any of these things you know they don't have to worry about the drumming part they get to worry about it 
+
+My mind is just so divided on the issue with so many emotions coming up that I need to just allow them to run through
+
+# 11-20-2025
+
+Title: Productivity for Humans
+Subtitle: 
+
+I grew up in the exponential surge of technology starting in the early 2000's, raised by a combination of ADHD and OCD. This combination of factors left me obsessively inattentive, constantly craving attention and approval (include something earlier about being a first born), and having to learn new rules every year for how the world work due to the increasingly obsolescent technology. The way I'd been living before is a mystery to me, but I can only explain it as doing whatever I could to avoid pain. 
+I started writing this book in 2025 at the age of 28. Or maybe really 10 years ago when I picked up the book "How to Read a Book." Everything outlined in this book is knowledge I've picked up over the course of at least 50 different self-help books taht have aided me in the path to where I'm on now. This the same path that took me from being a 25 year old Ph.D. Computer Science student working on the cutting edge of Ai, thinking about marriage, and about to buy a house to a 26 year old $10,000 in debt, heartbroken, in my parents basement, alcoholic, and starting a career in art. This kidn of transition is the perfect plot for any comedy, but it was a gut wrenching time in my life and i dont want to include that in the book but the transition if we can make it funnier would be great. The purpose of this book is to lay out the overarching themes of productivity I've come across from years of self-growth. In the crash that occured between 25-26, I found a new way of living. There was some simplicity, some beauty, in the grief that followed burning everything to the ground. Like a slash and burn policy put into effect, new seeds were set to grow. It was an awakening that shed light on the beauties of life. A morning with nothing to do, no technology. Sitting with my dog. Tea instead of coffee. Smelling the roses. And so from here, I set out to work ON my life instead of IN my life. 
+
+What follows is a dump of all the most important concepts I've learn about growth. This is meant to be a reference more than anything. I'm hoping that by giving you these tactics, strategies, and tips that you too can slow down and embrace more of life.
+
+- Synoptic Knowledge (How to Read a Book)
+- Generosity and Gratitude (The Practice, E Myth, Never Eat Alone)
+  - Acknowledgement
+- What is Happiness? (Happiness Hypothesis)
+- The ONE thing (The ONE Thing)
+- Cutting Out Instead of Adding In
+- Finding Purpose (Man's Search for Meaning)
+  - The Myth of Purpose
+  - Make a Decision
+- Habits (Atomic Habits)
+- The Truth about Seasonal Affective Disorder (Seasonal Growth)
+- Structure and Planning
+  - Observe yourself
+- Working on your Trauma
+  - Shadow Theory
+
+Book < 50 Pages
+
+# 11-21-2025
+
+Music for chamber of commerce?
+
+Feeling sick today. Explains a lot of the lack of focus and panic. But I think I've also been using journaling to vent instead of discover. Lot of frustration around that right now.
+
+# 11-22-2025
+
+Wha do I need to complete this basic setup?
+- Kick mic holder
+- aux to quarter
+- Interface
+- Quarter inch
+- Room treatment
+- Camera light
+
+The ideal I'm working towards is having a long term storage solution for practice recording. A way to sit down, hit record, and be able to go back and analyze recordings. Optionally be able to also pipe the output to a video feed for video content. Goal is to also do this with minimal setup, getting rid of all the big black lighting and camera holders
+
+New minima setup:
+- Mics into mixer for practice (would help improving audio for things like reels, especially if we can record)
+- Triggers into the module I have
+Only equipment I don't have is the triggers. But getting a basic setup like this would at least let me prototype music much more easily
+
+Let's get to the solo in this song first then go try it
+
+I feel hopeful this morning. I think I keep focusing on the pain rather than the way forward, putting so much pressure on how was the past was better. It feels like the path forward now is to stop putting so much into what life used to look like and instead what it could look like. 
+
+I think trying to decide between gigging and lessons and original work is not what I should be doing. Instead, I feel like should be focusing on the one thing that's preventing me from doing all three. The leadership aspect. The working with other people aspect. Building a company that can include all the ways I want to grow:
+- Leading my own group
+- Writing music with anyone/frequent collab
+- Teaching
+- Auditioning 
+- Networking
+- Playing live frequently
+- Teaching clinics
+- Building teaching and learning tools
+- Session work
+- building a drum studio
+- Owning and possibly renting out all the live sound equipment 
+- Learning how to properly market and advertise all these things
+And focusing on building one aspect at a time. All under this umbrella of giving the gift of music to more people.
+
+And the way I can get back to spirituality is recognize that God is the one already giving me these ideas. To stop taking ownership of them and feel grateful that the universe has guided me this way.
+
+Like the idea is to build it from the beginning in this way, to include all the things I love about music. But I feel like I should be doing it instead from a way of how is each thing helping the people I serve.
+

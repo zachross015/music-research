@@ -1,6 +1,6 @@
 > The entirety of this should take at most 60 minutes a week.
 
-# Week [[week_number]]
+# Week 47
 
 > Use this space to write a summary of the week: one sentence for each day. Reviewing both helps create a better path forward AND renew confidence and inspiration. This is not meant to capture every detail, just the summary. Keep it brief, but impactful. Pull direct quotes where possible. If it's too incohesive, use ChatGPT to pull it together (or try on your own if you see the story).
 
