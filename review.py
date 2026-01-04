@@ -109,10 +109,9 @@ def setup_review(period):
     journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(year))
     
     if period == 'week':
-        week_date = datetime.fromisocalendar(year, val, 1)
-        month = week_date.month
-        month_str = get_month_name_for(year, month)
-        target_file = os.path.join(journal_dir, month_str, f"week_{val}_summary.md")
+        current_month_str, _ = get_month_name()
+        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(year))
+        target_file = os.path.join(journal_dir, current_month_str, f"week_{val}_summary.md")
         replacement = str(val)
     elif period == 'month':
         month_num = int(val.split('_')[0])

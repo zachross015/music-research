@@ -105,19 +105,18 @@ def organize_entries(entries):
     entries_by_week = defaultdict(list)
     for dt, body in entries:
         year, week, _ = dt.isocalendar()
-        month = dt.strftime('%m_%B')
         date_str = dt.strftime('%m-%d-%Y')
         header = f"# {date_str}"
-        entries_by_week[(year, month, week)].append((header, body))
+        entries_by_week[(year, week)].append((header, body))
     return entries_by_week
 
 def process_entries(entries):
     entries_by_week = organize_entries(entries)
 
-    for (year, month, week), day_entries in entries_by_week.items():
-        month_dir = os.path.join(OUTPUT_DIR, str(year), month)
-        ensure_dir(month_dir)
-        week_file = os.path.join(month_dir, f"week_{week:02d}.md")
+    for (year, week), day_entries in entries_by_week.items():
+        year_dir = os.path.join(OUTPUT_DIR, str(year))
+        ensure_dir(year_dir)
+        week_file = os.path.join(year_dir, f"week_{week:02d}.md")
 
         existing = load_week_file(week_file)
 
