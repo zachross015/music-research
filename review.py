@@ -1,6 +1,6 @@
 import os
 import shutil
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Number of days at the start of a period to consider as buffer for previous period. Must be between 0 and 6.
 BUFFER_DAYS = 4
@@ -18,12 +18,16 @@ def get_week_number():
     now = datetime.now()
     iso = now.isocalendar()
     year = now.year
-    if iso[2] <= BUFFER_DAYS:
+    if now.day <= BUFFER_DAYS:
         print("Buffer period triggered: using previous week.")
         # Previous week
         if iso[1] == 1:
             year -= 1
-            last_week = datetime(year, 12, 31).isocalendar()[1]
+            next_year_week = datetime(year, 12, 31).isocalendar()[0]
+            if next_year_week == year + 1:
+                last_week = 52
+            else:
+                last_week = 53
             return last_week, year
         else:
             return iso[1] - 1, year
@@ -105,26 +109,47 @@ def setup_review(period):
     
     config = period_config[period]
     template_file = os.path.join(TEMPLATE_DIR, config['template'])
-    val, year = config['get_func']()
-    journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(year))
+    
+    now = datetime.now()
+    
+    if period == 'tri':
+        val, folder_year = config['get_func']()
+        start_date = datetime(folder_year, 1, 1)
+    else:
+        val, year = config['get_func']()
+        if period == 'week':
+            start_date = now - timedelta(days=now.weekday())
+        elif period == 'month':
+            month_num = int(val.split('_')[0])
+            start_date = datetime(year, month_num, 1)
+        elif period == 'quarter':
+            start_month = (val - 1) * 3 + 1
+            start_date = datetime(year, start_month, 1)
+        elif period == 'year':
+            start_date = datetime(val, 1, 1)
     
     if period == 'week':
-        current_month_str, _ = get_month_name()
-        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(year))
-        target_file = os.path.join(journal_dir, current_month_str, f"week_{val}_summary.md")
+        quarter = (start_date.month - 1) // 3 + 1
+        month_str = f"{start_date.month:02d}_{start_date.strftime('%B')}"
+        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(start_date.year), f"Q{quarter}", month_str)
+        target_file = os.path.join(journal_dir, f"week_{val}_summary.md")
         replacement = str(val)
     elif period == 'month':
-        month_num = int(val.split('_')[0])
-        month_only = datetime(year, month_num, 1).strftime('%B')
+        quarter = (start_date.month - 1) // 3 + 1
+        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(start_date.year), f"Q{quarter}", val)
         target_file = os.path.join(journal_dir, f"{val}_summary.md")
+        month_only = datetime(year, month_num, 1).strftime('%B')
         replacement = month_only
     elif period == 'quarter':
+        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(start_date.year), f"Q{val}")
         target_file = os.path.join(journal_dir, f"Q{val}_summary.md")
         replacement = f"Q{val}"
     elif period == 'year':
+        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(val))
         target_file = os.path.join(journal_dir, f"{val}_summary.md")
         replacement = str(val)
     elif period == 'tri':
+        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(folder_year))
         target_file = os.path.join(journal_dir, f"{val}-{val + 2}_summary.md")
         replacement = f"{val}-{val + 2}"
     
