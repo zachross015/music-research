@@ -32,9 +32,10 @@ def setup_review(period):
     elif period == 'month':
         template_file = os.path.join(TEMPLATE_DIR, 'monthly.md')
         month_name = get_month_name()
+        month_only = datetime.now().strftime('%B')
         target_file = os.path.join(JOURNAL_DIR, f"{month_name}_summary.md")
         placeholder = '[[month_name]]'
-        replacement = month_name
+        replacement = month_only
     elif period == 'quarter':
         template_file = os.path.join(TEMPLATE_DIR, 'quarterly.md')
         quarter = get_quarter()
