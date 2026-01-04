@@ -1,4 +1,4 @@
-# Week [[week_number]]
+# Week 1
 
 ---
 
