@@ -36,6 +36,15 @@ I didn't face too much friction this week. It was relatively smooth sailing tbh
 
 ### What stopped you from achieving last week's goals?
 
+There were none last week. Mainly an EOY review.
+
 ### Goals
 
 <!-- List out AT MOST 3 goals for the upcoming week. -->
+
+Haven't finished my reviews yet, but need to move on so I don't fall behind on chores.
+
+1. Finish quarter, month plans
+2. Declutter room
+3. Post 1 flyer
+	- Make price known on website? Minimal market reserach needed
