@@ -43,3 +43,6 @@ Possibly the greatest change of all is the idea that if you believe it to be tru
 ### Goals
 
 <!-- List out AT MOST 3 goals for the upcoming month. -->
+1. Help 4 students
+2. Explore curiosity around Bembe
+3. Go to (3) run club, (2) jazz jam, (1) volunteer event, and (1) live gig
