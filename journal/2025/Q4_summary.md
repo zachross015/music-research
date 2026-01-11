@@ -6,7 +6,7 @@
 
 <!-- Summarize the quarter in 1500 characters or less. -->
 
-This quarter could most accurately be symbolized by the pheonix. I started out in turmoil after having familiarized myself with the teachings of E Myth and The Practice. This sent me into a mental tailspin as I began recognizing the disparage between who I was and who I had to become. Many lessons were learned, primarily those around my continued selfish approach to music and the impact people around me had on me. The recurring themes throughout these periods painted a beautiful narrative arc, starting from a place where I could see how flimsy my structures were, how they hardly housed me and couldn't possibly withold a greater income or more people. Starting once again from the bottom, I began re-building my life over again, this time with generosity in mind from the beginning and with the intention to house others. In doing so, the clutter in my life became more and more unnatractive to the person I was becoming. Among the revelations in this period were my addictions to social media, video games, and masturbation, as well as an awareness of how much I'd lacked disciplined. Through the months, I realigned with more generous and wholesome values, and applied a much greater structure to the way I was living. In doing so (with the aid of Discover Strength) I learned greater discipline, greater perserverance. This led me to starting each day with stronger intentions which resulted in completing nearly all I'd set out to do. This became so addicting that I quit all my addictions in favor of this more rewarding lifestyle. I'm leaving this quarter feeling stressed, but alive and free.
+This quarter could most accurately be symbolized by the pheonix. I started out in turmoil after having familiarized myself with the teachings of E Myth and The Practice. This sent me into a mental tailspin as I began recognizing the disparage between who I was and who I had to become. Many lessons were learned, primarily those around my continued selfish approach to music and the impact people around me had on me. The recurring themes throughout these periods painted a beautiful narrative arc, starting from a place where I could see how flimsy my structures were, how they hardly housed me and couldn't possibly withold a greater income or more people. And they broke. Starting once again from the bottom, I began re-building my life over again, this time with generosity in mind from the beginning and with the intention to house others. In doing so, the clutter in my life became more and more unnatractive to the person I was becoming. Among the revelations in this period were my addictions to social media, video games, and masturbation, as well as an awareness of how much I'd lacked disciplined. Through the months, I realigned with more generous and wholesome values, and applied a much greater structure to the way I was living. In doing so (with the aid of Discover Strength) I learned greater discipline, greater perserverance. This led me to starting each day with stronger intentions which resulted in completing nearly all I'd set out to do. This became so addicting that I quit all my addictions in favor of this more rewarding lifestyle. I'm leaving this quarter feeling stressed, but alive and free.
 
 ### 3 Shifts I Witnessed in Myself
 
@@ -33,6 +33,14 @@ This quarter could most accurately be symbolized by the pheonix. I started out i
 
 <!-- Write out the elements of friction which have persisted throughout all three months of the quarter. -->
 
+- A lot of open loops on my radar. Everytime I close these loops, life gets better (even at a financial detriment). But I'm not in the habit yet of finishing what I've started or completing what I've set out to do. 
+  - Bed is in terrible shape, causing many neck pains
+  - Disorganized spaces
+  - Car troubles
+- A new light has been shed on how disorganized my spaces are. I think once again I've fallen into the trap into waiting until the next step to take care of where I'm at, but I look aroundt he rooms that I occupy and see loads of crap sprawled everywhere
+   - Likely a reflection of tolerance for mental clutter
+- Sense of groove is terrible, constantly leaving it
+
 ---
 
 ## Review
@@ -42,7 +50,29 @@ This quarter could most accurately be symbolized by the pheonix. I started out i
 <!-- Write out a diagnosis of the root problem that occurred between recurring frictions and -->
 <!-- work to find the single, simplest action you can take (consistently) towards removing that issue. -->
 
+Skipping this because its the first of the year.
+
 ### Quarterly Ritual or Recommitment with Him
+
+Skipping this because its the first of the year.
 
 ### Goals for next quarter
 
+1. Get to 12 students/week
+	- Build automated booking, receipt, and marketing emails
+2. 3 months of New Zach
+	- No dopamine dependencies
+	- Weekly group attendance
+	- Do it, no matter what it takes
+3. Bembe and Rumba Guaguanco fluency
+
+What this looks like: 
+It's April 1, 2026. Business has stabled at 12 sudents/week. There's still alot of driving around, but its better now than it ever was at Starbucks. It feels so rewarding watching these students evolve. I feel so proud of them! My first student, Edward, has become especially proficient. Him and I have gotten to a point where we can jam every session! He still trips over himself but I'm proud. It feels so much more rewarding seeing these guys grow than it ever did with Highway 49. Now that I don't have Starbucks to worry about anymore, I've gotten a great weekly automation set up! It takes payment, gets them to set up their schedule, and sends out marketing materials. 
+
+I've been documenting alot of the different roles here as well, the stuff I need for the place to run on its own. Also a bit of a currculum for the other drum teachers. I'm hoping soon to get a full studio, mainly so I can start hoping group events like drum circles. Maybe I'll even have something in time for summer vacation!
+
+Afro Cuban is finally clicking. Getting a point where I can finally begin to understand the historical context of it. I can improvise pretty well on a 6/8 clave now, and understand more of twhat people talk about in the context of circular time. I've found a much deeper appreciation for all of music and listen to it daily.
+
+My social circles have rapidly reached new heights thanks to the work I've put in at jam sessions, rub clubs, jam sessions, and charity events. Theres this onslaught of people I've been growing closer to who inspire me to reach new heights. I've found some great musicians to play with, and even have began coordinating my own jam session. Recently, I also was asked to come up to Nashville for a gig! And the charity events have been so rewarding. 
+
+My blog has been getting some frequent visitors, which has driven more people to my website. It's getting to a point where I need to revamp my offer and start thinking about bigger camps!
