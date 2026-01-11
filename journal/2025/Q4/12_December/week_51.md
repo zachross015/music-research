@@ -47,3 +47,8 @@ Intentions
 - Intentions to change social situations 
 1630 workout
 
+# 12-21-2025
+
+What are we doing instead of social media and video games?
+- Finding more ways to connect with people
+

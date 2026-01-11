@@ -2,13 +2,16 @@ import os
 import csv
 import re
 import shutil
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import defaultdict
+
+# Number of days at the start of a period to consider as buffer for previous period. Must be between 0 and 6.
+BUFFER_DAYS = 4
 
 INPUT_DIR = '.'
 SCRATCHPAD = 'scratchpad.md'
 ARCHIVE_DIR = 'archive'
-OUTPUT_DIR = 'journal_by_week'
+OUTPUT_DIR = 'journal'
 DRAFTS_PREFIX = 'DraftsExport'
 
 def ensure_dir(path):
@@ -102,21 +105,36 @@ def write_week_file(path, merged_entries):
             f.write(f"{header}\n\n{body.strip()}\n\n")
 
 def organize_entries(entries):
-    entries_by_week = defaultdict(list)
+    entries_by_start_date = defaultdict(list)
     for dt, body in entries:
-        year, week, _ = dt.isocalendar()
+        iso = dt.isocalendar()
+        year = dt.year
+        week = iso[1]
+        if iso[2] <= BUFFER_DAYS:
+            print("Buffer period triggered: using previous week.")
+            if week == 1:
+                year -= 1
+                # Last week of previous year
+                last_week = datetime(year, 12, 28).isocalendar()[1]
+                week = last_week
+            else:
+                week -= 1
+        start_date = datetime.fromisocalendar(year, week, 1)
         date_str = dt.strftime('%m-%d-%Y')
         header = f"# {date_str}"
-        entries_by_week[(year, week)].append((header, body))
-    return entries_by_week
+        entries_by_start_date[start_date].append((header, body))
+    return entries_by_start_date
 
 def process_entries(entries):
-    entries_by_week = organize_entries(entries)
+    entries_by_start_date = organize_entries(entries)
 
-    for (year, week), day_entries in entries_by_week.items():
-        year_dir = os.path.join(OUTPUT_DIR, str(year))
+    for start_date, day_entries in entries_by_start_date.items():
+        quarter = (start_date.month - 1) // 3 + 1
+        month_str = f"{start_date.month:02d}_{start_date.strftime('%B')}"
+        year_dir = os.path.join(OUTPUT_DIR, str(start_date.year), f"Q{quarter}", month_str)
         ensure_dir(year_dir)
-        week_file = os.path.join(year_dir, f"week_{week:02d}.md")
+        week_num = start_date.isocalendar()[1]
+        week_file = os.path.join(year_dir, f"week_{week_num:02d}.md")
 
         existing = load_week_file(week_file)
 

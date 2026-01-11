@@ -7,7 +7,7 @@ BUFFER_DAYS = 4
 
 # Define paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TEMPLATE_DIR = os.path.join(BASE_DIR, 'journal_by_week', 'templates')
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'journal', 'templates')
 
 def get_month_name_for(year, month):
     """Get the month name string for a given year and month."""
@@ -131,25 +131,25 @@ def setup_review(period):
     if period == 'week':
         quarter = (start_date.month - 1) // 3 + 1
         month_str = f"{start_date.month:02d}_{start_date.strftime('%B')}"
-        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(start_date.year), f"Q{quarter}", month_str)
+        journal_dir = os.path.join(BASE_DIR, 'journal', str(start_date.year), f"Q{quarter}", month_str)
         target_file = os.path.join(journal_dir, f"week_{val}_summary.md")
         replacement = str(val)
     elif period == 'month':
         quarter = (start_date.month - 1) // 3 + 1
-        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(start_date.year), f"Q{quarter}", val)
+        journal_dir = os.path.join(BASE_DIR, 'journal', str(start_date.year), f"Q{quarter}", val)
         target_file = os.path.join(journal_dir, f"{val}_summary.md")
         month_only = datetime(year, month_num, 1).strftime('%B')
         replacement = month_only
     elif period == 'quarter':
-        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(start_date.year), f"Q{val}")
+        journal_dir = os.path.join(BASE_DIR, 'journal', str(start_date.year), f"Q{val}")
         target_file = os.path.join(journal_dir, f"Q{val}_summary.md")
         replacement = f"Q{val}"
     elif period == 'year':
-        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(val))
+        journal_dir = os.path.join(BASE_DIR, 'journal', str(val))
         target_file = os.path.join(journal_dir, f"{val}_summary.md")
         replacement = str(val)
     elif period == 'tri':
-        journal_dir = os.path.join(BASE_DIR, 'journal_by_week', str(folder_year))
+        journal_dir = os.path.join(BASE_DIR, 'journal', str(folder_year))
         target_file = os.path.join(journal_dir, f"{val}-{val + 2}_summary.md")
         replacement = f"{val}-{val + 2}"
     
