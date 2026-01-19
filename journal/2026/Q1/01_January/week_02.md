@@ -200,6 +200,7 @@ Another thing, I think I'm starting to hook onto. It's the concept that... When 
 
 Also, one of the point I wanted to make is with the masturbation stuff. Good morning. Morning. When you start to remove the reward for the stimulus, I think that's what happens. where the flat barn comes from. Because I've noticed it today, but there's a lot of people. Especially runners, but... I'll be attracted too. But now, the reward for seeing more of them. Following them around has declined. I found myself more willing to let go. and see other opportunities. More plausible ones.
 
+<<<<<<< HEAD
 This week was one of increased awareness. I feel I've learned more about community, connection, and rest in this week than I have in the past couple years. It started out as a difficult week, still having not finished my quarterly and monthly planning, and having a hard time getting to it. Among with withdrawal symptoms I was experiencing subtle heart palpitations and much insomnia, causing me to overeat often and neglect deadlines. In going through this, I learned these to be burn out symptoms taxing the nervous system. I simultaneously began feeling a greater pull towards connection and community, and how id distanced myself from these in the past. In the wake of quitting my addictions, i began seeing the crutch they'd represented up until now. Each had severed me from those around me, and investing heavily in them since middle school engendered a fear of people. Ending this week watching cats at my grandmas, feeling like a proper adult for cooking for myself, maintaining cleanliness of the house, and getting urges to invite others over. I've learned much about getting in groove (or moreso how much I live outside of it) and how if I want to improve more/faster, I need to risk getting in with the crowd of people who are much farther along the path I'm traveling. I've begun realizing confidence is a symptom of repeated social interaction with strangers.
 
 Achievements
@@ -247,3 +248,5 @@ Give each ~200 words
 
 I have to CHOOSE to believe, whole heartedly, that music is the most important thing I could ever study. That is what it takes.
 
+=======
+>>>>>>> 054aa3709e760ab2a7faadfeba27ea5d9c6e4721
