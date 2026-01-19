@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from collections import defaultdict
 
 # Number of days at the start of a period to consider as buffer for previous period. Must be between 0 and 6.
-BUFFER_DAYS = 4
+BUFFER_DAYS = 0
 
 INPUT_DIR = '.'
 SCRATCHPAD = 'scratchpad.md'

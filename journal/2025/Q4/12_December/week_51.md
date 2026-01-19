@@ -52,3 +52,6 @@ Intentions
 What are we doing instead of social media and video games?
 - Finding more ways to connect with people
 
+What are we doing instead of social media and video games?
+- Finding more ways to connect with people
+
