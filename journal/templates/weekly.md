@@ -20,6 +20,8 @@
 
 ### What stopped you from achieving last week's goals?
 
+### What does life look like at the end of the week?
+
 ### Goals
 
 <!-- List out AT MOST 3 goals for the upcoming week. -->

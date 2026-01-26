@@ -1,0 +1,12 @@
+# 01-26-2026
+
+The weight of groove has started sinking in. It doesn't feel any different from meditation in that the goal of it is to stay with the object of focus and letting go of distractions as they come and go. In the context of groove, it seems it's moreso about staying consistent with time, relaxing into it, and not explicitly reacting to others playing without intention. I think when coming from roc and metal, it's been hard to understand this concept since most the parts were so syncopated. That and the fact tha I've had such a technique focus has made me aware of how little I know how to use my chops effectively. I think I relied too much on them as a means of "storytelling," really trying to impress rather than trying to groove and enjoy. But this whole approach has made me see just how much more important it is to stick to the same part regardless of the changes going on around you, at least until fills and other supportive playing can be done intentionally 
+
+From now on, rubbing dick against bed counts as gooning.
+
+With my revelation at the gig last week, I feel like part of the changes coming in (or at least that I need to make) are a deeper appreciation and experience of live experiences. Not just music, but being able to bypass the connection issues is going to make it so much easier to experience this, and I feel like the better I can feel this stuff live and around others the easier it's going to be to channel that into everything else I make. But this whole color pallet feels like a great first look into that, into being able to convey a feeling or experience to someone else
+
+The thought continues to deepen in me, that I need to learn how to feel more and suppress less. Not only feel more, but experience more, and learn how to articulate those things in any medium. That's what listening really means, and the better I get at this, the better all experiences will be. ESPECIALLY performing
+
+Watching Pluribus, there's times I get lost in it. It makes me think, being a part of something and feeling something is about surrendering to it. Awareness sure, but completely surrendering to it. I think I've always been so hyper aware of myself and my actions and my perceptions, monitoring my surroundings and others reactions, that I haven't allowed myself to just surrender to it. Likely applies to sleep just as much as community. Wonder where that stems from
+
