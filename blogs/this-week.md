@@ -1,48 +1,31 @@
 
 ---
 
-When you have a relationship with yourself, you have split yourself into two: “I” and “myself,” subject and object. That mind-created duality is the root cause of all unnecessary complexity, of all problems and conflict in your life.
-
-# Article
-
-
-## In Groove
-
-The big thing changing is my approach to fills. If you're playing like a Bebe bell pattern, you're not supposed to fill at all. You just play the same pattern over and over maybe you'll change it up a little bit, but pretty much the whole ceremony is you playing that one over and over. You're the anchor for everyone else. 
-
-So now when I've gone back to try and jam with other songs, I find myself more often than not staying away from using any fills and even playing less notes because it feels intrusive. Not only that, but I also feel like there's a much greater emphasis on listening to other people when you're playing with such repetition. You get to a point where you don't have to think about it anymore, so it's more important to kind of lose yourself in the group instead and develop a better ear for the movement around you. It makes listening to other people's parts more enjoyable.
-
-I think the thing I struggled with it still kind of struggled with going into this is the idea that coming from like a virtual stick background or even like a one where I played solar work it feels weird, giving up the agency of fills and solos because there's almost this sphere that you lose yourself in the process or you become obsolete or unimaginative, but I think the farther and I get the more I realize that that's completely not the case like if anything you become more stable and more coordinated and more reliable in the role you're playing and you begin to hear how your accents and your films can complement people or transition things rather than just acting as a way of fiddling around
-
-
-
-How do I get more in groove?
-- Be the bell player first. 
-- Don't try. Just do.
-- Listen frequently to Music
-- Don't abandon the baseline. Set it, play it enough that you can completely let go of it, then free your mind for playing on top of it.
-- Music hasn't changed all that much from back then. Get into the flow of the music and let changes come exclusively from intention instead of fear or pain
-- You have to get to a point where you're not anxious about over or underplaying. Where you're listening to exactly what the audience is listening to. Where you're not reacting to every single thing and are instead contributing exactly your part to the greater whole with intention. Fills or accents then just become a way to add color not a necessity to bring attention to yourself. But it all starts with playing the time keeper until that is second nature, then you can free your mind to receive information.
-- not being afraid of playing a small, but vital, role
-
-
-Being in groove means not anticipating the beat. It means going autopilot, but not unaware. Using energy not to monitor every motion, but only to adjust when you've fallen out of groove
-Play the rests with as much force as the notes. True in music and in life, know when to take a break
-
 getting better at learning how this bell pattern incorporates to the rhythms of the world and also to the consistency of like the ceremonies and how they're developed to help me in my own life to understand how to build a more consistent structure that I could rely on
-
 
 ## Nature
 
-Music by Ted Gioia is game changing. The concept of music everywhere, hearing the songs of the trees or the blades of grass, has opened my eyes to the beauties of the wilderness even more. Even moreso the concept of sex and war (creation and destruction) being the primary topics of music. Makes me feel like I'm writing about the wrong stuff and brings up resistance to writing music because I can't show it to my parents. Or at least feel weird showing it to them
 
-Starting to notice the sounds of nature, the music played on any route. Something to take with me on any adventure
-
-Thinking about what I want to write about this week while sitting in this coffee shop. I've been reading *music: A Subversive History* by Ted Gioia and...WOW. I'm reading this as part of an everlasting pursuit to deepen my relationship with and love for music and WOW. In connection with research on the Bembe, one of the most prominent ideas is tha of an *audience*. In the book, Ted talks about how the concept of an audience, one that separates performer from those observing, is a recent and detached evolution of music. In folkloric music, there was no distance between the two. Gonna brain dump. There was a shamanistic approach and view where music itself was deemed altering. It was a means of combating more dangerous and deadly prey by singing out in unison the song of your people, and after the slaughter it became a way of preserving or celebrating the life of the animal that had given itself to them. In the rituals it was a way of creating unity, synchronizing with the tribe, and honoring the Gods above and I find that so magical and fascinating especially in comparison to how it's approached nowadays where we either idolize an artist on our phones or go to a concert and watch them perform on a stage people going around saying "I don't know how to play music" or "im not a musician" without realizing that to be human is to be a musician in the tribal times music was how we survived how we got on the same page it was synchronization it was how we fought prey and scared of predators by joining our voice in unity and it's been reduced to profit by people who don't respect the culture of where it's come from what it's capable of but I see more and more with Bembe when I play it and collect others to play it with me why it's so powerful why the groove is necessary because in playing the rhythm over and over again even by yourself you sink into it it feels heavier and you are able to lose yourself in it you get to a point where you don't have to think about it you relax and you play and you only gain awareness again when you slip out when you fall away having played this for over an hour a day even passively on a camping trip I've been on so I've been on this camping trip with my friends and instead of neglecting my studies my life has grown in a way where I feel inspired to continue growing so frequently as we adventured through different forests beaches swamps and other terrains I found myself asking "what is the song of this area?" The book I've been talking about has completely expanded my definition of music and song beyond the 4-piece ensembles and entertainment-exclusive perception I've had for it up until now. I walked through each ecosystem trying to identify the plant life and animal like by the sounds they made and although I'd always been into mediation, I'd never before experienced a deepening of appreciation for the world we'd lived in quite like this. In Continuation of the Lesson I learned about the unity of the frogs croaking to ward off prey but from the concepts in Ted's book it also seems like the unity of songs from human could be used as powerfully as a weapon, scaring off lions and other predators and stealing away their kills. But everywhere I went, I found myself sinking into the Bembe bell rhythm. I'd play on the railings of boardwalks, the console of the car we'd rode around in, and finally by the fireside where me and one of my friends played the bell pattern and shekere rhythm with each other. Even now I feel the pulse moving through my mind trying to find a place to get out. It's through doing this and relaxing into this that I feel like I finally understand being in groove. Not only with the music, but in the sense of being in unity. Listening. Being in groove is a respectful thing it's about recognizing and appreciating the rolls of other members in an ensemble or present tribe and appreciating each members part while playing your own. The bell player is the time keeper because they haven't yet developed the capacity to hear the changes and to respect the sanctity of the ritual, and it seems until you can fully play the part on autopilot and stay in groove, it's until you...you're not promoted until you have the capacity to recognize your role and to continue fully contributing to that role. The shamanic powers only come about through holding the synchronization which can only happen when no forces try to dominate, no forces try to impress, and everyone works together to support the ensemble. It's through cooperation that we thrive.
-
-When I get out of groove of the rest of life (burnout) I stop wanting to be in groove in drumming. They're parallel. A lesson to be learned. I noticed this yesterday when I played along to some songs, had no desire to connect with the music, only fiddle around on top of it. 
 
 Also have been noticing that being that anchor, the heavy groove, comes from feeling it no matter what. Being steady enough that people feel they can play anything with you there. Was thinking about this a lot when hearing the drum solo to Gravity with Larnell Lewis. I love his part But I thought so much more about the bass and piano parts, which stayed stable no matter what he played and let him bend in and out of time around them. It's made me think about how embarrassing it would be to be able to solo, but not play that stable anchor part that those two played. I think getting in groove is really being able to hear others parts without letting it phase you. It's made me want to practice more of this feeling, remaining unchanged even when everything around you changes. Good way to practice this would just be clapping along to either the quarter pulse or the fundamental rhythm and hold h that the whole song
 
 
-I'm starting to notice more of what it means to like fall and groove with something. Like I guess starting off with music I see more often how easy it is to just lose yourself into it by letting go of what you're doing and listening to like other parts specifically or the group as a whole seeing how you felt in mine and it makes me feel like before what I was doing was, I was trying to create time instead of falling in mind that and I'm not exactly profession at this yet night at the very least absurd to see it how especially in this folklore music, you can just kind of fall into the cycle and be a part of it, and I think when each person's part contributes to hole falling into the cycle is no different than being like a year in the machine played by music herself. And I think the way that this plays into like the grand scheme of things is approaching all listening this way has let me connect with people better you know like when people are talking or I'm in a room with other people instead of focusing on my part and the way that I talk I focus on what other people are saying more and how the kind of group dynamic of conversation contributes to conversation and it's kind of a fascinating realization because I feel like my friendships are growing because of it too. It almost feels like I used to approach music and people with this sort of fear you know, constantly watching myself and trying to adjusted make sure that I was fitting in or playing the right part and it's weird that the solution all along was just to not listen to my part to just you know, understand the role of the time, keeper and then fully like relax into that role and then add color and substance where needed. I still don't know when the right times to add things like supplementary roles or substance in color or completely necessary, but I feel like that's kind of like the next step on this journey.
+
+---
+
+This week, I asked myself one question repeatedly:
+
+> How do I get more in groove?
+
+Here are the answers I heard.
+
+1. Don't *fill* until you can without losing the groove.
+2. Know the literature (shoutout Seth Godin)
+3. Play the rests with as much force as the notes. True in music and in life, know when to take a break.
+4. Find more ways to listen to Music. When you've run out of records, try listening to the songs nature sings.
+5. The smallest, unchanging roles are often the most structurally important.
+6. Be an anchor. When you leave the groove, you violate Music's trust in you. Your playing is then tantamount to a gust of wind blowing over a cardboard cutout.
+7. Make the audience part of the performance. It's through cooperation we thrive.
+8. If you aren't grooving with the music, check the rest of your life. You might just be drowning.
+9. You can't create time. You can only flow with it. Be the instrument that Music herself channels through. 
+10. Don't try. Just do.
