@@ -1,34 +1,33 @@
-# Week 2
+# Week 3
 
 ---
 
 ## Summary
 
-This week was one of increased awareness. I feel I've learned more about community, connection, and rest in this week than I have in the past couple years. It started out as a difficult week, still having not finished my quarterly and monthly planning, and having a hard time getting to it. Among with withdrawal symptoms I was experiencing subtle heart palpitations and much insomnia, causing me to overeat often and neglect deadlines. In going through this, I learned these to be burn out symptoms taxing the nervous system. I simultaneously began feeling a greater pull towards connection and community, and how id distanced myself from these in the past. In the wake of quitting my addictions, i began seeing the crutch they'd represented up until now. Each had severed me from those around me, and investing heavily in them since middle school engendered a fear of people. Ending this week watching cats at my grandmas, feeling like a proper adult for cooking for myself, maintaining cleanliness of the house, and getting urges to invite others over. I've learned much about getting in groove (or moreso how much I live outside of it) and how if I want to improve more/faster, I need to risk getting in with the crowd of people who are much farther along the path I'm traveling. I've begun realizing confidence is a symptom of repeated social interaction with strangers.
+<!-- Summarize the week in 1000 characters or less. -->
+
+The crux of this week was about effective planning and socialization. I started the week at work struggling with the aggressive negativity in Zoe. I started questioning why, when most of the people around me supported me wholely, I continued focusing on people like her who were aggressively negative. This question carried on further in the week as I went on a camping expedition with Kevin and Amanda. The trip was one of the most wonderful trips I've been on, with most of our time spent either driving or exploring beautiful locations. In reading *music* by Ted Gioia, my eyes had opened to the music the covers every moment and place in the world. I spent most my time in the swamps and forests we'd travelled looking for the music of the wilderness, hearing all I could. In contrast, I fought mental battles on connection. Through the trip, I'd realized I've coveted attraction by being an attractive person at a surface level while keeping people at a distance. I'd realized the people I'd grown close with came from habitually bringing them down to the level of shame in order to bond with their demons. In leaving and starting again, I feel I have a new direction of wanting depth through joy and happiness. 
 
 ### Achievements
 
 <!-- Write out what accomplishments you made over the week. -->
-1. In spite of resistances, talked to 3 people at ARC AND went up afterwards to a group of runners and hung out with them
-2. Full rest day on Saturday and burn out day on Tuesday, recovered from both and feel much more capable afterwards
-3. Finished reviews
+1. Went on a 3-day (2-night) camping trip with friends
+2. Did great market research and established intro price for lessons
+3. Opened up attraction wormhole
 
 ### Friction
 
 <!-- Create an unordered list of everything that you notice caused friction throughout the week. -->
-1. Didn't put a poster up. Likely from ambiguity of where to put it up, also from wanting to have a market tested price point.
-2. Sickness at end of week 
-3. Running backs pains, need new shoes
-4. Car tire is still fucked
-5. Too much time with ChatGPT. Using it like I used to use social media to get answers that are already out there
-6. Still lacking deeper understanding of Bembe
-7. Clutter at home. Get to avoid it for now but need to deal with it soon
-8. Rest right now is getting more programmed, but need to continue emphasizing the awareness of when I need it AND fully leaning into it
-9. Need more exposure to social situations, more challenges here. Essentially a daily practice of networking/making friends, allow deep ones to emerge naturally
-10. Need to pic a gig and volunteer event
-11. Money to afford all of this
-12. Stalking people, weird new awareness has grown around this. Seems to be curtailing itself but need to keep an eye on this
-
+- Didn't post the flyer. Easiest explanation is I'd overbooked for the week without intentionally assigning a day or time it needed to be done by, but also had a better idea for a color scheme. Really an excuse, need to just decide on a new color scheme and move forward
+- The attraction issue. This may just be residual from addiction and clear up on its own, but theres now an awareness of how I've only gathered depth through negativity or shitting on others. Even deep conversations in the past have all been due to an over-emphasis on listening and curiosity related to people's demons.
+- "Holier than thou" symptom. Not sure if its still a thing, but should keep an eye on it
+- Attachment to beauty and layering expectations in while staring at them
+- Overspending
+- Overeating
+- Not enough water
+- Neck/Shoulder pains
+- Tire
+- Cluttered space
 
 ---
 
@@ -36,11 +35,12 @@ This week was one of increased awareness. I feel I've learned more about communi
 
 ### What stopped you from achieving last week's goals?
 
-Ambiguity, need for rest, and mid-week plan changes. Most of it came from withdrawl symptoms and related burnout. But it's important to me that the focus stays on resting right now. While there was a plan to get the poster up, I don't think I've researched the price point of the alternatives enough to justify what I'm asking for. Especially right now, I'd like to make sure I'm still pricing myself at a consistent value with the alternatives so that I can build up a better base, before I change up the offer.
+Time issue and booking assignments during a vacation. Everything I'd explicitly made time for got done.
 
 ### Goals
 
+1. Decide on color pallete
+2. Finish and Post flyer
+3. Introduce Shekere Pattern to practice
+
 <!-- List out AT MOST 3 goals for the upcoming week. -->
-1. Do market research to find pricing and position alternatives in the area
-2. Finish making the flyer and determine where to land it
-3. Better bembe practice

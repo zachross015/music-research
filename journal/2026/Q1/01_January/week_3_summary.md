@@ -1,33 +1,30 @@
-# Week 3
+# Week 4
 
 ---
 
 ## Summary
 
 <!-- Summarize the week in 1000 characters or less. -->
-
-The crux of this week was about effective planning and socialization. I started the week at work struggling with the aggressive negativity in Zoe. I started questioning why, when most of the people around me supported me wholely, I continued focusing on people like her who were aggressively negative. This question carried on further in the week as I went on a camping expedition with Kevin and Amanda. The trip was one of the most wonderful trips I've been on, with most of our time spent either driving or exploring beautiful locations. In reading *music* by Ted Gioia, my eyes had opened to the music the covers every moment and place in the world. I spent most my time in the swamps and forests we'd travelled looking for the music of the wilderness, hearing all I could. In contrast, I fought mental battles on connection. Through the trip, I'd realized I've coveted attraction by being an attractive person at a surface level while keeping people at a distance. I'd realized the people I'd grown close with came from habitually bringing them down to the level of shame in order to bond with their demons. In leaving and starting again, I feel I have a new direction of wanting depth through joy and happiness. 
+Started this week thinking camping was a sufficient recovery item, and being hit with the realization it wasn't. Still watching the cats at Nana's and Grandpa's. Spent the week struggling to relax, whether form poor diet or poor relaxation. In spite of this, I made ample progress throughout the week on business and practice. Most of what I'd come to ingrain was the weight of groove, and the ways it's been missing in my life. Things like systematic scheduling, systematic diet, and systematic rest have all been missing and knowing this now has opened awareness to the cognitive load of their unreliability. Improvements are happening in these areas now, but their lacking has left me burnt out throughout the week. The final days were wrapped in an Ice Storm, keeping me pent up with Joey & Co, wherein I finally allowed myself to crash from the sickness I'd been dredged with in my lack of relaxing.
 
 ### Achievements
 
 <!-- Write out what accomplishments you made over the week. -->
-1. Went on a 3-day (2-night) camping trip with friends
-2. Did great market research and established intro price for lessons
-3. Opened up attraction wormhole
+1. Finished brand color scheme
+2. Ran another 10 mile
+3. Defined the different job roles in the company
+4. 3 hour long meditations
+5. Went to a jazz jam
 
 ### Friction
 
 <!-- Create an unordered list of everything that you notice caused friction throughout the week. -->
-- Didn't post the flyer. Easiest explanation is I'd overbooked for the week without intentionally assigning a day or time it needed to be done by, but also had a better idea for a color scheme. Really an excuse, need to just decide on a new color scheme and move forward
-- The attraction issue. This may just be residual from addiction and clear up on its own, but theres now an awareness of how I've only gathered depth through negativity or shitting on others. Even deep conversations in the past have all been due to an over-emphasis on listening and curiosity related to people's demons.
-- "Holier than thou" symptom. Not sure if its still a thing, but should keep an eye on it
-- Attachment to beauty and layering expectations in while staring at them
-- Overspending
-- Overeating
-- Not enough water
-- Neck/Shoulder pains
-- Tire
-- Cluttered space
+- It doesnt feel like the burnout has one definable source. More rest is needed in general, but it also seems like caffeine plays a part (I'm saying right now as I feel the anxiety of caffeine crash), diet, and lack of preparation/rest after workouts. Recovery from them seems to be impacting me more than I would think, and it all gets exacerbated by sweets
+- Horny as fuck all week, much more than I thought I'd be. Fighting urges can also explain everything
+- Didn't put up the posters. Design looked like piss in print, but also used distance as an excuse. May have resolved this by just finishing up the color scheme.
+- Still can't afford all the help I need
+- Resistance to work came in part from no clear boundaries between when I work and when I don't (not allocating time off from the beginning, or envisioning myself having to work constantly
+- Planning at a week level makes daily intentions not happen
 
 ---
 
@@ -35,12 +32,13 @@ The crux of this week was about effective planning and socialization. I started 
 
 ### What stopped you from achieving last week's goals?
 
-Time issue and booking assignments during a vacation. Everything I'd explicitly made time for got done.
+Goals lacked enough intention and clarity to make them executable even in the state I was in, combined with overhead of withdrawl symtpoms and exhaustion.
+
+### What does life look like at the end of the week?
 
 ### Goals
 
-1. Decide on color pallete
-2. Finish and Post flyer
-3. Introduce Shekere Pattern to practice
-
 <!-- List out AT MOST 3 goals for the upcoming week. -->
+1. Plan Project Zephyr
+2. Study Shekere in Bembe
+3. Book all appointments

@@ -121,7 +121,7 @@ def process_entries(entries):
         month_str = f"{start_date.month:02d}_{start_date.strftime('%B')}"
         year_dir = os.path.join(OUTPUT_DIR, str(start_date.year), f"Q{quarter}", month_str)
         ensure_dir(year_dir)
-        week_num = start_date.isocalendar()[1]
+        week_num = start_date.isocalendar()[1] - 1
         week_file = os.path.join(year_dir, f"week_{week_num:02d}.md")
 
         existing = load_week_file(week_file)

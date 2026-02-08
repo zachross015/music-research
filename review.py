@@ -16,23 +16,13 @@ def get_month_name_for(year, month):
 def get_week_number():
     """Get the current week number of the year, adjusting for first 4 days."""
     now = datetime.now()
-    iso = now.isocalendar()
     year = now.year
-    if now.day <= BUFFER_DAYS:
-        print("Buffer period triggered: using previous week.")
-        # Previous week
-        if iso[1] == 1:
-            year -= 1
-            next_year_week = datetime(year, 12, 31).isocalendar()[0]
-            if next_year_week == year + 1:
-                last_week = 52
-            else:
-                last_week = 53
-            return last_week, year
-        else:
-            return iso[1] - 1, year
-    else:
-        return iso[1], year
+    DD = timedelta(days=BUFFER_DAYS)
+    date = now - DD
+    iso = date.isocalendar()
+    
+    # Offset week number by -1 since we start counting at the first full week in the new year
+    return (iso[1] - 1) % 52, year
 
 def get_month_name():
     """Get the current month name, adjusting for first 4 days."""
