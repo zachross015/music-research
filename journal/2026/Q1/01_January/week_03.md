@@ -106,3 +106,5 @@ I didn't get nearly as much drumming in last week and it sucks. I'm itching to p
 
 but doing that. Also makes me just like feel better in general you know less foggy and it's almost like to keep up with a pace of running I have to make sure that I'm relaxing into the structure of a good diet.
 
+but doing that. Also makes me just like feel better in general you know less foggy and it's almost like to keep up with a pace of running I have to make sure that I'm relaxing into the structure of a good diet.
+
