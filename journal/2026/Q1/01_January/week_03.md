@@ -108,3 +108,5 @@ but doing that. Also makes me just like feel better in general you know less fog
 
 but doing that. Also makes me just like feel better in general you know less foggy and it's almost like to keep up with a pace of running I have to make sure that I'm relaxing into the structure of a good diet.
 
+but doing that. Also makes me just like feel better in general you know less foggy and it's almost like to keep up with a pace of running I have to make sure that I'm relaxing into the structure of a good diet.
+
