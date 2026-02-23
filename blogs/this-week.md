@@ -1,28 +1,33 @@
+# Eat the Grape
 
-The weight of groove has started sinking in. It doesn't feel any different from meditation in that the goal of it is to stay with the object of focus and letting go of distractions as they come and go. In the context of groove, it seems it's moreso about staying consistent with time, relaxing into it, and not explicitly reacting to others playing without intention. I think when coming from roc and metal, it's been hard to understand this concept since most the parts were so syncopated. That and the fact tha I've had such a technique focus has made me aware of how little I know how to use my chops effectively. I think I relied too much on them as a means of "storytelling," really trying to impress rather than trying to groove and enjoy. But this whole approach has made me see just how much more important it is to stick to the same part regardless of the changes going on around you, at least until fills and other supportive playing can be done intentionally 
+> When we turn pro, we give up a life with which we may have become extremely comfortable. 
+> - Stephen Pressfield
 
-
-With my revelation at the gig last week, I feel like part of the changes coming in (or at least that I need to make) are a deeper appreciation and experience of live experiences. Not just music, but being able to bypass the connection issues is going to make it so much easier to experience this, and I feel like the better I can feel this stuff live and around others the easier it's going to be to channel that into everything else I make. But this whole color pallet feels like a great first look into that, into being able to convey a feeling or experience to someone else
-
-It feels effortless getting lost in something good, I'd like that to apply without the criticality, and I feel like that is the only thing that truly disintegrates my absorption.
+Stephen Pressfield talks in his books (*The War of Art* and *Turning Pro*) that everyone who turns pro can point the exact moment they went from acting as an amateur to a professional. My moment was the first time I enjoyed eating a grape. 
 
 ---
 
-> It feels way too simple to say that showing up is enough. It feels too simple to say putting up posters is enough. That talking to someone is enough. That my playing is enough. That I am enough.
-> But what if that is all it takes? Is it possible that just surrounding yourself with opportunity is enough to be a part of it? That maybe the best people come into your life easily and stay? That the best musicians are made as a team?
-> Am I willing to give up the idea that this has to be hard? Am I willing to put my faith into God that, so long as I show up, I will be guided through the rest? 
+It was about two years ago at 6:30 AM. I'd just finished opening up the store at my barista side-gig. It was still pitch black outside but I'd been there long enough to earn my first break, I sat in the long hallway that was our Starbucks. By this time, the only items I'd ingested were two shots of espresso, a sip of coffee, and half a butter croissant. The imminent caffeine crash was panging in my head and if the grumbling in my stomach wasn't enough an indicator, I knew I had to eat.
 
-I came across this thought in my journal on January 21, 2026 as part of an ongoing revelation on the ways my struggles are self-induced. Since middle school, I've held onto multiple addictions (including sugar, video games, and social media) which have made connection feel performative at best. The further I delve into Music, the less distance I see between my connection to Her and my connection to the people around me. 
+Most food offered at the company is some variety of bread with little sustenance in it. Glucose was not going to carry my through the impending rush of peak, so I'd often flip-flopped between an oatmeal contraption and the protein boxes. Each protein box contained:
 
-I decided at the turn of the New Year to quit them all cold turkey, and am proud to say I've just passed the one month mark on all of them. Although I still face withdrawls and grief from time to time, I see these as challenges which require creative solutions. "Weightlifting" reps in the form of social interactions and intentional relaxation. Going to new clubs, jazz jams, etc. From doing this, there's a greater appreciation for presence, a better connection with those around me. I think it's the disconnection from social media that forced be to seek connection elsewhere. It's made my relationships feel more *real* and less comparative. If nothing else, my self-esteem has shot up greatly. So much so, that after two years of deliberation, I finally played my first Jazz Jam. I was terrified, but it had to be done.
+1. a protein (duh),
+2. apple slices, and
+3. grapes.
 
-This quote resonated alot with me because it *is* the simple things that grow you the most. The past two years of my drum practice were self-motivated and directed towards goals that I had no feedback for. While I did grow quite a bit, going out of my comfort zone to play my first jazz jam provided me with more real world experience, feedback, and connection than 1000 hours alone in a basement ever could. These were the lessons from this:
-- We can't create time. We can only serve it. There's a shared sense of time when we play together, and among professionals that pocket is massive. 
-- Playing *with* the song (as opposed to on top of it) is a matter of letting go of the need to micromanage your own part. You get in groove by listening.
-- You have to *earn* your fills.
-- Listening can become a form of meditation if you allow it.
+I'd always hated grapes. The texture of them and the stem pit bring to mind the puncturing of an eyeball with each bite, which is weirdly not foreign to me. I have been made to eat fish eye before under the pressure of a breakup (spoiler: we broke up anyways). Still, grapes somehow seemed worse. Yet, I'd always *wanted* to enjoy grapes. My mom often snacked on them in the middle of the grocery store. Many charcuterie boards have been decorated with them. Then of course there is wine, and as someone who doesn't drink I'd at least like a glimpse at that flavor again. They must provide *some* good experience if this many people like them. I wanted to be healthier anyways and I think at the time, they represented a much healthier lifestyle. Someone who enjoyed grapes could also one day learn to enjoy pineapples. They could eat raisins, and then all the sudden they wouldn't just be fishing all the M&M's out of trail mixes. 
 
-I want to end with a quote from Stephen Pressfield's *Turning Pro*.
-> In a way I was lucky that I experienced failure for so many years. Because there were no conventional rewards, I was forced to ask myself, Why am I doing this? Am I crazy? All my friends are making money and settling down and living normal lives. What the hell am I doing? Am I nuts? What’s wrong with me?  In the end I answered the question by realizing that I had no choice. I couldn’t do anything else. When I tried, I got so depressed I couldn’t stand it. So when I wrote yet another novel or screenplay that I couldn’t sell, I had no choice but to write another after that. The truth was, I was enjoying myself. Maybe nobody else liked the stuff I was doing, but I did. I was learning. I was getting better.  The work became, in its own demented way, a practice. It sustained me, and it sustains me still.
+So I set out to do it. February 17, 2024 was the day I was going to start liking grapes. 
 
-Happy drumming!
+I sat down at one of our two-seated round tables and tore open the plastic seal. I carved through the hard-boiled eggs, the loaf of multi-grain bread with peanut butter topping, and the apple slices. Then finally, onto the grapes. They were these tiny purple grapes, each one slightly discolored. I was having a stare down with the iris of the stem pit as I felt the tension growing. One part of me screaming "wait until tomorrow" and the other saying "get it over with." But I was committed and I'd already made it this far.  
+
+In one swoop I thrust the grape into my mouth, and in that moment I could remember the exact sensation of crushing the fish eye between my teeth.  With each bite, I could feel the muscles of my face tensing and contracting. Twitching. There was a tingle that kept running down my spine as I chewed, chewed, chewed, and then finally swallowed. A grimace stained my face, but I did it. I ate the grape.
+
+The next day, I ate two. Then three. Before long, I was eating the whole package. I refuse to waste!
+
+---
+
+I hope it's clear that the dramatics of this are greatly exaggerated. Still, every moment of discomfort I face now I compare back to this. Before I get on a stage, there are times when I face the same discomfort. Or the first time I played at a jazz jam, it was there too. But I look back on that time because I survived and I've grown. It's a silly thing, but I eat grapes all the time now. It felt like one of the first moments where my discomfort was a choice, and that I was able to look past a minor obstacle to create a brighter future. 
+
+What was the moment you turned pro?
+

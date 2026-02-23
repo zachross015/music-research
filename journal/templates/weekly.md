@@ -24,4 +24,4 @@
 
 ### Goals
 
-<!-- List out AT MOST 3 goals for the upcoming week. -->
+<!-- List out AT MOST 1 goals for the upcoming week. -->
