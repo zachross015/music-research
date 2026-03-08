@@ -1,0 +1,1530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Listening Drummer — An Ear Training Curriculum</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0f0e17;
+    --paper: #faf7f2;
+    --cream: #f2ede4;
+    --gold: #c9933a;
+    --gold-light: #e8b96a;
+    --rust: #9b3a2a;
+    --teal: #1a6b6b;
+    --teal-light: #2a9494;
+    --warm-grey: #8a8278;
+    --border: rgba(201,147,58,0.25);
+    --shadow: rgba(15,14,23,0.12);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.7;
+    min-height: 100vh;
+  }
+
+  /* ── PRINT STYLES ── */
+  @media print {
+    .tab-nav, .nav-sticky { display: none !important; }
+    .panel { display: block !important; opacity: 1 !important; }
+    .phase-card { break-inside: avoid; }
+    body { background: white; }
+  }
+
+  /* ── HEADER ── */
+  header {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .header-bg {
+    position: absolute; inset: 0;
+    background: 
+      radial-gradient(ellipse 60% 80% at 80% 50%, rgba(201,147,58,0.15) 0%, transparent 70%),
+      radial-gradient(ellipse 40% 60% at 10% 80%, rgba(26,107,107,0.12) 0%, transparent 60%);
+  }
+
+  .staff-lines {
+    position: absolute; inset: 0;
+    opacity: 0.04;
+    background-image: repeating-linear-gradient(
+      180deg,
+      transparent 0px,
+      transparent 18px,
+      #c9933a 18px,
+      #c9933a 19px
+    );
+  }
+
+  .header-inner {
+    position: relative;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 64px 48px 56px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 48px;
+    align-items: end;
+  }
+
+  .header-eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(36px, 5vw, 62px);
+    font-weight: 900;
+    line-height: 1.08;
+    margin-bottom: 24px;
+    color: var(--paper);
+  }
+
+  h1 em {
+    font-style: italic;
+    color: var(--gold-light);
+    display: block;
+  }
+
+  .header-desc {
+    font-size: 16px;
+    color: rgba(250,247,242,0.7);
+    max-width: 560px;
+    line-height: 1.8;
+    font-weight: 300;
+  }
+
+  .header-badge {
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  .drum-icon {
+    width: 120px;
+    height: 120px;
+    border: 2px solid rgba(201,147,58,0.4);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    position: relative;
+  }
+
+  .drum-icon::before {
+    content: '';
+    position: absolute;
+    inset: 8px;
+    border: 1px solid rgba(201,147,58,0.2);
+    border-radius: 50%;
+  }
+
+  .drum-symbol {
+    font-size: 36px;
+    line-height: 1;
+  }
+
+  .drum-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 2px;
+    color: var(--gold);
+    text-transform: uppercase;
+  }
+
+  /* ── INTRO BAND ── */
+  .intro-band {
+    background: var(--cream);
+    border-bottom: 1px solid var(--border);
+    padding: 40px 48px;
+  }
+
+  .intro-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 32px;
+  }
+
+  .intro-card {
+    padding: 28px 24px;
+    background: white;
+    border-radius: 2px;
+    border-left: 3px solid var(--gold);
+    box-shadow: 0 2px 12px var(--shadow);
+  }
+
+  .intro-card-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--warm-grey);
+    margin-bottom: 10px;
+  }
+
+  .intro-card p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--ink);
+    font-weight: 300;
+  }
+
+  .intro-card strong { color: var(--rust); font-weight: 500; }
+
+  /* ── STICKY NAV ── */
+  .nav-sticky {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(15,14,23,0.97);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(201,147,58,0.2);
+  }
+
+  .tab-nav {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 48px;
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .tab-nav::-webkit-scrollbar { display: none; }
+
+  .tab-btn {
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: rgba(250,247,242,0.45);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 18px 20px 16px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: color 0.2s, border-color 0.2s;
+    flex-shrink: 0;
+  }
+
+  .tab-btn:hover { color: rgba(250,247,242,0.75); }
+  .tab-btn.active { color: var(--gold); border-bottom-color: var(--gold); }
+
+  /* ── MAIN CONTENT ── */
+  .main { max-width: 1100px; margin: 0 auto; padding: 0 48px 80px; }
+
+  .panel { display: none; animation: fadeIn 0.3s ease; }
+  .panel.active { display: block; }
+
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+  /* ── SECTION HEADERS ── */
+  .section-header {
+    padding: 56px 0 32px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 40px;
+  }
+
+  .section-eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 12px;
+  }
+
+  .section-header h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.15;
+  }
+
+  .section-header p {
+    margin-top: 16px;
+    font-size: 15px;
+    color: var(--warm-grey);
+    max-width: 680px;
+    font-weight: 300;
+    line-height: 1.8;
+  }
+
+  /* ── PHASE CARDS ── */
+  .phase-grid { display: grid; grid-template-columns: 1fr; gap: 28px; }
+
+  .phase-card {
+    border: 1px solid var(--border);
+    background: white;
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow: 0 2px 16px var(--shadow);
+    transition: box-shadow 0.2s;
+  }
+
+  .phase-card:hover { box-shadow: 0 6px 32px rgba(15,14,23,0.14); }
+
+  .phase-header {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    align-items: stretch;
+  }
+
+  .phase-num {
+    background: var(--ink);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 16px;
+    gap: 4px;
+  }
+
+  .phase-num span:first-child {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    font-weight: 900;
+    color: var(--gold);
+    line-height: 1;
+  }
+
+  .phase-num span:last-child {
+    font-family: 'DM Mono', monospace;
+    font-size: 8px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(250,247,242,0.4);
+  }
+
+  .phase-title-block {
+    padding: 24px 28px;
+    background: var(--cream);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .phase-title-block h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+
+  .phase-title-block .phase-sub {
+    font-size: 13px;
+    color: var(--warm-grey);
+    font-style: italic;
+    font-weight: 300;
+  }
+
+  .phase-tags {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 12px;
+  }
+
+  .tag {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border-radius: 1px;
+    font-weight: 400;
+  }
+
+  .tag-jazz { background: rgba(26,107,107,0.12); color: var(--teal); border: 1px solid rgba(26,107,107,0.25); }
+  .tag-piano { background: rgba(155,58,42,0.1); color: var(--rust); border: 1px solid rgba(155,58,42,0.2); }
+  .tag-drums { background: rgba(201,147,58,0.12); color: #8a6020; border: 1px solid rgba(201,147,58,0.3); }
+  .tag-theory { background: rgba(15,14,23,0.06); color: #555; border: 1px solid rgba(15,14,23,0.15); }
+  .tag-ear { background: rgba(90,60,140,0.1); color: #5a3c8c; border: 1px solid rgba(90,60,140,0.2); }
+
+  .phase-body { padding: 28px; }
+
+  .phase-desc {
+    font-size: 14.5px;
+    line-height: 1.8;
+    color: #444;
+    font-weight: 300;
+    margin-bottom: 24px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ── BOOK ENTRIES ── */
+  .book-list { display: grid; gap: 16px; }
+
+  .book-entry {
+    display: grid;
+    grid-template-columns: 36px 1fr;
+    gap: 16px;
+    align-items: start;
+  }
+
+  .book-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--gold);
+    font-weight: 500;
+    padding-top: 2px;
+  }
+
+  .book-content {}
+
+  .book-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--ink);
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .book-meta {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--warm-grey);
+    margin-bottom: 8px;
+    display: block;
+  }
+
+  .book-why {
+    font-size: 13.5px;
+    line-height: 1.7;
+    color: #555;
+    font-weight: 300;
+  }
+
+  .book-drummer-note {
+    margin-top: 8px;
+    padding: 8px 12px;
+    background: rgba(201,147,58,0.07);
+    border-left: 2px solid var(--gold);
+    font-size: 12.5px;
+    color: #6b5010;
+    line-height: 1.6;
+    font-style: italic;
+  }
+
+  .book-drummer-note strong {
+    font-style: normal;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-right: 6px;
+  }
+
+  .book-piano-note {
+    margin-top: 6px;
+    padding: 7px 12px;
+    background: rgba(155,58,42,0.06);
+    border-left: 2px solid var(--rust);
+    font-size: 12.5px;
+    color: #6b2a1c;
+    line-height: 1.6;
+    font-style: italic;
+  }
+
+  .book-piano-note strong {
+    font-style: normal;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--rust);
+    margin-right: 6px;
+  }
+
+  /* ── PRACTICE PANEL ── */
+  .practice-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    margin-bottom: 40px;
+  }
+
+  .practice-card {
+    padding: 28px;
+    border: 1px solid var(--border);
+    background: white;
+    border-radius: 2px;
+    box-shadow: 0 2px 8px var(--shadow);
+  }
+
+  .practice-card-icon {
+    font-size: 28px;
+    margin-bottom: 14px;
+    display: block;
+  }
+
+  .practice-card h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+
+  .practice-card p {
+    font-size: 13.5px;
+    line-height: 1.75;
+    color: #555;
+    font-weight: 300;
+  }
+
+  .practice-list {
+    list-style: none;
+    margin-top: 14px;
+    display: grid;
+    gap: 8px;
+  }
+
+  .practice-list li {
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: #444;
+    font-weight: 300;
+    padding-left: 18px;
+    position: relative;
+  }
+
+  .practice-list li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--gold);
+    font-size: 12px;
+    top: 1px;
+  }
+
+  /* ── RECORDINGS PANEL ── */
+  .rec-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 32px;
+  }
+
+  .rec-category {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px var(--shadow);
+  }
+
+  .rec-category-header {
+    background: var(--ink);
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .rec-category-header .icon { font-size: 18px; }
+
+  .rec-category-header h3 {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 500;
+  }
+
+  .rec-list {
+    padding: 16px 20px;
+    display: grid;
+    gap: 14px;
+  }
+
+  .rec-item {}
+
+  .rec-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+  .rec-artist {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--warm-grey);
+    margin-bottom: 4px;
+    display: block;
+  }
+
+  .rec-why {
+    font-size: 12.5px;
+    color: #666;
+    font-weight: 300;
+    line-height: 1.6;
+  }
+
+  /* ── SEQUENCES TABLE ── */
+  .seq-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    font-size: 13.5px;
+  }
+
+  .seq-table th {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--paper);
+    background: var(--ink);
+    padding: 12px 16px;
+    text-align: left;
+    font-weight: 500;
+  }
+
+  .seq-table td {
+    padding: 14px 16px;
+    vertical-align: top;
+    border-bottom: 1px solid var(--border);
+    font-weight: 300;
+    line-height: 1.6;
+  }
+
+  .seq-table tr:nth-child(even) td { background: rgba(242,237,228,0.5); }
+
+  .seq-table td:first-child {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--gold);
+    white-space: nowrap;
+    font-weight: 500;
+  }
+
+  /* ── CONCEPT CARDS ── */
+  .concept-strip {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin: 32px 0;
+  }
+
+  .concept-card {
+    padding: 20px;
+    border: 1px solid var(--border);
+    border-top: 3px solid var(--gold);
+    background: white;
+    border-radius: 2px;
+    box-shadow: 0 1px 6px var(--shadow);
+  }
+
+  .concept-card.teal { border-top-color: var(--teal); }
+  .concept-card.rust { border-top-color: var(--rust); }
+
+  .concept-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--warm-grey);
+    margin-bottom: 10px;
+  }
+
+  .concept-card h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+
+  .concept-card p {
+    font-size: 13px;
+    color: #555;
+    font-weight: 300;
+    line-height: 1.7;
+  }
+
+  /* ── QUOTE BLOCK ── */
+  .pull-quote {
+    margin: 40px 0;
+    padding: 32px 40px;
+    background: var(--ink);
+    color: var(--paper);
+    border-radius: 2px;
+    position: relative;
+  }
+
+  .pull-quote::before {
+    content: '"';
+    font-family: 'Playfair Display', serif;
+    font-size: 120px;
+    color: var(--gold);
+    opacity: 0.2;
+    position: absolute;
+    top: -10px;
+    left: 24px;
+    line-height: 1;
+  }
+
+  .pull-quote p {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1.65;
+    position: relative;
+    max-width: 700px;
+  }
+
+  .pull-quote cite {
+    display: block;
+    margin-top: 16px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    color: var(--gold);
+    text-transform: uppercase;
+    font-style: normal;
+    position: relative;
+  }
+
+  /* ── SUPPLEMENTARY ── */
+  .supp-bar {
+    background: var(--cream);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    padding: 20px 24px;
+    margin-top: 24px;
+  }
+
+  .supp-bar h4 {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--warm-grey);
+    margin-bottom: 10px;
+  }
+
+  .supp-bar p {
+    font-size: 13px;
+    color: #555;
+    font-weight: 300;
+    line-height: 1.7;
+    font-style: italic;
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    background: var(--ink);
+    color: rgba(250,247,242,0.5);
+    text-align: center;
+    padding: 40px 48px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    line-height: 1.8;
+  }
+
+  footer span { color: var(--gold); }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 768px) {
+    .header-inner { grid-template-columns: 1fr; padding: 40px 24px; }
+    .header-badge { display: none; }
+    .intro-inner { grid-template-columns: 1fr; padding: 0; }
+    .intro-band { padding: 24px; }
+    .tab-nav { padding: 0 24px; }
+    .main { padding: 0 24px 60px; }
+    .practice-grid, .rec-grid, .concept-strip { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-bg"></div>
+  <div class="staff-lines"></div>
+  <div class="header-inner">
+    <div>
+      <div class="header-eyebrow">A Curriculum Through Books &amp; Records</div>
+      <h1>The Listening Drummer<em>Melody, Harmony &amp; the Musical Ear</em></h1>
+      <p class="header-desc">A reading and listening curriculum for the jazz drummer developing harmonic intelligence — with a parallel track for piano study and direct application to the kit.</p>
+    </div>
+    <div class="header-badge">
+      <div class="drum-icon">
+        <div class="drum-symbol">🥁</div>
+        <div class="drum-label">Jazz · Piano</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="intro-band">
+  <div class="intro-inner">
+    <div class="intro-card">
+      <div class="intro-card-label">Your Starting Point</div>
+      <p>You already have the vocabulary: modes, key signatures, intervals, basic chord structures. This curriculum <strong>advances from that foundation</strong> — toward harmonic hearing, voice leading, and the kind of deep listening that changes how you play time and comp behind soloists.</p>
+    </div>
+    <div class="intro-card">
+      <div class="intro-card-label">The Drummer's Angle</div>
+      <p>Every book and practice here is filtered through a drummer's perspective. <strong>Harmonic awareness makes you a better timekeeper</strong> — you learn to feel where the music is going, anticipate turnarounds, and respond to harmonic density rather than just counting bars.</p>
+    </div>
+    <div class="intro-card">
+      <div class="intro-card-label">The Piano Connection</div>
+      <p>Piano is the ideal companion study for this curriculum. Many exercises here <strong>belong at the keyboard</strong>: voicings you can hear under your hands, voice leading you can see physically, harmonic progressions you play while singing the melody. The two studies feed each other constantly.</p>
+    </div>
+  </div>
+</div>
+
+<nav class="nav-sticky">
+  <div class="tab-nav">
+    <button class="tab-btn active" onclick="showPanel('overview')">Overview</button>
+    <button class="tab-btn" onclick="showPanel('phase1')">I · Ear &amp; Interval</button>
+    <button class="tab-btn" onclick="showPanel('phase2')">II · Harmony</button>
+    <button class="tab-btn" onclick="showPanel('phase3')">III · Jazz Voice</button>
+    <button class="tab-btn" onclick="showPanel('phase4')">IV · Form &amp; Melody</button>
+    <button class="tab-btn" onclick="showPanel('phase5')">V · Deep Jazz</button>
+    <button class="tab-btn" onclick="showPanel('practice')">Practice Routines</button>
+    <button class="tab-btn" onclick="showPanel('recordings')">Essential Records</button>
+  </div>
+</nav>
+
+<main class="main">
+
+  <!-- ── OVERVIEW ── -->
+  <div id="overview" class="panel active">
+    <div class="section-header">
+      <div class="section-eyebrow">Curriculum Map</div>
+      <h2>Five Phases to a Musical Ear</h2>
+      <p>The phases move from fundamental ear perception through advanced jazz harmony. Each one has a primary book path, a parallel piano track, and specific translation to the drumkit.</p>
+    </div>
+
+    <div class="concept-strip">
+      <div class="concept-card">
+        <div class="concept-label">The Core Skill</div>
+        <h4>Harmonic Hearing</h4>
+        <p>The ability to perceive chord quality, movement, and tension — not just intellectually but in real time while playing — is what separates a reactive drummer from a proactive one.</p>
+      </div>
+      <div class="concept-card teal">
+        <div class="concept-label">The Piano Synergy</div>
+        <h4>Hands &amp; Ears Together</h4>
+        <p>Playing voicings on piano solidifies aural concepts faster than any other method. The keyboard makes intervals and voice leading visible, tangible, and internally rehearsable.</p>
+      </div>
+      <div class="concept-card rust">
+        <div class="concept-label">The Jazz Specific</div>
+        <h4>Form, Feel &amp; Function</h4>
+        <p>Jazz demands you hear song form, harmonic rhythm, and melodic development simultaneously — and that you respond with appropriate time, density, and dynamics.</p>
+      </div>
+    </div>
+
+    <table class="seq-table">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Title</th>
+          <th>Primary Skill</th>
+          <th>Drum Application</th>
+          <th>Piano Application</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>I</td>
+          <td>Ear &amp; Interval Training</td>
+          <td>Hearing intervals, scale degrees, and basic chord quality accurately</td>
+          <td>Singing what you play; internalizing downbeats harmonically</td>
+          <td>Playing intervals across the keyboard; singing scale degrees while playing</td>
+        </tr>
+        <tr>
+          <td>II</td>
+          <td>Harmony in Depth</td>
+          <td>Voice leading, functional harmony, chromatic movement</td>
+          <td>Hearing chord function while keeping time; responding to harmonic rhythm</td>
+          <td>Four-voice Bach chorales; rootless voicings; ii–V–I in all keys</td>
+        </tr>
+        <tr>
+          <td>III</td>
+          <td>Jazz Voicing &amp; Language</td>
+          <td>Jazz-specific harmony: extensions, alterations, reharmonization</td>
+          <td>Responding to altered dominants; density and space vs. chord complexity</td>
+          <td>Comping patterns; left-hand voicings; chord-melody at the piano</td>
+        </tr>
+        <tr>
+          <td>IV</td>
+          <td>Form, Melody &amp; Transcription</td>
+          <td>Melodic contour, phrase structure, motivic development</td>
+          <td>Playing time that serves melodic phrases; motivic drumming</td>
+          <td>Playing melodies with chord accompaniment; chord-melody arrangements</td>
+        </tr>
+        <tr>
+          <td>V</td>
+          <td>Deep Jazz Language &amp; Hearing</td>
+          <td>Stylistic fluency, rhythm changes, blues form, advanced listening</td>
+          <td>Playing "through" the form; harmonic comping on the kit</td>
+          <td>Soloing in jazz style; studying piano masters for vocabulary</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="pull-quote" style="margin-top:40px;">
+      <p>The drummer who understands harmony is not playing time for the harmonic instruments — he is playing time with them. There is an enormous difference.</p>
+      <cite>— Adapted from Paul Motian's approach, as described by his collaborators</cite>
+    </div>
+  </div>
+
+  <!-- ── PHASE I ── -->
+  <div id="phase1" class="panel">
+    <div class="section-header">
+      <div class="section-eyebrow">Phase I</div>
+      <h2>Ear &amp; Interval Training</h2>
+      <p>Before harmony, there is the ear. These books develop your ability to identify and internalize intervals, scale degrees, and basic chord quality — the perceptual bedrock of all musical understanding.</p>
+    </div>
+
+    <div class="phase-grid">
+
+      <div class="phase-card">
+        <div class="phase-header">
+          <div class="phase-num"><span>1</span><span>Core</span></div>
+          <div class="phase-title-block">
+            <h3>Ear Training for the Contemporary Musician</h3>
+            <div class="phase-sub">Building perceptual precision from the ground up</div>
+            <div class="phase-tags">
+              <span class="tag tag-ear">Ear Training</span>
+              <span class="tag tag-piano">Piano-Friendly</span>
+            </div>
+          </div>
+        </div>
+        <div class="phase-body">
+          <div class="phase-desc">This is your working workbook for the first phase. Unlike purely academic approaches, it emphasizes contextual hearing — identifying intervals and chords in musical phrases rather than in isolation. Designed to be used actively, with an instrument at hand. Do a small amount every day rather than marathon sessions.</div>
+          <div class="book-list">
+            <div class="book-entry">
+              <div class="book-num">01</div>
+              <div class="book-content">
+                <span class="book-title">Ear Training: A Technique for Listening</span>
+                <span class="book-meta">Bruce Benward &amp; J. Timothy Kolosick · 1983 (many editions)</span>
+                <div class="book-why">The classic American university ear training text. Methodical, comprehensive, and still the best structured path from interval recognition through melodic and harmonic dictation. The editions with accompanying recordings are ideal.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> After each interval-recognition exercise, sing it back — then find a way to imply it rhythmically. Practicing "hearing the note" you land on in a fill will transform your musicality.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> Play every interval exercise at the keyboard in multiple positions before identifying it aurally. Touch precedes theory precedes aural fluency.</div>
+              </div>
+            </div>
+            <div class="book-entry">
+              <div class="book-num">02</div>
+              <div class="book-content">
+                <span class="book-title">Musicianship for the Improvising Musician</span>
+                <span class="book-meta">Gary Karpinski · 2017</span>
+                <div class="book-why">Karpinski reorients ear training toward the musician who improvises — where you must recognize and respond simultaneously, not just identify in retrospect. His emphasis on singing before notating is essential.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> Karpinski's melodic dictation approach — hearing, retaining, then reproducing — maps directly onto how a drummer internalizes a melody enough to play supportively behind it.</div>
+              </div>
+            </div>
+            <div class="book-entry">
+              <div class="book-num">03</div>
+              <div class="book-content">
+                <span class="book-title">Tonal Harmony</span>
+                <span class="book-meta">Stefan Kostka &amp; Dorothy Payne · 1984 (many editions)</span>
+                <div class="book-why">The most widely used tonal harmony text in American conservatories. Since you already know the basics, use it selectively — the chapters on voice leading, secondary dominants, and modulation are your targets. Do the exercises, not just the reading.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> Work through the four-part voice-leading exercises at the keyboard. This alone, done slowly over months, will make your harmonic hearing transformative.</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="supp-bar">
+            <h4>Supplementary for Phase I</h4>
+            <p>W.A. Mathieu's <em>Harmonic Experience</em> (1997) is idiosyncratic but profound — a phenomenology of how intervals feel, not just how they sound. David Burge's <em>Absolute Pitch</em> course materials address the possibility (and limits) of developing absolute pitch as an adult. For sight-singing, Louis Hafner's <em>Sight Singing: The Complete Method</em> gives systematic coverage.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── PHASE II ── -->
+  <div id="phase2" class="panel">
+    <div class="section-header">
+      <div class="section-eyebrow">Phase II</div>
+      <h2>Harmony in Depth</h2>
+      <p>Voice leading, functional harmony, chromatic chords, and modulation. This phase develops your understanding of how chords move and why — essential for a drummer who wants to feel form rather than just count bars.</p>
+    </div>
+
+    <div class="phase-grid">
+      <div class="phase-card">
+        <div class="phase-header">
+          <div class="phase-num"><span>2</span><span>Core</span></div>
+          <div class="phase-title-block">
+            <h3>Classical Harmony as the Foundation</h3>
+            <div class="phase-sub">Voice leading and functional thinking — the grammar beneath jazz</div>
+            <div class="phase-tags">
+              <span class="tag tag-theory">Theory</span>
+              <span class="tag tag-piano">Piano-Heavy</span>
+              <span class="tag tag-ear">Ear Training</span>
+            </div>
+          </div>
+        </div>
+        <div class="phase-body">
+          <div class="phase-desc">Jazz harmony did not appear from nowhere — it evolved from (and still operates on the logic of) European tonal harmony. Understanding voice leading in Bach chorales is not antiquarian: it is the fastest way to understand why jazz voicings work the way they do, why certain substitutions are idiomatic, and what the ear is expecting at any given moment.</div>
+          <div class="book-list">
+            <div class="book-entry">
+              <div class="book-num">01</div>
+              <div class="book-content">
+                <span class="book-title">The Craft of Tonal Counterpoint</span>
+                <span class="book-meta">Thomas Benjamin · 1979</span>
+                <div class="book-why">A patient guide to species counterpoint and Bach-style voice leading. You are not studying this to write counterpoint — you are studying it to understand why some harmonic movements feel inevitable and others feel forced. That understanding transfers directly to jazz.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> Play Bach chorales slowly, one chord at a time, and listen to how each voice moves. Then try to voice lead simple progressions yourself in four parts at the keyboard. This is difficult and profound.</div>
+              </div>
+            </div>
+            <div class="book-entry">
+              <div class="book-num">02</div>
+              <div class="book-content">
+                <span class="book-title">Harmonic Practice in Tonal Music</span>
+                <span class="book-meta">Robert Gauldin · 1997</span>
+                <div class="book-why">A more complete and musically sensitive tonal harmony text than most. Gauldin's attention to melodic content in harmonic progressions is particularly valuable for musicians who are simultaneously developing melodic hearing.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> Study the chapter on harmonic rhythm — how often chords change and how that creates energy or repose. A drummer who feels harmonic rhythm plays with entirely different timing subtlety.</div>
+              </div>
+            </div>
+            <div class="book-entry">
+              <div class="book-num">03</div>
+              <div class="book-content">
+                <span class="book-title">Schoenberg's Harmonielehre (Theory of Harmony)</span>
+                <span class="book-meta">Arnold Schoenberg · 1911 / trans. 1978</span>
+                <div class="book-why">Not a textbook to work through linearly — a book to read and argue with. Schoenberg's account of how chromatic harmony developed out of the leading-tone impulse gives you a historical and perceptual account of why jazz harmony sounds the way it does. The chapters on altered chords and vagrant harmonies are directly relevant to jazz.</div>
+              </div>
+            </div>
+            <div class="book-entry">
+              <div class="book-num">04</div>
+              <div class="book-content">
+                <span class="book-title">Counterpoint in Composition</span>
+                <span class="book-meta">Felix Salzer &amp; Carl Schachter · 1969</span>
+                <div class="book-why">Salzer and Schachter integrate Schenkerian analysis with practical counterpoint. The result is a deep understanding of structural melody — how the notes that matter most in a phrase move through underlying harmonies, which is essential for both improvisation support and melodic hearing.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> Schenker-style reduction at the keyboard: take a standard tune, strip it to its structural skeleton, then elaborate it. This is advanced but revelatory.</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="supp-bar">
+            <h4>Supplementary for Phase II</h4>
+            <p>Hugo Riemann's historical writings on harmonic function (available in translation) give context for why tonic/subdominant/dominant thinking is so durable. Dmitri Tymoczko's <em>A Geometry of Music</em> (2011) is a more recent account of voice leading's mathematical foundations — demanding but illuminating for the analytically minded.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PHASE III ── -->
+  <div id="phase3" class="panel">
+    <div class="section-header">
+      <div class="section-eyebrow">Phase III</div>
+      <h2>Jazz Voicing &amp; Harmonic Language</h2>
+      <p>Here classical theory meets jazz practice. These books develop jazz-specific harmonic thinking: rootless voicings, altered dominants, tritone substitutions, chord-scale relationships, and the harmonic vocabulary of the bebop and post-bop tradition.</p>
+    </div>
+
+    <div class="phase-grid">
+      <div class="phase-card">
+        <div class="phase-header">
+          <div class="phase-num"><span>3</span><span>Core</span></div>
+          <div class="phase-title-block">
+            <h3>Jazz Harmony — The Essential Texts</h3>
+            <div class="phase-sub">From functional jazz voicings to advanced reharmonization</div>
+            <div class="phase-tags">
+              <span class="tag tag-jazz">Jazz</span>
+              <span class="tag tag-piano">Piano</span>
+              <span class="tag tag-drums">Drum App.</span>
+              <span class="tag tag-theory">Theory</span>
+            </div>
+          </div>
+        </div>
+        <div class="phase-body">
+          <div class="phase-desc">This is the center of gravity of the curriculum. The books here move from foundational jazz theory texts through advanced reharmonization and into the specific harmonic language of the jazz masters. All of them should be worked through at a piano, not merely read.</div>
+          <div class="book-list">
+
+            <div class="book-entry">
+              <div class="book-num">01</div>
+              <div class="book-content">
+                <span class="book-title">The Jazz Theory Book</span>
+                <span class="book-meta">Mark Levine · 1995</span>
+                <div class="book-why">The standard reference for jazz harmony at the intermediate-advanced level. Covers chord-scale relationships, voice leading, reharmonization, and harmonic analysis of standard repertoire. Dense and encyclopedic — use it as a reference text alongside other study, not a linear read.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> Study the chapter on harmonic rhythm carefully. Also: Levine's analysis of how chord complexity relates to rhythmic density is directly applicable to how a drummer should respond to different harmonic moments.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> Work through every voicing chapter at the keyboard in all 12 keys. The two-handed voicings Levine describes are the foundation of jazz piano comping. This alone is months of productive work.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">02</div>
+              <div class="book-content">
+                <span class="book-title">Jazz Harmony</span>
+                <span class="book-meta">Andy Jaffe · 1983</span>
+                <div class="book-why">A more concise and analytically rigorous account than Levine. Jaffe is particularly good on voice leading in jazz — how jazz voicings imply linear motion even in a rhythmically displaced context. Excellent complement to Levine.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">03</div>
+              <div class="book-content">
+                <span class="book-title">Reharmonization Techniques</span>
+                <span class="book-meta">Randy Felts · 2002</span>
+                <div class="book-why">The most systematic treatment of jazz reharmonization available. Understanding how a melody can sit over multiple different harmonic contexts deepens your perception of what's happening harmonically in any given performance — and makes you a more responsive accompanying drummer.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> When you can hear a melody as potentially inhabiting multiple harmonic contexts, you stop playing "the chords on the chart" and start playing the live harmonic event in front of you. That is a significant shift.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">04</div>
+              <div class="book-content">
+                <span class="book-title">Jazzology: The Encyclopedia of Jazz Theory</span>
+                <span class="book-meta">Robert Rawlins &amp; Nor Eddine Bahha · 2005</span>
+                <div class="book-why">A clear, cross-referenced reference work covering the complete vocabulary of jazz theory. Less discursive than Levine, more organized as a reference. Use alongside active transcription and keyboard work.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">05</div>
+              <div class="book-content">
+                <span class="book-title">The Complete Musician</span>
+                <span class="book-meta">Steven Laitz · 2003 (multiple editions)</span>
+                <div class="book-why">Integrates theory and ear training across the full scope of tonal music, including extended and chromatic harmony. The best single-volume bridge between classical tonal theory and the harmonic world jazz inhabits.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> Laitz's keyboard harmony exercises, done consistently at the piano, build the kind of harmonic fluency that makes sight-reading lead sheets and transposing in real time feel natural.</div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="supp-bar">
+            <h4>Supplementary for Phase III</h4>
+            <p>George Russell's <em>The Lydian Chromatic Concept of Tonal Organization</em> (1953) is the influential (and controversial) theoretical system that influenced Miles Davis, Coltrane, and Evans. Whether or not you accept its claims, reading it forces you to think about the logic of jazz harmony from first principles. Paul Berliner's <em>Thinking in Jazz</em> (1994) is the best ethnographic account of how jazz musicians actually learn harmony.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PHASE IV ── -->
+  <div id="phase4" class="panel">
+    <div class="section-header">
+      <div class="section-eyebrow">Phase IV</div>
+      <h2>Form, Melody &amp; Transcription</h2>
+      <p>Melody is the surface of harmony — and for a drummer, understanding melodic phrase structure is as important as understanding chord changes. This phase develops melodic hearing, motivic awareness, and the transformative practice of transcription.</p>
+    </div>
+
+    <div class="phase-grid">
+      <div class="phase-card">
+        <div class="phase-header">
+          <div class="phase-num"><span>4</span><span>Core</span></div>
+          <div class="phase-title-block">
+            <h3>Melody, Form &amp; the Transcription Practice</h3>
+            <div class="phase-sub">How phrases are built, how forms unfold, how you internalize jazz language</div>
+            <div class="phase-tags">
+              <span class="tag tag-jazz">Jazz</span>
+              <span class="tag tag-ear">Ear Training</span>
+              <span class="tag tag-drums">Drum App.</span>
+              <span class="tag tag-piano">Piano</span>
+            </div>
+          </div>
+        </div>
+        <div class="phase-body">
+          <div class="phase-desc">Transcription — the practice of learning music by ear, writing it down, and playing it back — is the primary method of jazz education, before books ever entered the picture. It is irreplaceable. The books here support and deepen transcription practice rather than replacing it.</div>
+          <div class="book-list">
+
+            <div class="book-entry">
+              <div class="book-num">01</div>
+              <div class="book-content">
+                <span class="book-title">The Jazz Piano Book</span>
+                <span class="book-meta">Mark Levine · 1989</span>
+                <div class="book-why">For a drummer studying piano alongside harmony, this is the companion to Levine's theory book — grounded, idiomatic, and full of real jazz examples. Covers voicings, comping patterns, and the specific language of jazz piano. Reading this as a drummer is revelatory: you begin to understand what pianists are doing harmonically in real time.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> Learn to comp simple tunes on piano using the voicings here. Even rudimentary keyboard fluency will transform how you hear the piano in a rhythm section and how you respond to it.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> This is your primary piano study text alongside Phase III. Work through the comping rhythms; your goal as a drummer-pianist is rhythmically idiomatic comping, not virtuosity.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">02</div>
+              <div class="book-content">
+                <span class="book-title">Thinking in Jazz</span>
+                <span class="book-meta">Paul Berliner · 1994</span>
+                <div class="book-why">The definitive ethnographic account of how jazz musicians learn their craft. The chapters on transcription, memorization of vocabulary, and the social transmission of jazz language are essential. Berliner also covers how form is internalized — how experienced musicians "know where they are" without counting.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> The chapters on rhythm section roles and how drummers learn to respond to melodic development are directly applicable. Also: Berliner's account of how form is felt, not counted, should change your practice immediately.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">03</div>
+              <div class="book-content">
+                <span class="book-title">The Structure of Atonal Music</span>
+                <span class="book-meta">Allen Forte · 1973</span>
+                <div class="book-why">This is a challenge book — demanding and analytical — but the underlying skill it develops (motivic analysis, hearing intervallic cells as structural units) transfers to jazz listening in unexpected ways. Understanding how a small interval can generate a whole phrase teaches you to hear jazz melody structurally.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">04</div>
+              <div class="book-content">
+                <span class="book-title">The Melodic Ear: A Complete Guide</span>
+                <span class="book-meta">Lynn Harnsberger · 1996</span>
+                <div class="book-why">A practical workbook for melodic dictation and melodic construction. Combined with transcription practice, it builds the speed of melodic recognition needed to follow a soloist in real time — not analyzing after the fact but hearing as it unfolds.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> Practice melodic dictation at tempos that simulate performance. You want to internalize melodies fast enough to play time that serves them — this requires real-time melodic hearing, not retrospective analysis.</div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="pull-quote">
+            <p>Learn the melody. Know the melody well enough to sing it while you play. The drums should be an extension of the melody, not an accompaniment to it.</p>
+            <cite>— Elvin Jones, paraphrased from various interviews</cite>
+          </div>
+
+          <div class="supp-bar">
+            <h4>On Transcription Practice</h4>
+            <p>No book replaces this: choose a recorded jazz performance, transcribe every note and rhythm by ear (no software), write it out, learn to play it on your instrument or piano, and analyze what you've found harmonically. Do one per month for a year. Transcribe piano voicings (Bill Evans, McCoy Tyner, Herbie Hancock), bass lines (Ron Carter, Paul Chambers), and — critically — melodic solos. The drummer who has transcribed twenty Charlie Parker solos hears differently from the drummer who hasn't.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PHASE V ── -->
+  <div id="phase5" class="panel">
+    <div class="section-header">
+      <div class="section-eyebrow">Phase V</div>
+      <h2>Deep Jazz — Language, History &amp; the Advanced Ear</h2>
+      <p>The final phase addresses the deepest aspects of jazz listening: stylistic language, historical development, and the specific challenges of advanced jazz harmony — including post-bop, free, and modal contexts.</p>
+    </div>
+
+    <div class="phase-grid">
+      <div class="phase-card">
+        <div class="phase-header">
+          <div class="phase-num"><span>5</span><span>Advanced</span></div>
+          <div class="phase-title-block">
+            <h3>The Jazz Tradition — In Depth</h3>
+            <div class="phase-sub">History, aesthetics, and the ear that hears in style</div>
+            <div class="phase-tags">
+              <span class="tag tag-jazz">Jazz</span>
+              <span class="tag tag-drums">Drums</span>
+              <span class="tag tag-ear">Deep Listening</span>
+            </div>
+          </div>
+        </div>
+        <div class="phase-body">
+          <div class="phase-desc">Advanced harmonic hearing requires knowing the tradition deeply enough to hear where a performance is drawing from and where it departs. These books develop the historical and aesthetic intelligence that undergirds truly informed listening.</div>
+          <div class="book-list">
+
+            <div class="book-entry">
+              <div class="book-num">01</div>
+              <div class="book-content">
+                <span class="book-title">The Swing Era / The World of Duke Ellington</span>
+                <span class="book-meta">Gunther Schuller · 1968 / 1989</span>
+                <div class="book-why">Schuller's three-volume jazz history (Early Jazz, The Swing Era, The History of Jazz) is the most musically rigorous history of the tradition. His analysis of harmonic and rhythmic elements in specific recordings teaches close listening. Read with recordings in hand.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> Schuller's accounts of how rhythm section roles evolved — how the drummer's function changed from New Orleans through swing through bebop — give historical grounding to what feels like pure instinct.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">02</div>
+              <div class="book-content">
+                <span class="book-title">Kind of Blue (33⅓ Series)</span>
+                <span class="book-meta">Ashley Kahn · 2000</span>
+                <div class="book-why">A deep account of the making of the most important album in jazz. Kahn's analysis of modal jazz harmony — the specific departure from functional chord-scale thinking that Kind of Blue represents — is essential for understanding post-bop listening. The harmonic world of modal jazz requires a different ear than bebop.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> Jimmy Cobb's drumming on Kind of Blue is a masterclass in space, restraint, and responding to modal harmony. Transcribe his ride cymbal pattern on <em>So What</em>. Then transcribe what Tony Williams did with similar material five years later.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">03</div>
+              <div class="book-content">
+                <span class="book-title">A Love Supreme (33⅓ Series)</span>
+                <span class="book-meta">Ashley Kahn · 2002</span>
+                <div class="book-why">Kahn's account of Coltrane's masterpiece includes careful analysis of the harmonic and structural dimensions of the suite. Elvin Jones's drumming — so harmonically responsive it functions almost as a fifth voice — is studied extensively.</div>
+                <div class="book-drummer-note"><strong>Drum App.</strong> This is required listening for any jazz drummer. Study Elvin's interaction with Coltrane's harmonic language measure by measure. He is not keeping time — he is participating in the harmonic event.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">04</div>
+              <div class="book-content">
+                <span class="book-title">The Imperfect Art: Reflections on Jazz and Modern Culture</span>
+                <span class="book-meta">Ted Gioia · 1988</span>
+                <div class="book-why">A philosophical account of jazz aesthetics — what improvisation means, how spontaneity and structure interact, what the jazz tradition preserves and abandons. Develops the kind of listening that goes beyond identifying chords to understanding musical meaning.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">05</div>
+              <div class="book-content">
+                <span class="book-title">How to Listen to Jazz</span>
+                <span class="book-meta">Ted Gioia · 2016</span>
+                <div class="book-why">Gioia's accessible but substantive guide to active jazz listening. For a musician who already has theoretical grounding, this book reframes listening as an aesthetic and relational act rather than a technical exercise. Particularly useful chapters on rhythm section interaction and the development of jazz form.</div>
+              </div>
+            </div>
+
+            <div class="book-entry">
+              <div class="book-num">06</div>
+              <div class="book-content">
+                <span class="book-title">The Music of Bill Evans</span>
+                <span class="book-meta">Various analytical literature</span>
+                <div class="book-why">Bill Evans's piano voicings are among the most studied in jazz history, and for good reason: they represent a distillation of the voice-leading principles developed in Phases I–III into jazz-specific, pianistically idiomatic form. Numerous transcription books and analytical articles are available. Start with Keith Jarrett's and Evans's lead sheets in the <em>New Real Book</em> and work with recordings.</div>
+                <div class="book-piano-note"><strong>Piano App.</strong> Learning even a small number of Evans voicings by ear and at the keyboard — especially his use of open tenths in the left hand — will accelerate harmonic hearing more than weeks of workbook study.</div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="supp-bar">
+            <h4>Supplementary for Phase V</h4>
+            <p>Ben Ratliff's <em>Coltrane: The Story of a Sound</em> (2007) traces Coltrane's harmonic and spiritual development through his recordings. Gary Giddins and Scott DeVeaux's <em>Jazz</em> (2009) is the best single-volume history. For advanced drummers specifically: Burt Korall's <em>Drummin' Men</em> (2002) profiles the great swing drummers with attention to their musical (not just technical) contributions.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PRACTICE ROUTINES ── -->
+  <div id="practice" class="panel">
+    <div class="section-header">
+      <div class="section-eyebrow">Daily &amp; Weekly Work</div>
+      <h2>Practice Routines</h2>
+      <p>Books are the map; these routines are the territory. Each one is designed to integrate ear training, piano study, and drumming into a unified musical practice.</p>
+    </div>
+
+    <div class="practice-grid">
+      <div class="practice-card">
+        <span class="practice-card-icon">🎹</span>
+        <h3>The Daily Piano Ear Session</h3>
+        <p>15–20 minutes every day at the keyboard, separate from technical piano practice. This is ear work at the instrument.</p>
+        <ul class="practice-list">
+          <li>Play a ii–V–I in a different key each day (12-key rotation, one per week)</li>
+          <li>Sing the root, third, and seventh of each chord as you play it</li>
+          <li>Play a standard melody over the changes in your current key; sing along</li>
+          <li>Voice-lead the progression in four voices; notice which voice has the smallest motion</li>
+          <li>Transpose one measure of a transcription into today's key</li>
+        </ul>
+      </div>
+
+      <div class="practice-card">
+        <span class="practice-card-icon">🥁</span>
+        <h3>The Harmonic Drumming Session</h3>
+        <p>Once a week: practice with recordings, treating the harmony as the primary object of attention.</p>
+        <ul class="practice-list">
+          <li>Play along with a standard at low volume; every 4 bars, stop and sing the current chord</li>
+          <li>Map the form of an unfamiliar tune by ear before looking at the chart</li>
+          <li>Play time without a chart and predict turnarounds by ear alone</li>
+          <li>Listen to the piano voicings and respond dynamically to their density</li>
+          <li>Transcribe 8 bars of the pianist's comping; identify the voicing type used</li>
+        </ul>
+      </div>
+
+      <div class="practice-card">
+        <span class="practice-card-icon">👂</span>
+        <h3>Monthly Transcription Practice</h3>
+        <p>One complete transcription per month. Rotate through different instruments and eras.</p>
+        <ul class="practice-list">
+          <li>Month 1–3: A melodic instrument (saxophone or trumpet) on a bebop head and solo</li>
+          <li>Month 4–6: Piano left-hand bass lines (Red Garland, Ahmad Jamal, Bill Evans)</li>
+          <li>Month 7–9: Piano voicings — right hand only, 8 bars of comping</li>
+          <li>Month 10–12: A complete drum solo or extended passage (Elvin, Tony, Roy Haynes)</li>
+          <li>After each: analyze harmonically; identify every chord and substitution</li>
+        </ul>
+      </div>
+
+      <div class="practice-card">
+        <span class="practice-card-icon">📖</span>
+        <h3>The Reading Integration</h3>
+        <p>How to connect book study to instrument practice so theory doesn't stay abstract.</p>
+        <ul class="practice-list">
+          <li>After each chapter in Levine or Gauldin: play every example at piano in 3 keys</li>
+          <li>For each new chord concept: find it in a real recording before the next session</li>
+          <li>Keep a theory notebook: one new concept per week, with a recorded example</li>
+          <li>Study one standard per month analytically: form, harmonic rhythm, substitutions</li>
+          <li>Bring one analytical observation to every rehearsal or session</li>
+        </ul>
+      </div>
+
+      <div class="practice-card">
+        <span class="practice-card-icon">🎼</span>
+        <h3>The Standard Tune Deep Dive</h3>
+        <p>One tune per month, studied from every angle. This is the core integration practice.</p>
+        <ul class="practice-list">
+          <li>Sing the melody from memory in two keys</li>
+          <li>Play the melody on piano with two-handed chords beneath</li>
+          <li>Analyze the form and every chord change in writing</li>
+          <li>Listen to 5 recordings and note how each rhythm section treats the harmony</li>
+          <li>Play the tune as a trio (with recordings) and record your drumming; review</li>
+        </ul>
+      </div>
+
+      <div class="practice-card">
+        <span class="practice-card-icon">🎵</span>
+        <h3>Singing at the Kit</h3>
+        <p>The most underused practice for drummers developing harmonic ears. Begin immediately.</p>
+        <ul class="practice-list">
+          <li>Play a basic swing beat and sing the melody of a standard you know well</li>
+          <li>Sing the roots of the chord changes while playing time</li>
+          <li>Sing a melody line while playing a drum groove that responds to the phrases</li>
+          <li>Call and response: sing a phrase, then answer it on the drums</li>
+          <li>Practice this with a metronome before trying it with recordings</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pull-quote">
+      <p>The ear is a muscle. It does not develop through understanding — it develops through daily use, through hearing, singing, and playing the same materials until they are inside you.</p>
+      <cite>— Adaptation of a common conservatory principle</cite>
+    </div>
+  </div>
+
+  <!-- ── RECORDINGS ── -->
+  <div id="recordings" class="panel">
+    <div class="section-header">
+      <div class="section-eyebrow">Essential Listening</div>
+      <h2>Records to Study</h2>
+      <p>Each recording here is paired with a specific listening focus — not casual listening but the kind of attentive, analytical hearing that develops the ear. Organized by what you are studying, not by era.</p>
+    </div>
+
+    <div class="rec-grid">
+      <div class="rec-category">
+        <div class="rec-category-header">
+          <span class="icon">🎹</span>
+          <h3>Piano Voicings — Study These</h3>
+        </div>
+        <div class="rec-list">
+          <div class="rec-item">
+            <div class="rec-title">Kind of Blue</div>
+            <span class="rec-artist">Miles Davis · 1959</span>
+            <div class="rec-why">Bill Evans's voicings on So What and Flamenco Sketches are the textbook for open, modal voicing. Transcribe the piano intro to Blue in Green.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">Waltz for Debby</div>
+            <span class="rec-artist">Bill Evans Trio · 1961</span>
+            <div class="rec-why">Evans's most accessible trio recording. Study his left-hand voicings throughout — they are consistent, logical, and beautiful examples of jazz voice leading in action.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">Maiden Voyage</div>
+            <span class="rec-artist">Herbie Hancock · 1965</span>
+            <div class="rec-why">Post-bop voicings with quartal harmony. Hancock's voicings are spacious and ambiguous — excellent study for the drummer learning to respond to harmonic color rather than explicit chord tones.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">Giant Steps</div>
+            <span class="rec-artist">John Coltrane · 1960</span>
+            <div class="rec-why">Tommy Flanagan's piano on the title track is a study in how to navigate rapid harmonic movement. Also: study what the harmonic rhythm does to the energy of the performance as a whole.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="rec-category">
+        <div class="rec-category-header">
+          <span class="icon">🥁</span>
+          <h3>Drum &amp; Harmony — Specific Study</h3>
+        </div>
+        <div class="rec-list">
+          <div class="rec-item">
+            <div class="rec-title">A Love Supreme</div>
+            <span class="rec-artist">John Coltrane · 1964</span>
+            <div class="rec-why">Elvin Jones plays harmonically. His ride cymbal patterns shift density in response to harmonic tension. Map his dynamics against the chord changes throughout Resolution.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">E.S.P.</div>
+            <span class="rec-artist">Miles Davis · 1965</span>
+            <div class="rec-why">Tony Williams at 19. Study how he anticipates harmonic changes, creates tension through polyrhythm against the harmonic rhythm, and releases that tension at cadential points.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">The Trio (Live at the Village Vanguard)</div>
+            <span class="rec-artist">Bill Evans / Paul Motian · 1961</span>
+            <div class="rec-why">Paul Motian's drumming is perhaps the most harmonically integrated in jazz history. He plays form, not time. Study how his use of space relates to Evans's harmonic rhythm.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">Misterioso</div>
+            <span class="rec-artist">Thelonious Monk Quartet · 1958</span>
+            <div class="rec-why">Shadow Wilson and later Roy Haynes navigating Monk's idiosyncratic harmonic language. A study in how a drummer adjusts to unusual phrase lengths and displaced harmonic resolutions.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="rec-category">
+        <div class="rec-category-header">
+          <span class="icon">🎶</span>
+          <h3>Melody &amp; Form</h3>
+        </div>
+        <div class="rec-list">
+          <div class="rec-item">
+            <div class="rec-title">Saxophone Colossus</div>
+            <span class="rec-artist">Sonny Rollins · 1956</span>
+            <div class="rec-why">Rollins's motivic development on St. Thomas and Blue 7 is the classic study in how melody generates structure from small intervals. Max Roach responds to these motifs directly.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">The Shape of Jazz to Come</div>
+            <span class="rec-artist">Ornette Coleman · 1959</span>
+            <div class="rec-why">Melodic improvisation freed from functional harmony. An ear trained on standard jazz harmony will find this initially disorienting and then revelatory about what melody can be.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">Night and Day (Any Sinatra)</div>
+            <span class="rec-artist">Frank Sinatra / Nelson Riddle</span>
+            <div class="rec-why">Sinatra's phrasing over standard harmony is the master class in how melody shapes time. A drummer who understands Sinatra's breath-phrasing plays differently behind vocalists entirely.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="rec-category">
+        <div class="rec-category-header">
+          <span class="icon">🌊</span>
+          <h3>Advanced Harmony in Context</h3>
+        </div>
+        <div class="rec-list">
+          <div class="rec-item">
+            <div class="rec-title">Coltrane Changes (Any Recording)</div>
+            <span class="rec-artist">John Coltrane · 1960–62</span>
+            <div class="rec-why">The rapid-key-center modulations of Coltrane's harmonic system require a specific ear. Study Impressions and Giant Steps alongside Levine's analysis of third-related harmony.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">Explorations</div>
+            <span class="rec-artist">Bill Evans Trio · 1961</span>
+            <div class="rec-why">More harmonically adventurous than Waltz for Debby. Evans's reharmonizations of standards here are the textbook for understanding how a tune's melody can sustain radical harmonic reimagining.</div>
+          </div>
+          <div class="rec-item">
+            <div class="rec-title">The Black Saint and the Sinner Lady</div>
+            <span class="rec-artist">Charles Mingus · 1963</span>
+            <div class="rec-why">Mingus's harmonic world draws on everything from blues to Ellington to Bartók. A challenging listen that rewards the advanced ear — and a drummer's study in how rhythm section roles can dissolve and reform.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="supp-bar" style="margin-top:0;">
+      <h4>On Listening Practice</h4>
+      <p>Use headphones for study listening. Slow recordings down to 75% speed when transcribing (Transcribe! software is the standard tool). Listen to the same recording a minimum of ten times before considering you have heard it. The first few listens are orientation; the later listens are where understanding develops.</p>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <p><span>The Listening Drummer</span> · A Curriculum in Harmonic Ear Training<br>
+  For the jazz drummer developing musical intelligence through books, piano, and deep listening</p>
+</footer>
+
+<script>
+  function showPanel(id) {
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(id).classList.add('active');
+    event.target.classList.add('active');
+    window.scrollTo({ top: document.querySelector('.nav-sticky').offsetTop - 10, behavior: 'smooth' });
+  }
+</script>
+
+</body>
+</html>

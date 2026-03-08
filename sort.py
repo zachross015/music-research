@@ -2,7 +2,7 @@ import os
 import csv
 import re
 import shutil
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 
 INPUT_DIR = '.'
@@ -10,6 +10,11 @@ SCRATCHPAD = 'scratchpad.md'
 ARCHIVE_DIR = 'archive'
 OUTPUT_DIR = 'journal'
 DRAFTS_PREFIX = 'DraftsExport'
+
+def normalize(dt):
+    if dt.tzinfo is None:
+        return dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
 
 def ensure_dir(path):
     if not os.path.exists(path):
@@ -127,7 +132,7 @@ def process_entries(entries):
         existing = load_week_file(week_file)
 
         # Sort entries chronologically by creation time
-        sorted_entries = sorted(day_entries, key=lambda x: x[0])
+        sorted_entries = sorted(day_entries, key=lambda x: normalize(x[0]))
         
         for dt, header, body in sorted_entries:
             if header in existing:
