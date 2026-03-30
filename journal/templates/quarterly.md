@@ -31,5 +31,5 @@
 
 ### Quarterly Ritual or Recommitment with Him
 
-### Goals for next quarter
+### Focus for next quarter
 
