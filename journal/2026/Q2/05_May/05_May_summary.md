@@ -36,7 +36,7 @@ Proceeding to the end of the month, I continued stretching my social growth furt
 <!-- Write out a diagnosis of the root problem that occurred between recurring frictions and -->
 <!-- work to find the single, simplest action you can take (consistently) towards removing that issue. -->
 
-I don't think peace or beauty are things I value that much (yet). Up until now, I think I've always prioritized fighting fires, doing anything to calm obsessive thought loops and create an image of myself. But from center, the things I enjoy and feel motivated to pursue are much different, and I haven't developed enough of a draw towards the peaceful things I enjoy like reading a book, going to live shows, listening to music, etc.
+I don't think peace or beauty are things I value that much (yet). Up until now, I think I've always prioritized fighting fires, doing anything to calm obsessive thought loops and create an image of myself. But from center, the things I enjoy and feel motivated to pursue are much different, and I haven't developed enough of a draw towards the peaceful things I enjoy like reading a book, going to live shows, listening to music, etc. Its specifically around unknowns and risky--wrt payoff--events: new albums, new books, conversation with strangers, social gatherings, or adventures into nature. 
 
 ### Goals
 
