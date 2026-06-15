@@ -1,4 +1,4 @@
-# Week [[week_number]]
+# Week 22
 
 ---
 
@@ -17,6 +17,10 @@
 ---
 
 ## Review
+
+### What stopped you from achieving last week's goals?
+
+### What does life look like at the end of the week?
 
 ### Goals
 
