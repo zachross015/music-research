@@ -12,6 +12,7 @@ In an effort to summarize learnings:
 - Vertical relationships create superiority/inferiority complexes, while horizontal ones make it easier to connect
 - Self-Reliance is one of the highest priorities in Adlerian psychology, and explains many of my insecurities
 - Learning and living all happen more cleanly when you (ego) stop interfering with them and instead allow yourself to enjoy it
+- Reward can be, and is very often, equally as damaging as punishment. Feedback, acknowledgement, and encouragement are much more self-fulfilling methods of achievement. 
 
 
 ### Achievements
