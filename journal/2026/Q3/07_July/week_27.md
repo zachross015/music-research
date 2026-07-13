@@ -21,3 +21,112 @@ Already regretting the ice cream, and I think a lot of indulgence comes from exh
 
 Committing to a meal and just going out and getting the meal really helps.
 
+# 06-29-2026
+
+Hand me the aux #ideas series of videos in a car with friends, chained synths and playing music on the road
+
+# 06-30-2026
+
+I just turned 29 and I'm still single, living at home, making less than $20k
+
+Then do something about it! DUH!
+
+When to act vs when to visualize? I think you set aside time to visualize/prepare, and do that with full attention, then spend the rest of the time living with full attention. 
+
+He doesn't hesitate to call his friends out of the blue
+
+He's always wearing a smile
+
+He views all his relationships horizontally (need to imagine this)
+
+In all aspects, I feel like I'm shown the power of visualization and focus. Like to sit and see those things as if they were a reality means to encode into the mind a destination. If I sit here and imagine the weight, the habits, the health, the identity of that person, and then a path to there, I may not 100% achieve it but I'll get close. Then to let it go completely. Seeing it not as an outcome, but as an ideal that I begin living everyday as character traits, and then allowing the lateral learning process to unfold. And then seeing structure as something that develops along the way, as work is done, rather than as a premonition. At that point, all it takes is completely present living, where fear doesn't exist and all outcomes are byproducts of a joyful and generous life. That's what following the path means.
+
+# 07-01-2026
+
+You feel ecstatic when someone invites you to their show, it makes you feel included
+
+I think generally speaking, exhaustion prohibits presence. Falling into compulsion becomes so much easier. I think having the beginning of this year be the detox brought a new awareness to this perspective, because the challenge of not having these sources made me actually address the underlying cause. It's that part of the Hero's Journey where it's apparent things can't go back to the way they were. Reintroducing these taints into the mix means learning how to abstain. Without a doubt, they are a cause of the exhaustion and pain.
+
+Visualization I think needs more depth if you want to make it real. Like not only visualizing the apartment, the job, but also the other details of like: 
+- How am I going to, in this new environment, give Mu the life she deserves? (This kept me up last night.)
+- How do I want to decorate the apartment? How do I want to address practice? 
+- Social life? 
+- Gigs?
+- Meditation?
+- How do I see myself approaching mindfulness and presence? How does it look like to grow more stoic?
+And in this vein, the more you ask the more you get.
+
+This heat is killing me #ideas parody of these dreams are killing me
+
+Did something really important today: after finishing delta rune (holy fuck it's so good) I was debating on buying and laying Silksong. Stared at it for a while, went outside to think about it, then came in and deleted steam and decided to go to bed. Decided that I could handle the emotions, the grief, that came with another chapter of delta rune, and I'd rather cope healthily with the grief than fall into the same situation I'd been stuck in before. I disliked the idea of once again becoming someone trapped by their addictions and compulsions, and even this slightest touch of them the past few days was enough to remind me the difference between where I am and where I started this year, light years ahead of where I wa and what I'm capable of dealing with. Very proud of myself for not giving that up
+
+On a similar note, can tell a lot of my compulsions right now are directly from exhaustion
+
+# 07-02-2026
+
+Update: just needed a nap!
+
+Realized I didn't even post the rant on here, was struggling to practice. Just found myself dreading it, wandering between YouTube, being on the floor, and walking around rooms. Felt hella tempted to get on Pinterest and YouTube and do legit nothing. Eventually looked around and was like, either I need water, food, or a nap, and so it went. After napping for ~30 minutes I felt inspired to get back on the kit. Turns out after a morning of walking mu, running, and meditating, and then a little practice, I was tired. Who would've thought?
+
+Coming to work, I realize the other side to all I've been feeling is like...Deltarune really fucks me up. Like I think in a good way? The music is fucking impactful that after each chapter, I'm left in this sea of grief. I listen to the music and I remember everything about it, I can feel exactly the emotions put into it and how it builds up to this idea of like...I don't even know how to explain it. It's something I want to give to others, but holy shit how does someone make that? Like it's so god damn good and it makes me feel so inferior. And at the same time, it's like I'm struggling to deal with the emotion, the pain, the withdrawals. It's some of the best art I've ever seen and I can't get enough of it. And I listen back and all I feel is grief. And I think all the rest of the compulsions come from the fact that this genuinely creates some major turbulence. Major emotions that are tantamount to relationship drama. It's something I know I can survive, but it's painful. I came into work agitated because of it. Fuck dude.
+
+My dream is to create art and experiences like Toby, Yussef
+
+Like all of it reminds me of how fickle life is in a way
+
+I thought more about it during work and started noticing how much these emotions impact presence. The grief is held onto, and I don't feel like I'm here. Maybe partially caffeine crash, but I get aggressive. I don't necessarily act that way, but I fucking feel it
+
+It really does just come out as aggression when I'm like this
+
+I think the way to become like them is really just to start actually releasing shit. Like the pattern between Snarky, Toby, Almost Friday, and Yussef is that they just keep creating and releasing and each time it's bigger and better.
+
+I feel like the version of that, at least for Nomad, that I want to see is to do live productions of albums with thematic growth. Songs are complete in and of themselves, but they continue to have thematic development throughout, from beginning to end, with themes repeating across albums
+
+But I think the hardest part is distinguishing between the experiencing of art like that and creating it, because it think the latter is not at all the same
+
+At the same time, there's a temptation to use these feelings to try and rush the process of all of it. Creating for broad audiences, creating for no one, and not showing the work to anyone. Something about it all makes me want to hide, and it makes me feel pressured to produce, even when my greatest works come from calm. It's an emotion I need to learn how to handle
+
+It all makes me just feel so… Inferior again. Like it's… That game coming out and then Israel quitting and Drew getting a teaching job, look at all these things and then I feel guilty for like watching YouTube and playing video games and like I'm behind. It's complicated because like I try not to compare myself and then this shit happens and it's not like any of these things are bad things it's just I see them and it makes me I just discredit myself and I lose courage. I lose faith and confidence. Like getting into all the visualization stuff I think is hard because it feels like this is the emotion it creates just this depression. And I mean it's not the end of the world. It's just hard to have any kind of like presence with all of it because it feels like it put such a huge pressure on everything and it just shines to a spotlight on like where I'm behind and the risks I'm not taking and stuff like that. I just puts everything about where I am and perspective where like Toby Fox was you know making Undertale in my age and Drew has now played red rocks and teaches lessons, it's like where the fuck am I? What do I really have to show for? And I mean like truly I am building things like I'm building a Moore against honest to myself path that's taking more time. Like the band I'm with now genuinely plays music. I enjoy and I feel like we're gonna rock some socks off. And I can see myself soon getting a lesson's job and Eavan building at my own thing. But seeing all these things where other people are like shining just makes me feel like there's too much pressure to succeed, and I don't really know how to let go of those things and be present again. Like I don't know how to have the type of presence right now that actually makes these things possible and makes me courageous.
+
+# 07-03-2026
+
+I think the whole philosophy I'm looking for is one-take wonder. Like all videos are a single camera, outside, single take, etc. minimalist at its finest
+
+Obsession with nomad, took me a while to see it but now I recognize the signs. Started out as compensation for feelings of inferiority, and it's spiraled into constantly thinking about the song 
+
+Letting it go is the best move here
+
+One #idea for the whole concept is lean into the tv show thing entirely. 13 songs once a year for 5 years (or every other year) and keep it consistent. Creates a lot of hype around subsequent releases and keeps it prominent for the duration
+
+I'd take for granted all the ways
+You'd save me from myself
+On my darkest days
+I'd stay alive just to see you smile again
+#lyrics #grief
+
+# 07-04-2026
+
+Post race thoughts:
+- A lot of times, I'll be judgemental of how I look in pictures. Realizing now it's just a form of non-acceptance, and if I begin to look at myself with loving eyes, then I'll gain much confidence and won't need someone beautiful to prove my beauty
+- Social strength is blooming like a plant. Slowly, but buds are coming through. Last year, I didn't talk to any one during the race. This year, at least 5 people (if even just in passing), and yelled a couple times
+- I feel less anxious around new folk, less forced. I got along well with Josh's friends, and Josh and I connected a lot. It was easier to be myself around them and to let connections and conversations grow naturally. Could see how friendship naturally flourishes just as a byproduct of the practice of spending time together. And how just being myself is enough. That said, I'd wished I felt more curious about them, said more or at least asked more questions 
+- My "method" for learning music right now is fairly solid, and for the scenarios I'm in passes me with flying colors. The good part is I can deliver the current stuff while the bad is that I have little to stress test my learning. It's like I'm running 5ks after training for a marathon
+
+OHH I get it, I don't like smiling BECAUSE I won't accept my smile. Easy fix!
+
+Feeling really angry and really horny
+
+BUT on the bright side, finally feeling present enough to resist. Probably due to eating well yesterday?
+
+Honestly makes sense, probably withdrawals. It's been 4 days since the last one again, this is usually how long it takes.
+
+I just gonna kind of rant because I feel like know why I'm angry for one. I don't wanna do this fucking gig because basically an hour away and it's gonna be in the heat and I have to wear a fucking suit and I don't know how to make Ezra's music sound good and dog has reached a point where he's fucking ungrateful and then I can't figure out how to make his fucking song sound good because none of them have form and none of them have groove and they changed constantly and I think the reason that people don't listen to them is because they changed constantly and it's hard to grasp on anything and there's no like tension there's no release there's none of this and I don't feel like I can say it to him because he fucking hired me and I don't wanna lose that position or lose him as a friend and then I also feel stressed because you know there's people gonna be at this gig really just one person who if I can impress them then it opens up a whole new avenue of music so I feel pressured to try and make this song this song sound good which impossible feels impossible for me alone and then on top of that like with all my new goals and stuff I feel like this whole idea of being social is recalibrating and I'm trying to figure out where I am in it and like I feel pressured there too because I feel like I'm not networking well enough at the very least have like a mixed up interpretation of what it means to connect with people you know like I think some part of me thinks you show up at the gig and you instantly bond with other people as if you were already friends. I think I get frustrate because to somebody I still think I'm approaching it from like a point of manipulation or trying to control the outcome because I'm hoping to go in there and make a friend or at least make an impression and be able to talk to people and it all feels forced. I was the same way Josh's friends because I show up and like I talk to them and I feel all right around them like I don't feel anxious or anything, but I don't know how to like. Keep the conversation alive not that I'm like killing it or anything, but it's like I feel like I see myself as someone who can like connect with people easily and get people talking and really talk on my own and like create I don't know a place where we stay connected beyond the activity, but I'm just wondering now if that's like unrealistic, you know it's like my concept of making friends is outdated if it's really just about showing up and being present it's like… I feel like the problem is I feel like I'm doing it wrong because… It's hard to tell. Like when I started doing music, you know the way of networking was like you show up and you go and talk to the people you trade names you trade information and you hang out with them the whole time it's like I still do that but I guess I feel like there needs to be more like there's something I'm missing here and I don't really know what it is
+
+I feel like I just like want to push it faster I guess? You know it feels like there's something in my ability or in my ballpark where if I'm courageous enough that the relationship develops faster you know like we exchange information we want to hang out, we wanna play together stuff like that and I guess I always expect it to be something that I can do in that moment when it feels like maybe it's more so something that I do outside of that moment and like by seeing them again. It's just like a really confusing dynamic.
+
+Have to recenter, it's the only way
+
+I think a lot of the issue I faced this week was because the week prior I'd really kind of like strong armed focus on drums and so like this week, I just kind of resented it and jazz wasn't appealing in drums weren't appealing and I think it kind of made me panic. I think also getting ready for the 10K that was like my primary focus and also like the teaching stuff. I think I was like trying to force myself to practice this week when I just didn't feel motivated to do it.
+
+I think continuing to be hard on myself here is just reinforcing my dad's self defeating way of ingraining the lesson. Because growth in social atmospheres, or as a band, comes from the natural learning process. I think the problem with my approach has been reminiwcining on what's "wrong" with me and my approach instead of...actually learning.
+
