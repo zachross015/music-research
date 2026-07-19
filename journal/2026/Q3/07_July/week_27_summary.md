@@ -24,3 +24,27 @@ Most of the week was spent in the grind. Seeing the quality of content that Toby
 - I can't find a way to enjoy my own soloing or comping on the drum kit, possibly due to an illusion on what good improv is here and on the other hand just lack of good communication skills on the kit and on the last hand doubting the practice
 - Visualization brought up alot of pain in decision making, especially around trying to find a way for Mu to be involved in my life as I move on
 - Falling out of line with the path
+
+
+### Possible Actions
+
+Outcome Independent Actionables
+
+Small Actions (Job)
+- Finish Resume (top priority)
+- Talk to Danny, for advice and also recs
+- Set up account on lessons online, or in home
+
+Small Actions (Self-Promotion/Entreprenuer)
+- Ask Jalen about content that's genuinely helpful
+- Visualize self as a content producer here 
+	- Accept it mainly
+
+Repeatable Actions
+- Post on insta openings for lessons (weekly)
+	- It'll be good to also post other content
+- Post collaborative reel on insta (weekly)
+- Message people to start jam sessions
+- Message people about hanging out
+- Find 1 company that's hiring online
+- Post 1 flyer
