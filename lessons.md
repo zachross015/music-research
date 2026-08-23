@@ -11,3 +11,10 @@ Because all we are appendages to a greater body. A hive mind. Communicating is j
 You grow up learning and believing the world has a set of rules and following them. But when you free your awareness/attention from the tasks of survival, you learn that there are no rules. Pursuing logic and reason is a means of dividing what's true about nature from what's been an experienced on an individual level. And having courage is just a means of being willing to take action to understand the difference
 
 It's a burden to become aware of too many things before you are ready
+
+It's easy to feel accomplished by reading about others feats, but it's no substitute for doing the work.
+
+
+Best way to approach chess: approach each game as a curiosity rather than a definitive win condition. Seek not to win, but to enjoy the game, and you will always win. So when in a tight bind, have enough grace to ask "what if?"
+
+Slow enough to enjoy/be curious, fast enough to stay engaged
