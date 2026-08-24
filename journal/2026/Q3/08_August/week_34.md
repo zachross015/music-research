@@ -177,7 +177,7 @@ I have to decide to get off insta. What is it doing for me?
 
 It's pride! I'm stuck in pride!
 
-What I was getting at with drums yesterday is like...it's a feeling. When I play now, I get closer to this state of purity. Learning about it, listening to it, teaching it, and especially playing it all contribute.
+What I was getting at with drums yesterday is like...it's a feeling. When I play now, I get closer to this state of purity. Learning about it, listening to it, teaching it, and especially playing it all contribute. #evidence
 
 # 08-21-2026
 
