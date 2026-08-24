@@ -14,7 +14,8 @@ It's a burden to become aware of too many things before you are ready
 
 It's easy to feel accomplished by reading about others feats, but it's no substitute for doing the work.
 
-
 Best way to approach chess: approach each game as a curiosity rather than a definitive win condition. Seek not to win, but to enjoy the game, and you will always win. So when in a tight bind, have enough grace to ask "what if?"
 
 Slow enough to enjoy/be curious, fast enough to stay engaged
+
+You have to realize that she loves you, she supports you, but she'll never understand you. Look at the art she participates in. She eats the same foods, reads the same books, listens to the same music she did 30 years ago, and spends her time scrolling her phone. Her only breath of art is interior design and woodworking. Nothing you write will ever satisfy her because she doesn't listen to new music. She doesn't go to the movies. She doesn't read new books. She doesn't try new foods. She hardly leaves the neighborhood except to drink at the same bars over and over again. Novelty is not a motivator for her AND THATS OKAY. She's allowed to be all those things. It's only a problem if you make it one. Don't value yourself based on the opinions of someone who isn't even trying to change and someone who isn't your target demographic in the first place.

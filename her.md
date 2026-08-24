@@ -1,0 +1,1 @@
+She reads fiction. She's not intent on becoming someone, because She's already everything she could ever hope to be.
