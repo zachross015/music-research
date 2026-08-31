@@ -21,3 +21,14 @@ Slow enough to enjoy/be curious, fast enough to stay engaged.
 You have to realize that she loves you, she supports you, but she'll never understand you. Look at the art she participates in. She eats the same foods, reads the same books, listens to the same music she did 30 years ago, and spends her time scrolling her phone. Her only breath of art is interior design and woodworking. Nothing you write will ever satisfy her because she doesn't listen to new music. She doesn't go to the movies. She doesn't read new books. She doesn't try new foods. She hardly leaves the neighborhood except to drink at the same bars over and over again. Novelty is not a motivator for her AND THATS OKAY. She's allowed to be all those things. It's only a problem if you make it one. Don't value yourself based on the opinions of someone who isn't even trying to change and someone who isn't your target demographic in the first place.
 
 Every flower wilts.
+
+Sometimes I don't want to play chess, I want to mindlessly go through the motions and win without trying. 
+
+Generosity and learning arises while focusing on what's within. I
+think that's what the greats hint at. Like when I'm on bar, I go
+faster by focusing on my breath. When I'm teaching, I learn more
+while focusing on breath. Id wager that I'd even be more generous by
+focusing on my breath. I think it's because doing so keeps you calm
+and lowers the stakes.  Channeling that externally is like displacing
+the center of gravity. But channeling it internally is opening a gap
+for the unconscious mind or possibly an inner deity to take over.
