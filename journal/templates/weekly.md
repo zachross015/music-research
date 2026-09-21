@@ -27,3 +27,7 @@
 ### Lessons
 
 <!-- Create an unordered list of things which deserve rememberance. -->
+
+## Goal
+
+<!-- Define one concrete goal for the week to prioritize. -->
