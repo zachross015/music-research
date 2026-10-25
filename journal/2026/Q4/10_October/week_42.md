@@ -60,3 +60,66 @@ Wednesdays Smith
 Napoleons Monday, Wednesday
 Beautech and Heirloom
 
+It's easy to be exceptional among the ordinary, and I'm not far from that. But going with Ryan to these open jams will showcase me to other exceptional players, beyond my skills, and my goal is to be exceptional among this crowd. What does that take?
+
+# 10-14-2026
+
+Why am I so worried about not getting paid here? Or specifically, why am I holding onto it be anxiety surrounding the confrontation?
+
+I feel like partially I just feel anxious right now. The coffee plus lack of sleep is making it. It's just attached to this specific issue. There's also just stress around the misunderstanding, like if I'm wrong and that's the actual value then I'm being underpaid for the amount of work I'm putting in, in which case I'd have to rebudget and I'm not nearly out of the clear as I thought I'd was which is a major disappointment. That and there's no clear reality where I'd be able to leave Starbucks just doing this. And I guess that's the main thing. I guess I'm looking for something in my control here
+
+I really hate practicing this little. I WANT TO PRACTICE MORE
+
+my worry is more like I might be practicing 1 hour a day, but there’s probably someone out there practicing 3x as long in the same constraints. or really, doesn’t have these constraints and has the ability to practice 3x as long. it’s like I imagine with 8 billion people in the world, there’s at least one person with the same background, same drive, and same direction that’s probably outpacing me. or on the other end, if I go to a jazz jam there are plenty of people there who have been studying the genre basically their whole life. I try to like leverage my pride here and reason with myself that they’re where they are because the world made them that way instead of carving their path, and given their background they couldn’t if they tried. but I feel like that’s only true for the scenes I’ve been stuck in, like the indie scene where quality of musicianship isn’t treasured nearly as much. it makes me wonder if, in professional circles, are my methods lacking? like if there were two of us side by side going in the same direction but they had the head start of going to music school, would I be able to catch up to them with the dilligence of my practice? or are they not only ahead in distance but also in velocity?
+
+A cool #project would be to do the review on all my existing journals as a broader overview on my progress, as well as an easy way to delve down into deeper details
+
+You can also just pick a way of living, find the budget that a lots that, then give anything else above that away
+
+YouTube has become a problem again
+
+Connecting with Neil is a matter of sneaking the lessons into the songs
+
+# 10-15-2026
+
+I see what culdasa says with striving. Attachment to any desire limits the options and opportunities to one's you can imagine, but remaining relaxed and calm without desire allows opportunities to flow in naturally
+
+Things I need desparately:
+- Sleep
+- A real fucking meal
+- Water
+
+Joggers go better with flat footed shoes
+
+Vision Studios
+
+# 10-16-2026
+
+What scares me with the open jam Saturday:
+- what if I'm good enough that I get picked up? And then I tour or everything works out and I get all that I want? What if I have to leave my family behind? My dog? The idea terrifies me
+- What if, on the other end,I'm so far below their level that I couldn't possibly catch up in my lifetime? And I'm forced to give up?
+
+There's an ease of motion around Her. Like the peak experiences I've felt at Starbucks and on the stage happen all the time. She's always a step ahead, like she's reading my mind. 
+
+It all makes me think, like if I find these things...what next? What if I get that partner, get to tour, or get bigger shows and I'm still unhappy? Or like what if I'm unhappier there than I am now? It's in that I see what they mean by unnecessary striving. These desires always keep happiness on the other side of a hill, but you could just as easily feel content now and take those opportunities as an adventure. The jam session tomorrow is nothing more than a jam session. But how do I actually believe these things?
+
+The part I need to work on with meditation is mainly staying focused. The returning is simple when it happens
+
+When I look at it deeper, the pain comes from my attachment to Mu. Like I guess going to this jam session feels like a signature on Mu's death certificate. She's getting older and I don't want to miss a moment of her life ya know? I mean it's not just that, obviously there's a lot of fear around just being there, but I can imagine seeing her as I leave, knowing that she'll never be able to understand. And all I can imagine while I'm gone is how sad she'd get, and how she may just deteriorate exponentially faster without me there. It's devastating. 
+
+And so all I wonder is like...is that what I want? A lifetime of that? A lifetime of trading what I love doing for what I love being? Is that even true, or have I come up with this concept? There has to be a middle ground here. There obviously is, I mean Ash Soan, Benny Greb, Gavin Harrison, and Larnell Lewis all have families.
+
+I think with Mu, it's specifically with how old she is.
+
+Neil Peart also had a family. So did Danny Carrey, Dave Grohl
+
+Don't do yourself the disservice of trying to imagine your entire life at once. It would just be a jam session, that's all.
+
+Zooming out, it's more like I can't imagine a future where it all works out. I feel angry and scared right now. And the thought of Mu passing somehow playing a role in this new chapter feels egregious.
+
+Like what goes through my head is: what if it does work out? What if I go to this jam session and I'm instantly a desirable musician? If I go visit a studio and I'm suddenly a session musician? What if I find the perfect love somewhere in the middle? What if I find more perfect friends that all the sudden make me feel like I'm not so alone? Then shit is weird, because I have no problems and suddenly life is just...basically end game. What then? If I get everything I don't have right now, then what is next?
+
+Or maybe not that o much as if...what if everything is worse down that road? What if all that's there is more loneliness and suffering?
+
+I think I just feel simultaneously overwhelmed and exhausted
+
